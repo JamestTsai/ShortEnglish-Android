@@ -1,0 +1,7502 @@
+[
+  {
+    "id": 1001,
+    "en": "See you next time.",
+    "zh": "下次見面囉。"
+  },
+  {
+    "id": 1002,
+    "en": "How was your weekend trip?",
+    "zh": "你的週末旅行過得如何？"
+  },
+  {
+    "id": 1003,
+    "en": "We should leave early tomorrow morning.",
+    "zh": "我們明天一大早就應該動身出發。"
+  },
+  {
+    "id": 1004,
+    "en": "Look!",
+    "zh": "你看！ / 注意看！"
+  },
+  {
+    "id": 1005,
+    "en": "It's late.",
+    "zh": "時間晚了。"
+  },
+  {
+    "id": 1006,
+    "en": "I need help.",
+    "zh": "我需要幫忙。"
+  },
+  {
+    "id": 1007,
+    "en": "Have a good day.",
+    "zh": "祝你有美好一天。"
+  },
+  {
+    "id": 1008,
+    "en": "Can I have the bill?",
+    "zh": "可以給我買單帳單嗎？"
+  },
+  {
+    "id": 1009,
+    "en": "How long does this take usually?",
+    "zh": "這項流程通常需要花費多長時間？"
+  },
+  {
+    "id": 1010,
+    "en": "Listen!",
+    "zh": "仔細聽！"
+  },
+  {
+    "id": 1011,
+    "en": "It's early.",
+    "zh": "時間還早。"
+  },
+  {
+    "id": 1012,
+    "en": "Do your best.",
+    "zh": "盡你全力。"
+  },
+  {
+    "id": 1013,
+    "en": "Are you ready now?",
+    "zh": "你現在準備好了嗎？"
+  },
+  {
+    "id": 1014,
+    "en": "I would like some water.",
+    "zh": "我想要喝一點開水。"
+  },
+  {
+    "id": 1015,
+    "en": "I really appreciate your kind help.",
+    "zh": "我真心非常感激你提供的熱心幫助。"
+  },
+  {
+    "id": 1016,
+    "en": "Run!",
+    "zh": "快跑！"
+  },
+  {
+    "id": 1017,
+    "en": "It's cold.",
+    "zh": "好冷喔。"
+  },
+  {
+    "id": 1018,
+    "en": "Never give up!",
+    "zh": "絕不輕言放棄！"
+  },
+  {
+    "id": 1019,
+    "en": "Time is running out.",
+    "zh": "時間快要不夠了。"
+  },
+  {
+    "id": 1020,
+    "en": "Could you repeat that please?",
+    "zh": "能否請您再說一遍？"
+  },
+  {
+    "id": 1021,
+    "en": "Can I try this jacket on?",
+    "zh": "我可以試穿看看這件外套嗎？"
+  },
+  {
+    "id": 1022,
+    "en": "Help!",
+    "zh": "救命！ / 幫忙！"
+  },
+  {
+    "id": 1023,
+    "en": "It's hot.",
+    "zh": "好熱喔。"
+  },
+  {
+    "id": 1024,
+    "en": "I miss you.",
+    "zh": "我很想念你。"
+  },
+  {
+    "id": 1025,
+    "en": "Take care of yourself.",
+    "zh": "好好照顧你自己。"
+  },
+  {
+    "id": 1026,
+    "en": "Nice to see you again.",
+    "zh": "很高興再次見到你。"
+  },
+  {
+    "id": 1027,
+    "en": "The food tastes extremely good here.",
+    "zh": "這裡的食物味道真的好極了。"
+  },
+  {
+    "id": 1028,
+    "en": "Jump!",
+    "zh": "跳！"
+  },
+  {
+    "id": 1029,
+    "en": "It's mine.",
+    "zh": "這是我的。"
+  },
+  {
+    "id": 1030,
+    "en": "See you later.",
+    "zh": "回頭見。"
+  },
+  {
+    "id": 1031,
+    "en": "You look great today.",
+    "zh": "你今天氣色真好。"
+  },
+  {
+    "id": 1032,
+    "en": "How can I help you?",
+    "zh": "我有什麼能為您服務？"
+  },
+  {
+    "id": 1033,
+    "en": "Do you speak any foreign languages?",
+    "zh": "你平時會說任何外國語言嗎？"
+  },
+  {
+    "id": 1034,
+    "en": "Speak.",
+    "zh": "請說。 / 說吧。"
+  },
+  {
+    "id": 1035,
+    "en": "It's yours.",
+    "zh": "這是你的。"
+  },
+  {
+    "id": 1036,
+    "en": "See you soon.",
+    "zh": "很快再見。"
+  },
+  {
+    "id": 1037,
+    "en": "What time is it?",
+    "zh": "現在究竟幾點了？"
+  },
+  {
+    "id": 1038,
+    "en": "What do you think about?",
+    "zh": "你對這件事有何看法？"
+  },
+  {
+    "id": 1039,
+    "en": "She always smiles at everyone warmly.",
+    "zh": "她總是帶著溫暖的微笑面對大家。"
+  },
+  {
+    "id": 1040,
+    "en": "Come.",
+    "zh": "過來。"
+  },
+  {
+    "id": 1041,
+    "en": "It's safe.",
+    "zh": "這很安全。"
+  },
+  {
+    "id": 1042,
+    "en": "Have a try.",
+    "zh": "試試看吧。"
+  },
+  {
+    "id": 1043,
+    "en": "How much is it?",
+    "zh": "這個售價是多少？"
+  },
+  {
+    "id": 1044,
+    "en": "Please take a seat here.",
+    "zh": "請在這邊這個位置就座。"
+  },
+  {
+    "id": 1045,
+    "en": "They arrived at the airport safely.",
+    "zh": "他們已經平安抵達國際機場了。"
+  },
+  {
+    "id": 1046,
+    "en": "Relax.",
+    "zh": "放輕鬆。"
+  },
+  {
+    "id": 1047,
+    "en": "It's working.",
+    "zh": "起作用了 / 運作正常。"
+  },
+  {
+    "id": 1048,
+    "en": "Give me five!",
+    "zh": "擊掌慶祝！"
+  },
+  {
+    "id": 1049,
+    "en": "This is my friend.",
+    "zh": "這一位是我的朋友。"
+  },
+  {
+    "id": 1050,
+    "en": "Are you coming with us?",
+    "zh": "你要跟我們一起去嗎？"
+  },
+  {
+    "id": 1051,
+    "en": "Turn off the lights before leaving.",
+    "zh": "離開房間前請務必將電燈關掉。"
+  },
+  {
+    "id": 1052,
+    "en": "Breathe.",
+    "zh": "深呼吸。"
+  },
+  {
+    "id": 1053,
+    "en": "It's broken.",
+    "zh": "它壞掉了。"
+  },
+  {
+    "id": 1054,
+    "en": "Are you okay?",
+    "zh": "你還好嗎？"
+  },
+  {
+    "id": 1055,
+    "en": "Please sit down here.",
+    "zh": "請在這邊坐下。"
+  },
+  {
+    "id": 1056,
+    "en": "I have a big dream.",
+    "zh": "我懷抱著一個遠大夢想。"
+  },
+  {
+    "id": 1057,
+    "en": "He works very hard every day.",
+    "zh": "他每天都非常勤奮努力地工作。"
+  },
+  {
+    "id": 1058,
+    "en": "Smile.",
+    "zh": "笑一個。"
+  },
+  {
+    "id": 1059,
+    "en": "It's time.",
+    "zh": "時間到了。"
+  },
+  {
+    "id": 1060,
+    "en": "Are you sure?",
+    "zh": "你確定嗎？"
+  },
+  {
+    "id": 1061,
+    "en": "Wait for me please.",
+    "zh": "請稍微等等我。"
+  },
+  {
+    "id": 1062,
+    "en": "This tastes very good indeed.",
+    "zh": "這嚐起來確實非常美味。"
+  },
+  {
+    "id": 1063,
+    "en": "May I borrow your pen please?",
+    "zh": "可以借用一下您的原子筆嗎？"
+  },
+  {
+    "id": 1064,
+    "en": "Enter.",
+    "zh": "請進。"
+  },
+  {
+    "id": 1065,
+    "en": "It's over.",
+    "zh": "結束了。"
+  },
+  {
+    "id": 1066,
+    "en": "Is that so?",
+    "zh": "是這樣嗎？"
+  },
+  {
+    "id": 1067,
+    "en": "I have no idea.",
+    "zh": "我毫無頭緒。"
+  },
+  {
+    "id": 1068,
+    "en": "See you at the station.",
+    "zh": "我們在火車站碰面吧。"
+  },
+  {
+    "id": 1069,
+    "en": "The sun shines brightly today always.",
+    "zh": "今日燦爛的陽光照耀著大地。"
+  },
+  {
+    "id": 1070,
+    "en": "Leave!",
+    "zh": "離開！ / 出去！"
+  },
+  {
+    "id": 1071,
+    "en": "It's simple.",
+    "zh": "這很單純簡單。"
+  },
+  {
+    "id": 1072,
+    "en": "That sounds great!",
+    "zh": "聽起來太棒了！"
+  },
+  {
+    "id": 1073,
+    "en": "Is everything all right?",
+    "zh": "一切都還順利嗎？"
+  },
+  {
+    "id": 1074,
+    "en": "The train is coming now.",
+    "zh": "火車現在正緩緩進站。"
+  },
+  {
+    "id": 1075,
+    "en": "I need to buy some groceries.",
+    "zh": "我需要去採買一些日常雜貨。"
+  },
+  {
+    "id": 1076,
+    "en": "Freeze!",
+    "zh": "不許動！"
+  },
+  {
+    "id": 1077,
+    "en": "It's wonderful.",
+    "zh": "真是太棒了。"
+  },
+  {
+    "id": 1078,
+    "en": "That looks good.",
+    "zh": "看起來真不錯。"
+  },
+  {
+    "id": 1079,
+    "en": "I feel much better.",
+    "zh": "我感覺好多了。"
+  },
+  {
+    "id": 1080,
+    "en": "Can you speak more slowly?",
+    "zh": "您能說得稍微慢一點嗎？"
+  },
+  {
+    "id": 1081,
+    "en": "Please wait here for few minutes.",
+    "zh": "請在這邊稍微等待幾分鐘時間。"
+  },
+  {
+    "id": 1082,
+    "en": "Duck!",
+    "zh": "快低頭！ / 閃開！"
+  },
+  {
+    "id": 1083,
+    "en": "It's free.",
+    "zh": "這是免費的。"
+  },
+  {
+    "id": 1084,
+    "en": "It tastes delicious.",
+    "zh": "嚐起來真美味。"
+  },
+  {
+    "id": 1085,
+    "en": "This book is great.",
+    "zh": "這本書非常棒。"
+  },
+  {
+    "id": 1086,
+    "en": "I lost my car keys.",
+    "zh": "我不小心遺失了車鑰匙。"
+  },
+  {
+    "id": 1087,
+    "en": "Could you speak a little louder?",
+    "zh": "您能把聲音說得稍微大一點嗎？"
+  },
+  {
+    "id": 1088,
+    "en": "Hurry!",
+    "zh": "快點！"
+  },
+  {
+    "id": 1089,
+    "en": "It's ready.",
+    "zh": "準備好了。"
+  },
+  {
+    "id": 1090,
+    "en": "I feel tired.",
+    "zh": "我感到疲倦。"
+  },
+  {
+    "id": 1091,
+    "en": "The food is cold.",
+    "zh": "這食物已經涼了。"
+  },
+  {
+    "id": 1092,
+    "en": "The weather is getting cold.",
+    "zh": "天氣正在逐漸變冷當中。"
+  },
+  {
+    "id": 1093,
+    "en": "We must protect our natural environment.",
+    "zh": "我們必須攜手保護我們自然環境。"
+  },
+  {
+    "id": 1094,
+    "en": "Watch!",
+    "zh": "注意看！ / 當心！"
+  },
+  {
+    "id": 1095,
+    "en": "It's done.",
+    "zh": "已經完成了。"
+  },
+  {
+    "id": 1096,
+    "en": "I feel great.",
+    "zh": "我感覺好極了。"
+  },
+  {
+    "id": 1097,
+    "en": "Can I go now?",
+    "zh": "我現在能走了嗎？"
+  },
+  {
+    "id": 1098,
+    "en": "She works in a bank.",
+    "zh": "她在一家銀行機構上班。"
+  },
+  {
+    "id": 1099,
+    "en": "Never give up on your dreams.",
+    "zh": "永遠不要放棄心中所懷抱的夢想。"
+  },
+  {
+    "id": 1100,
+    "en": "Begin.",
+    "zh": "開始。"
+  },
+  {
+    "id": 1101,
+    "en": "I'm ready.",
+    "zh": "我準備好了。"
+  },
+  {
+    "id": 1102,
+    "en": "Make a wish.",
+    "zh": "許個願望吧。"
+  },
+  {
+    "id": 1103,
+    "en": "Let me help you.",
+    "zh": "讓我來幫助你。"
+  },
+  {
+    "id": 1104,
+    "en": "Turn left at next corner.",
+    "zh": "在下一個轉角向左轉。"
+  },
+  {
+    "id": 1105,
+    "en": "Music brings joy to our hearts.",
+    "zh": "動聽音樂能為心靈帶來無限歡樂。"
+  },
+  {
+    "id": 1106,
+    "en": "Start.",
+    "zh": "開始吧。"
+  },
+  {
+    "id": 1107,
+    "en": "I'm sorry.",
+    "zh": "非常抱歉。"
+  },
+  {
+    "id": 1108,
+    "en": "What a surprise!",
+    "zh": "真令人驚訝！"
+  },
+  {
+    "id": 1109,
+    "en": "Keep up good work.",
+    "zh": "繼續保持優秀表現。"
+  },
+  {
+    "id": 1110,
+    "en": "Keep your eyes wide open.",
+    "zh": "把你的雙眼張大看清楚。"
+  },
+  {
+    "id": 1111,
+    "en": "Practice will make your skills better.",
+    "zh": "持續勤加練習會讓你的技能更精進。"
+  },
+  {
+    "id": 1112,
+    "en": "Push!",
+    "zh": "推！"
+  },
+  {
+    "id": 1113,
+    "en": "I'm happy.",
+    "zh": "我很開心。"
+  },
+  {
+    "id": 1114,
+    "en": "What a pity!",
+    "zh": "真是太可惜了！"
+  },
+  {
+    "id": 1115,
+    "en": "I want to sleep.",
+    "zh": "我想去睡覺了。"
+  },
+  {
+    "id": 1116,
+    "en": "Hard work brings good results.",
+    "zh": "辛勤努力終會帶來豐碩成果。"
+  },
+  {
+    "id": 1117,
+    "en": "Reading books makes our minds richer.",
+    "zh": "廣泛閱讀書籍會讓我們的心智更豐盛。"
+  },
+  {
+    "id": 1118,
+    "en": "Pull!",
+    "zh": "拉！"
+  },
+  {
+    "id": 1119,
+    "en": "I'm hungry.",
+    "zh": "我肚子餓了。"
+  },
+  {
+    "id": 1120,
+    "en": "What went wrong?",
+    "zh": "哪裡出錯了？"
+  },
+  {
+    "id": 1121,
+    "en": "Call me back later.",
+    "zh": "晚點再回電給我。"
+  },
+  {
+    "id": 1122,
+    "en": "Time flies when having fun.",
+    "zh": "歡樂時光總是過得飛快。"
+  },
+  {
+    "id": 1123,
+    "en": "Health is more important than wealth.",
+    "zh": "身體健康遠比累積財富來得更重要。"
+  },
+  {
+    "id": 1124,
+    "en": "Think.",
+    "zh": "仔細想想。"
+  },
+  {
+    "id": 1125,
+    "en": "I'm thirsty.",
+    "zh": "我口渴了。"
+  },
+  {
+    "id": 1126,
+    "en": "I got it.",
+    "zh": "我懂了。 / 我搞定了。"
+  },
+  {
+    "id": 1127,
+    "en": "Send me a message.",
+    "zh": "傳一則訊息給我。"
+  },
+  {
+    "id": 1128,
+    "en": "Music makes people very happy.",
+    "zh": "音樂能讓身心感到無比快樂。"
+  },
+  {
+    "id": 1129,
+    "en": "Time is the most valuable treasure.",
+    "zh": "時間是這世上最珍貴無價的寶藏。"
+  },
+  {
+    "id": 1130,
+    "en": "Follow.",
+    "zh": "跟我來。"
+  },
+  {
+    "id": 1131,
+    "en": "I'm tired.",
+    "zh": "我好累喔。"
+  },
+  {
+    "id": 1132,
+    "en": "I believe you.",
+    "zh": "我相信你說的話。"
+  },
+  {
+    "id": 1133,
+    "en": "Listen to the music.",
+    "zh": "聆聽這首音樂吧。"
+  },
+  {
+    "id": 1134,
+    "en": "Reading books expands our mind.",
+    "zh": "閱讀各類書籍能開拓我們眼界。"
+  },
+  {
+    "id": 1135,
+    "en": "Always be kind to older people.",
+    "zh": "無論何時都要對長輩保持尊敬友善。"
+  },
+  {
+    "id": 1136,
+    "en": "Stay.",
+    "zh": "留下來。"
+  },
+  {
+    "id": 1137,
+    "en": "I'm sleepy.",
+    "zh": "我好想睡覺。"
+  },
+  {
+    "id": 1138,
+    "en": "I respect you.",
+    "zh": "我打從心底尊敬你。"
+  },
+  {
+    "id": 1139,
+    "en": "Open the front window.",
+    "zh": "打開前面的窗戶。"
+  },
+  {
+    "id": 1140,
+    "en": "Health is our greatest wealth.",
+    "zh": "身體健康是我們最寶貴財富。"
+  },
+  {
+    "id": 1141,
+    "en": "Listen carefully to the teacher today.",
+    "zh": "今天上課要仔細聆聽老師講課。"
+  },
+  {
+    "id": 1142,
+    "en": "Quiet!",
+    "zh": "安靜！"
+  },
+  {
+    "id": 1143,
+    "en": "I'm fine.",
+    "zh": "我很好別擔心。"
+  },
+  {
+    "id": 1144,
+    "en": "Count on me.",
+    "zh": "包在我身上。"
+  },
+  {
+    "id": 1145,
+    "en": "Close the back door.",
+    "zh": "關上後面的門。"
+  },
+  {
+    "id": 1146,
+    "en": "Practice makes everything much easier.",
+    "zh": "不斷練習會讓所有事情變簡單。"
+  },
+  {
+    "id": 1147,
+    "en": "Drink water to stay very healthy.",
+    "zh": "多補充水分以保持身體健康活力。"
+  },
+  {
+    "id": 1148,
+    "en": "Silence!",
+    "zh": "肅靜！"
+  },
+  {
+    "id": 1149,
+    "en": "I'm home.",
+    "zh": "我回到家了。"
+  },
+  {
+    "id": 1150,
+    "en": "Fill it up.",
+    "zh": "請加滿。"
+  },
+  {
+    "id": 1151,
+    "en": "Turn off your phone.",
+    "zh": "關掉你的手機。"
+  },
+  {
+    "id": 1152,
+    "en": "Always remember to smile often.",
+    "zh": "永遠記得要經常面帶微笑。"
+  },
+  {
+    "id": 1153,
+    "en": "Sleep early to feel energetic tomorrow.",
+    "zh": "今晚早點就寢明天才能精神飽滿。"
+  },
+  {
+    "id": 1154,
+    "en": "Focus.",
+    "zh": "專注集中。"
+  },
+  {
+    "id": 1155,
+    "en": "I'm here.",
+    "zh": "我在這裡。"
+  },
+  {
+    "id": 1156,
+    "en": "Keep the change.",
+    "zh": "不用找錢了。"
+  },
+  {
+    "id": 1157,
+    "en": "Turn on the lamp.",
+    "zh": "打開檯燈開關。"
+  },
+  {
+    "id": 1158,
+    "en": "Love is all you need.",
+    "zh": "愛就是你所需要的一切。"
+  },
+  {
+    "id": 1159,
+    "en": "Exercise helps us reduce daily stress.",
+    "zh": "規律運動能有效幫助我們排解日常壓力。"
+  },
+  {
+    "id": 1160,
+    "en": "Try.",
+    "zh": "試試看。"
+  },
+  {
+    "id": 1161,
+    "en": "I'm back.",
+    "zh": "我回來了。"
+  },
+  {
+    "id": 1162,
+    "en": "Pass me that.",
+    "zh": "把那個遞給我。"
+  },
+  {
+    "id": 1163,
+    "en": "Drink some warm water.",
+    "zh": "喝一點溫開水。"
+  },
+  {
+    "id": 1164,
+    "en": "Everything happens for a reason.",
+    "zh": "事出必有因凡事皆有其道理。"
+  },
+  {
+    "id": 1165,
+    "en": "Laughter makes everyone feel much better.",
+    "zh": "開懷笑聲能讓所有人心情好轉許多。"
+  },
+  {
+    "id": 1166,
+    "en": "Stand.",
+    "zh": "起立。"
+  },
+  {
+    "id": 1167,
+    "en": "I'm busy.",
+    "zh": "我現在正忙。"
+  },
+  {
+    "id": 1168,
+    "en": "Turn it on.",
+    "zh": "把開關打開。"
+  },
+  {
+    "id": 1169,
+    "en": "Eat your fresh breakfast.",
+    "zh": "吃你新鮮的早餐。"
+  },
+  {
+    "id": 1170,
+    "en": "Stay hungry and stay foolish.",
+    "zh": "求知若飢並且虛懷若谷。"
+  },
+  {
+    "id": 1171,
+    "en": "Every problem has a good solution.",
+    "zh": "每一個難題背後都有妥善解決之道。"
+  },
+  {
+    "id": 1172,
+    "en": "Sit.",
+    "zh": "請坐。"
+  },
+  {
+    "id": 1173,
+    "en": "I'm free.",
+    "zh": "我有空閒。"
+  },
+  {
+    "id": 1174,
+    "en": "Turn it off.",
+    "zh": "把電源關掉。"
+  },
+  {
+    "id": 1175,
+    "en": "Take a deep breath.",
+    "zh": "做個深呼吸吧。"
+  },
+  {
+    "id": 1176,
+    "en": "You can do this easily.",
+    "zh": "你一定能輕鬆搞定這件事。"
+  },
+  {
+    "id": 1177,
+    "en": "Believe in yourself and your abilities.",
+    "zh": "堅定相信你自己以及你所擁有的能力。"
+  },
+  {
+    "id": 1178,
+    "en": "Sleep.",
+    "zh": "去睡吧。"
+  },
+  {
+    "id": 1179,
+    "en": "I'm lucky.",
+    "zh": "我真幸運。"
+  },
+  {
+    "id": 1180,
+    "en": "Pick it up.",
+    "zh": "把它撿起來。"
+  },
+  {
+    "id": 1181,
+    "en": "Stay away from fire.",
+    "zh": "遠離火源危險。"
+  },
+  {
+    "id": 1182,
+    "en": "Never stop learning new things.",
+    "zh": "永遠不要停止學習各類新事物。"
+  },
+  {
+    "id": 1183,
+    "en": "Hard work will always pay off.",
+    "zh": "辛勤的努力最終一定會得到回報。"
+  },
+  {
+    "id": 1184,
+    "en": "Wake.",
+    "zh": "醒醒。"
+  },
+  {
+    "id": 1185,
+    "en": "I'm sure.",
+    "zh": "我很確定肯定。"
+  },
+  {
+    "id": 1186,
+    "en": "Put it down.",
+    "zh": "把它放下。"
+  },
+  {
+    "id": 1187,
+    "en": "Walk on the sidewalk.",
+    "zh": "走在人行道上。"
+  },
+  {
+    "id": 1188,
+    "en": "Honesty is always the best.",
+    "zh": "誠實永遠是最上策的選擇。"
+  },
+  {
+    "id": 1189,
+    "en": "Enjoy the journey and have fun.",
+    "zh": "享受這趟旅程並且盡情玩得開心。"
+  },
+  {
+    "id": 1190,
+    "en": "Eat.",
+    "zh": "吃吧。"
+  },
+  {
+    "id": 1191,
+    "en": "I'm lost.",
+    "zh": "我迷路了。"
+  },
+  {
+    "id": 1192,
+    "en": "Throw it away.",
+    "zh": "把它丟掉吧。"
+  },
+  {
+    "id": 1193,
+    "en": "Cross the street carefully.",
+    "zh": "小心翼翼過馬路。"
+  },
+  {
+    "id": 1194,
+    "en": "Good things take some time.",
+    "zh": "美好的事物往往需要時間醞釀。"
+  },
+  {
+    "id": 1195,
+    "en": "Stay positive even in difficult times.",
+    "zh": "即便處在困難困頓時期也要保持樂觀。"
+  },
+  {
+    "id": 1196,
+    "en": "Drink.",
+    "zh": "喝吧。"
+  },
+  {
+    "id": 1197,
+    "en": "I'm done.",
+    "zh": "我做完了 / 我受夠了。"
+  },
+  {
+    "id": 1198,
+    "en": "Clean your room.",
+    "zh": "打掃你的房間。"
+  },
+  {
+    "id": 1199,
+    "en": "Follow the traffic rules.",
+    "zh": "遵守交通法規。"
+  },
+  {
+    "id": 1200,
+    "en": "Believe in your inner strength.",
+    "zh": "深信你內心深處具備的力量。"
+  },
+  {
+    "id": 1201,
+    "en": "Kind words can heal hurting hearts.",
+    "zh": "溫柔體貼的言語能撫平受創的心靈。"
+  },
+  {
+    "id": 1202,
+    "en": "Drive.",
+    "zh": "開車吧。"
+  },
+  {
+    "id": 1203,
+    "en": "Don't cry.",
+    "zh": "別哭了。"
+  },
+  {
+    "id": 1204,
+    "en": "Brush your teeth.",
+    "zh": "刷刷你的牙齒。"
+  },
+  {
+    "id": 1205,
+    "en": "Wear your safety belt.",
+    "zh": "繫好你的安全帶。"
+  },
+  {
+    "id": 1206,
+    "en": "Action speaks louder than words.",
+    "zh": "實際行動往往勝過千言萬語。"
+  },
+  {
+    "id": 1207,
+    "en": "True friendship lasts for whole lifetime.",
+    "zh": "真正的友誼將會持續一整個人生。"
+  },
+  {
+    "id": 1208,
+    "en": "Walk.",
+    "zh": "用走的吧。"
+  },
+  {
+    "id": 1209,
+    "en": "Don't ask.",
+    "zh": "別問了。"
+  },
+  {
+    "id": 1210,
+    "en": "Wash your hands.",
+    "zh": "去洗洗手吧。"
+  },
+  {
+    "id": 1211,
+    "en": "Fasten your seat belt.",
+    "zh": "扣好座椅安全帶。"
+  },
+  {
+    "id": 1212,
+    "en": "Every cloud has silver lining.",
+    "zh": "黑暗困境背後總有一線生機。"
+  },
+  {
+    "id": 1213,
+    "en": "Share your knowledge with younger students.",
+    "zh": "無私將你的專業知識分享給學弟妹。"
+  },
+  {
+    "id": 1214,
+    "en": "Pray.",
+    "zh": "祈禱吧。"
+  },
+  {
+    "id": 1215,
+    "en": "Don't panic.",
+    "zh": "別驚慌失措。"
+  },
+  {
+    "id": 1216,
+    "en": "Lock the door.",
+    "zh": "記得鎖好房門。"
+  },
+  {
+    "id": 1217,
+    "en": "Put on your shoes.",
+    "zh": "穿上你的鞋子。"
+  },
+  {
+    "id": 1218,
+    "en": "Better late than never arrive.",
+    "zh": "遲到總比永遠不到要好得多。"
+  },
+  {
+    "id": 1219,
+    "en": "Look on the bright side always.",
+    "zh": "遇到事情永遠都要往光明面看。"
+  },
+  {
+    "id": 1220,
+    "en": "Dance.",
+    "zh": "跳舞吧。"
+  },
+  {
+    "id": 1221,
+    "en": "Don't touch!",
+    "zh": "別碰！"
+  },
+  {
+    "id": 1222,
+    "en": "Open your eyes.",
+    "zh": "睜開你的眼睛。"
+  },
+  {
+    "id": 1223,
+    "en": "Take off your hat.",
+    "zh": "脫下你的帽子。"
+  },
+  {
+    "id": 1224,
+    "en": "Knowledge gives us real power.",
+    "zh": "扎實的知識能賦予我們真實力量。"
+  },
+  {
+    "id": 1225,
+    "en": "Peace begins with a simple smile.",
+    "zh": "心中的和平始於一個簡單溫暖微笑。"
+  },
+  {
+    "id": 1226,
+    "en": "Sing.",
+    "zh": "唱歌吧。"
+  },
+  {
+    "id": 1227,
+    "en": "Don't move!",
+    "zh": "別動！"
+  },
+  {
+    "id": 1228,
+    "en": "Close your eyes.",
+    "zh": "閉上你的眼睛。"
+  },
+  {
+    "id": 1229,
+    "en": "Comb your messy hair.",
+    "zh": "梳理凌亂的頭髮。"
+  },
+  {
+    "id": 1230,
+    "en": "Early birds catch sweet worms.",
+    "zh": "早起的小鳥總能捉到肥美蟲兒。"
+  },
+  {
+    "id": 1231,
+    "en": "Action speaks much louder than words.",
+    "zh": "實際行動的聲音遠勝過空洞承諾。"
+  },
+  {
+    "id": 1232,
+    "en": "Read.",
+    "zh": "讀出來。 / 閱讀吧。"
+  },
+  {
+    "id": 1233,
+    "en": "Don't stop!",
+    "zh": "別停下來！"
+  },
+  {
+    "id": 1234,
+    "en": "Hold my hand.",
+    "zh": "牽好我的手。"
+  },
+  {
+    "id": 1235,
+    "en": "Wash your dirty hands.",
+    "zh": "洗淨髒兮兮的雙手。"
+  },
+  {
+    "id": 1236,
+    "en": "Take life one day time.",
+    "zh": "過好當下每一天即可。"
+  },
+  {
+    "id": 1237,
+    "en": "Take good care of your health.",
+    "zh": "平日務必好好照顧自己的身體健康。"
+  },
+  {
+    "id": 1238,
+    "en": "Write.",
+    "zh": "寫下來。"
+  },
+  {
+    "id": 1239,
+    "en": "Don't forget.",
+    "zh": "別忘記了喔。"
+  },
+  {
+    "id": 1240,
+    "en": "Save some money.",
+    "zh": "存一點錢吧。"
+  },
+  {
+    "id": 1241,
+    "en": "Pack your heavy bag.",
+    "zh": "打包你的沉重背包。"
+  },
+  {
+    "id": 1242,
+    "en": "Enjoy every single moment today.",
+    "zh": "享受今天每一個珍貴的當下。"
+  },
+  {
+    "id": 1243,
+    "en": "Eat healthy food every single day.",
+    "zh": "每天都堅持攝取健康且營養的食物。"
+  },
+  {
+    "id": 1244,
+    "en": "Choose.",
+    "zh": "挑選一個。"
+  },
+  {
+    "id": 1245,
+    "en": "Don't shout.",
+    "zh": "請別大聲叫喊。"
+  },
+  {
+    "id": 1246,
+    "en": "Spend it wisely.",
+    "zh": "明智地花這筆錢。"
+  },
+  {
+    "id": 1247,
+    "en": "Check the weather forecast.",
+    "zh": "查詢最新的天氣預報。"
+  },
+  {
+    "id": 1248,
+    "en": "Friends are like bright stars.",
+    "zh": "真摯朋友就像夜空中璀璨星辰。"
+  },
+  {
+    "id": 1249,
+    "en": "Walk in the park every morning.",
+    "zh": "每天清晨都要走進公園悠閒散步。"
+  },
+  {
+    "id": 1250,
+    "en": "Decide.",
+    "zh": "做決定吧。"
+  },
+  {
+    "id": 1251,
+    "en": "Don't rush.",
+    "zh": "慢慢來別著急。"
+  },
+  {
+    "id": 1252,
+    "en": "Read this book.",
+    "zh": "讀讀這本書。"
+  },
+  {
+    "id": 1253,
+    "en": "Buy some fresh fruit.",
+    "zh": "買一些新鮮水果。"
+  },
+  {
+    "id": 1254,
+    "en": "Patience brings peace of mind.",
+    "zh": "極大耐心能為心靈帶來寧靜。"
+  },
+  {
+    "id": 1255,
+    "en": "Write your goals on paper clearly.",
+    "zh": "將你的未來目標清楚寫在紙張上。"
+  },
+  {
+    "id": 1256,
+    "en": "Attack!",
+    "zh": "進攻！"
+  },
+  {
+    "id": 1257,
+    "en": "That's right.",
+    "zh": "沒錯正是如此。"
+  },
+  {
+    "id": 1258,
+    "en": "Mind your head.",
+    "zh": "小心撞到頭部。"
+  },
+  {
+    "id": 1259,
+    "en": "Cook a nice meal.",
+    "zh": "煮一頓美味佳餚。"
+  },
+  {
+    "id": 1260,
+    "en": "Follow your own true path.",
+    "zh": "追隨你內心所認同的真正道路。"
+  },
+  {
+    "id": 1261,
+    "en": "Read a chapter before going bed.",
+    "zh": "每晚上床就寢前閱讀一個精采章節。"
+  },
+  {
+    "id": 1262,
+    "en": "Retreat!",
+    "zh": "撤退！"
+  },
+  {
+    "id": 1263,
+    "en": "That's great!",
+    "zh": "那太棒了！"
+  },
+  {
+    "id": 1264,
+    "en": "Taste this soup.",
+    "zh": "嚐嚐這碗湯。"
+  },
+  {
+    "id": 1265,
+    "en": "Bake a sweet pie.",
+    "zh": "烘烤甜美派餅。"
+  },
+  {
+    "id": 1266,
+    "en": "Dream big and work hard.",
+    "zh": "懷抱宏大理想並努力付諸實踐。"
+  },
+  {
+    "id": 1267,
+    "en": "Save some money for rainy days.",
+    "zh": "為不可預測的未來儲蓄未雨綢繆。"
+  },
+  {
+    "id": 1268,
+    "en": "Surrender!",
+    "zh": "投降吧！"
+  },
+  {
+    "id": 1269,
+    "en": "That's cool.",
+    "zh": "那真酷。"
+  },
+  {
+    "id": 1270,
+    "en": "Wear a coat.",
+    "zh": "穿上外套吧。"
+  },
+  {
+    "id": 1271,
+    "en": "Enjoy your free time.",
+    "zh": "享受你的閒暇時光。"
+  },
+  {
+    "id": 1272,
+    "en": "Keep moving toward your goal.",
+    "zh": "堅持不懈朝著你的目標邁進。"
+  },
+  {
+    "id": 1273,
+    "en": "Drive carefully during heavy rain storms.",
+    "zh": "在大暴雨滂沱天氣中駕駛務必小心。"
+  },
+  {
+    "id": 1274,
+    "en": "Fire!",
+    "zh": "開火！ / 失火了！"
+  },
+  {
+    "id": 1275,
+    "en": "That's fine.",
+    "zh": "那樣可以沒問題。"
+  },
+  {
+    "id": 1276,
+    "en": "Take an umbrella.",
+    "zh": "帶一把雨傘吧。"
+  },
+  {
+    "id": 1277,
+    "en": "Have a safe trip.",
+    "zh": "祝你旅途一路平安。"
+  },
+  {
+    "id": 1278,
+    "en": "Never give up your passion.",
+    "zh": "永遠不要放棄你所熱愛的事物。"
+  },
+  {
+    "id": 1279,
+    "en": "Fasten your seatbelt before we drive.",
+    "zh": "在我們啟動車輛前請繫好安全帶。"
+  },
+  {
+    "id": 1280,
+    "en": "Shoot!",
+    "zh": "射門！ / 說吧！"
+  },
+  {
+    "id": 1281,
+    "en": "That's all.",
+    "zh": "就這樣，沒別的了。"
+  },
+  {
+    "id": 1282,
+    "en": "Call an ambulance!",
+    "zh": "快叫救護車！"
+  },
+  {
+    "id": 1283,
+    "en": "Welcome to our home.",
+    "zh": "歡迎來到我們家。"
+  },
+  {
+    "id": 1284,
+    "en": "Kindness always makes world better.",
+    "zh": "由衷善良總能讓世界變得更美好。"
+  },
+  {
+    "id": 1285,
+    "en": "Check your passport before the flight.",
+    "zh": "在搭乘航班前再次檢查你的護照。"
+  },
+  {
+    "id": 1286,
+    "en": "Aim.",
+    "zh": "瞄準。"
+  },
+  {
+    "id": 1287,
+    "en": "That's enough.",
+    "zh": "那樣就足夠了。"
+  },
+  {
+    "id": 1288,
+    "en": "Call the police!",
+    "zh": "快報警求助！"
+  },
+  {
+    "id": 1289,
+    "en": "Thank you very much.",
+    "zh": "非常感謝你的善意。"
+  },
+  {
+    "id": 1290,
+    "en": "Forgive and forget past pain.",
+    "zh": "原諒過錯並淡忘過往的傷痛。"
+  },
+  {
+    "id": 1291,
+    "en": "Pack your luggage the night before.",
+    "zh": "在出發前一晚就把行李收拾妥當。"
+  },
+  {
+    "id": 1292,
+    "en": "Charge!",
+    "zh": "衝鋒！"
+  },
+  {
+    "id": 1293,
+    "en": "You're right.",
+    "zh": "你是對的。"
+  },
+  {
+    "id": 1294,
+    "en": "Ring the bell.",
+    "zh": "按一下門鈴。"
+  },
+  {
+    "id": 1295,
+    "en": "Please forgive my mistake.",
+    "zh": "請原諒我的過失。"
+  },
+  {
+    "id": 1296,
+    "en": "Today is a brand day.",
+    "zh": "今天是一個嶄新開始的一天。"
+  },
+  {
+    "id": 1297,
+    "en": "Water the plants in the garden.",
+    "zh": "記得幫花園裡的各類盆栽植物澆水。"
+  },
+  {
+    "id": 1298,
+    "en": "Halt!",
+    "zh": "停步！ / 站住！"
+  },
+  {
+    "id": 1299,
+    "en": "We're here.",
+    "zh": "我們到了。"
+  },
+  {
+    "id": 1300,
+    "en": "Knock the door.",
+    "zh": "敲一敲房門。"
+  },
+  {
+    "id": 1301,
+    "en": "Everything will be fine.",
+    "zh": "一切都會好起來的。"
+  },
+  {
+    "id": 1302,
+    "en": "Smile can brighten dark days.",
+    "zh": "真誠微笑能照亮陰霾晦暗日子。"
+  },
+  {
+    "id": 1303,
+    "en": "Feed your cute dog twice daily.",
+    "zh": "每天按時餵養你可愛的狗狗兩餐。"
+  },
+  {
+    "id": 1304,
+    "en": "March!",
+    "zh": "齊步走！"
+  },
+  {
+    "id": 1305,
+    "en": "We're ready.",
+    "zh": "我們準備好了。"
+  },
+  {
+    "id": 1306,
+    "en": "Answer the phone.",
+    "zh": "接聽一下電話。"
+  },
+  {
+    "id": 1307,
+    "en": "Believe in your dream.",
+    "zh": "堅定相信你的夢想。"
+  },
+  {
+    "id": 1308,
+    "en": "Nature brings great deep peace.",
+    "zh": "大自然能賦予心靈深層的寧靜。"
+  },
+  {
+    "id": 1309,
+    "en": "Keep your living room very clean.",
+    "zh": "時刻保持你的起居客廳乾淨整潔。"
+  },
+  {
+    "id": 1310,
+    "en": "Salute!",
+    "zh": "敬禮！"
+  },
+  {
+    "id": 1311,
+    "en": "He's busy.",
+    "zh": "他正在忙碌中。"
+  },
+  {
+    "id": 1312,
+    "en": "Send an email.",
+    "zh": "寄一封電子郵件。"
+  },
+  {
+    "id": 1313,
+    "en": "Work for your future.",
+    "zh": "為了美好未來打拼。"
+  },
+  {
+    "id": 1314,
+    "en": "Simple life brings true joy.",
+    "zh": "簡約生活往往能帶來純粹快樂。"
+  },
+  {
+    "id": 1315,
+    "en": "Wash your hands before eating dinner.",
+    "zh": "在享用豐盛晚餐前先將手洗乾淨。"
+  },
+  {
+    "id": 1316,
+    "en": "Disperse!",
+    "zh": "解散！"
+  },
+  {
+    "id": 1317,
+    "en": "She's nice.",
+    "zh": "她為人很親切。"
+  },
+  {
+    "id": 1318,
+    "en": "Sign the contract.",
+    "zh": "在合約上簽署字。"
+  },
+  {
+    "id": 1319,
+    "en": "Study with great passion.",
+    "zh": "懷抱巨大熱情學習。"
+  },
+  {
+    "id": 1320,
+    "en": "Listen before you speak out.",
+    "zh": "在開口表達前先學會傾聽。"
+  },
+  {
+    "id": 1321,
+    "en": "Brush your teeth twice a day.",
+    "zh": "每天務必堅持刷牙兩次維護健康。"
+  },
+  {
+    "id": 1322,
+    "en": "Continue.",
+    "zh": "請繼續。"
+  },
+  {
+    "id": 1323,
+    "en": "What's new?",
+    "zh": "最近有何新鮮事？"
+  },
+  {
+    "id": 1324,
+    "en": "Pay the bill.",
+    "zh": "買單結帳。"
+  },
+  {
+    "id": 1325,
+    "en": "Read every single day.",
+    "zh": "每一天都要閱讀。"
+  },
+  {
+    "id": 1326,
+    "en": "Think before you make decisions.",
+    "zh": "在做任何重大決定前務必深思。"
+  },
+  {
+    "id": 1327,
+    "en": "Wear warm clothes during cold winter.",
+    "zh": "在寒冷嚴冬裡記得穿著保暖衣物。"
+  },
+  {
+    "id": 1328,
+    "en": "Proceed.",
+    "zh": "請進行。"
+  },
+  {
+    "id": 1329,
+    "en": "Who's that?",
+    "zh": "那是誰呀？"
+  },
+  {
+    "id": 1330,
+    "en": "Ask a question.",
+    "zh": "提出一個問題。"
+  },
+  {
+    "id": 1331,
+    "en": "Write a new story.",
+    "zh": "寫出嶄新的故事。"
+  },
+  {
+    "id": 1332,
+    "en": "Family comes first above all.",
+    "zh": "家人永遠是凌駕一切的首要順位。"
+  },
+  {
+    "id": 1333,
+    "en": "Carry an umbrella on rainy days.",
+    "zh": "遇到陰雨綿綿的日子記得隨身攜帶雨傘。"
+  },
+  {
+    "id": 1334,
+    "en": "Repeat.",
+    "zh": "請重複一遍。"
+  },
+  {
+    "id": 1335,
+    "en": "Where's that?",
+    "zh": "那是在哪裡呢？"
+  },
+  {
+    "id": 1336,
+    "en": "Answer the question.",
+    "zh": "回答這個問題。"
+  },
+  {
+    "id": 1337,
+    "en": "Sing with your heart.",
+    "zh": "用心靈盡情歌唱。"
+  },
+  {
+    "id": 1338,
+    "en": "Trust builds very strong relationships.",
+    "zh": "深厚信任能建立起極牢固的關係。"
+  },
+  {
+    "id": 1339,
+    "en": "Look both ways before crossing streets.",
+    "zh": "在穿越馬路前請務必雙向左右察看。"
+  },
+  {
+    "id": 1340,
+    "en": "Explain.",
+    "zh": "請解釋。"
+  },
+  {
+    "id": 1341,
+    "en": "Here's mine.",
+    "zh": "這是我的一份。"
+  },
+  {
+    "id": 1342,
+    "en": "Keep your promise.",
+    "zh": "信守你的諾言。"
+  },
+  {
+    "id": 1343,
+    "en": "Dance to the rhythm.",
+    "zh": "跟隨節拍跳舞吧。"
+  },
+  {
+    "id": 1344,
+    "en": "Courage overcomes all your fears.",
+    "zh": "無比勇氣能戰勝你心頭所有恐懼。"
+  },
+  {
+    "id": 1345,
+    "en": "Help others whenever you possibly can.",
+    "zh": "只要你能力所及就盡量多幫助他人。"
+  },
+  {
+    "id": 1346,
+    "en": "Understand?",
+    "zh": "懂了嗎？"
+  },
+  {
+    "id": 1347,
+    "en": "There's more.",
+    "zh": "還有更多呢。"
+  },
+  {
+    "id": 1348,
+    "en": "Be on time.",
+    "zh": "請務必準時。"
+  },
+  {
+    "id": 1349,
+    "en": "Play outside with friends.",
+    "zh": "和朋友們去戶外玩。"
+  },
+  {
+    "id": 1350,
+    "en": "Gratitude brings plenty of happiness.",
+    "zh": "常懷感恩之心能帶來充實幸福。"
+  },
+  {
+    "id": 1351,
+    "en": "Thank people who help you always.",
+    "zh": "永遠由衷感謝那些常年幫助你的人。"
+  },
+  {
+    "id": 1352,
+    "en": "Agree?",
+    "zh": "同意嗎？"
+  },
+  {
+    "id": 1353,
+    "en": "Let's go!",
+    "zh": "我們走吧！出發！"
+  },
+  {
+    "id": 1354,
+    "en": "Wake up early.",
+    "zh": "早點起床吧。"
+  },
+  {
+    "id": 1355,
+    "en": "Enjoy the fresh air.",
+    "zh": "享受戶外新鮮空氣。"
+  },
+  {
+    "id": 1356,
+    "en": "Hope shines in dark times.",
+    "zh": "希望在幽暗艱困歲月中綻放光芒。"
+  },
+  {
+    "id": 1357,
+    "en": "Apologize when you make serious mistakes.",
+    "zh": "當你犯下嚴重錯誤時要勇敢道歉。"
+  },
+  {
+    "id": 1358,
+    "en": "Ready?",
+    "zh": "準備好了嗎？"
+  },
+  {
+    "id": 1359,
+    "en": "Let's dance!",
+    "zh": "我們跳舞吧！"
+  },
+  {
+    "id": 1360,
+    "en": "Go to bed.",
+    "zh": "上床睡覺去。"
+  },
+  {
+    "id": 1361,
+    "en": "Smell the sweet flowers.",
+    "zh": "聞聞芬芳的花香。"
+  },
+  {
+    "id": 1362,
+    "en": "Peace begins with a smile.",
+    "zh": "真正的和平始於一個友善微笑。"
+  },
+  {
+    "id": 1363,
+    "en": "Forgive those who hurt your feelings.",
+    "zh": "試著原諒那些曾經傷害過你感情的人。"
+  },
+  {
+    "id": 1364,
+    "en": "Why?",
+    "zh": "為什麼？"
+  },
+  {
+    "id": 1365,
+    "en": "Let's talk.",
+    "zh": "我們談談吧。"
+  },
+  {
+    "id": 1366,
+    "en": "Study very hard.",
+    "zh": "用功讀書吧。"
+  },
+  {
+    "id": 1367,
+    "en": "Look at the stars.",
+    "zh": "抬頭看看滿天星斗。"
+  },
+  {
+    "id": 1368,
+    "en": "Learn to let things go.",
+    "zh": "學會適時放下那些執念與不甘。"
+  },
+  {
+    "id": 1369,
+    "en": "Learn from experience and grow stronger.",
+    "zh": "從過往經歷中學習讓自己變得更強大。"
+  },
+  {
+    "id": 1370,
+    "en": "What?",
+    "zh": "什麼？"
+  },
+  {
+    "id": 1371,
+    "en": "Come in.",
+    "zh": "請進。"
+  },
+  {
+    "id": 1372,
+    "en": "Practice every day.",
+    "zh": "每天都要練習。"
+  },
+  {
+    "id": 1373,
+    "en": "Watch the beautiful sunrise.",
+    "zh": "欣賞美麗的日出。"
+  },
+  {
+    "id": 1374,
+    "en": "Be proud of your progress.",
+    "zh": "為你所取得的每一點進步驕傲。"
+  },
+  {
+    "id": 1375,
+    "en": "Set a good example for kids.",
+    "zh": "為年幼的孩子們樹立起優良榜樣。"
+  },
+  {
+    "id": 1376,
+    "en": "Who?",
+    "zh": "是誰？"
+  },
+  {
+    "id": 1377,
+    "en": "Sit down.",
+    "zh": "請坐下。"
+  },
+  {
+    "id": 1378,
+    "en": "Sing a song.",
+    "zh": "唱一首歌吧。"
+  },
+  {
+    "id": 1379,
+    "en": "See the lovely sunset.",
+    "zh": "觀看迷人的落日。"
+  },
+  {
+    "id": 1380,
+    "en": "Small steps lead to success.",
+    "zh": "踏實的一小步終能累積巨大成功。"
+  },
+  {
+    "id": 1381,
+    "en": "Treat everyone with fairness and respect.",
+    "zh": "以公正與尊重的態度對待身邊每個人。"
+  },
+  {
+    "id": 1382,
+    "en": "Where?",
+    "zh": "在哪裡？"
+  },
+  {
+    "id": 1383,
+    "en": "Stand up.",
+    "zh": "請起立。"
+  },
+  {
+    "id": 1384,
+    "en": "Play the guitar.",
+    "zh": "彈奏吉他吧。"
+  },
+  {
+    "id": 1385,
+    "en": "Hear the ocean waves.",
+    "zh": "傾聽陣陣海洋波濤。"
+  },
+  {
+    "id": 1386,
+    "en": "Stay calm in tough times.",
+    "zh": "在艱難困頓的時刻保持冷靜沉著。"
+  },
+  {
+    "id": 1387,
+    "en": "Speak honestly without hiding any facts.",
+    "zh": "誠實說出所有事實完全不加以隱瞞。"
+  },
+  {
+    "id": 1388,
+    "en": "When?",
+    "zh": "什麼時候？"
+  },
+  {
+    "id": 1389,
+    "en": "Look here.",
+    "zh": "看這裡。"
+  },
+  {
+    "id": 1390,
+    "en": "Draw a picture.",
+    "zh": "畫一張圖畫。"
+  },
+  {
+    "id": 1391,
+    "en": "Feel the warm sunshine.",
+    "zh": "感受溫暖煦煦陽光。"
+  },
+  {
+    "id": 1392,
+    "en": "Never judge book by cover.",
+    "zh": "切勿單憑外表去評斷任何人事物。"
+  },
+  {
+    "id": 1393,
+    "en": "Protect your privacy on social media.",
+    "zh": "在社群媒體上務必嚴密保護個人隱私。"
+  },
+  {
+    "id": 1394,
+    "en": "How?",
+    "zh": "怎麼做？ / 如何？"
+  },
+  {
+    "id": 1395,
+    "en": "Be quiet.",
+    "zh": "請保持安靜。"
+  },
+  {
+    "id": 1396,
+    "en": "Write a letter.",
+    "zh": "寫一封信件。"
+  },
+  {
+    "id": 1397,
+    "en": "Catch the early bus.",
+    "zh": "趕搭清晨早班公車。"
+  },
+  {
+    "id": 1398,
+    "en": "Practice English every single day.",
+    "zh": "每一天都要認真開口練習英語。"
+  },
+  {
+    "id": 1399,
+    "en": "Think deeply before taking risky actions.",
+    "zh": "在採取冒險行動之前務必深入思考。"
+  },
+  {
+    "id": 1400,
+    "en": "Yes.",
+    "zh": "是的。"
+  },
+  {
+    "id": 1401,
+    "en": "Thank you.",
+    "zh": "謝謝你。"
+  },
+  {
+    "id": 1402,
+    "en": "Bake a cake.",
+    "zh": "烤一個蛋糕。"
+  },
+  {
+    "id": 1403,
+    "en": "Miss the final train.",
+    "zh": "錯過最後一班列車。"
+  },
+  {
+    "id": 1404,
+    "en": "Speak with great clear confidence.",
+    "zh": "講話時要展現出十足清晰自信。"
+  },
+  {
+    "id": 1405,
+    "en": "Stay calm when facing big emergencies.",
+    "zh": "在面對重大緊急突發狀況時保持鎮定。"
+  },
+  {
+    "id": 1406,
+    "en": "No.",
+    "zh": "不。 / 不是。"
+  },
+  {
+    "id": 1407,
+    "en": "Excuse me.",
+    "zh": "不好意思。 / 借過。"
+  },
+  {
+    "id": 1408,
+    "en": "Cook some dinner.",
+    "zh": "煮點晚餐吃。"
+  },
+  {
+    "id": 1409,
+    "en": "Ride a red bicycle.",
+    "zh": "騎著一輛紅色自行車。"
+  },
+  {
+    "id": 1410,
+    "en": "Read good books every month.",
+    "zh": "每個月都要精讀幾本優質好書。"
+  },
+  {
+    "id": 1411,
+    "en": "Call emergency services when danger occurs.",
+    "zh": "當危險發生時請第一時間撥打緊急電話。"
+  },
+  {
+    "id": 1412,
+    "en": "Exactly!",
+    "zh": "沒錯！ / 完全正確！"
+  },
+  {
+    "id": 1413,
+    "en": "I agree.",
+    "zh": "我同意。"
+  },
+  {
+    "id": 1414,
+    "en": "Set the table.",
+    "zh": "擺放好餐具。"
+  },
+  {
+    "id": 1415,
+    "en": "Drive on this road.",
+    "zh": "在這條道路上行駛。"
+  },
+  {
+    "id": 1416,
+    "en": "Write your thoughts down daily.",
+    "zh": "每天都把你的思緒記錄在筆記上。"
+  },
+  {
+    "id": 1417,
+    "en": "Keep your important documents safe always.",
+    "zh": "請務必妥善保管好你的重要文件證件。"
+  },
+  {
+    "id": 1418,
+    "en": "Absolutely!",
+    "zh": "當然！ / 一點也沒錯！"
+  },
+  {
+    "id": 1419,
+    "en": "Of course.",
+    "zh": "當然。"
+  },
+  {
+    "id": 1420,
+    "en": "Clear the table.",
+    "zh": "收拾餐桌整潔。"
+  },
+  {
+    "id": 1421,
+    "en": "Fly across the sky.",
+    "zh": "在藍天中展翅翱翔。"
+  },
+  {
+    "id": 1422,
+    "en": "Exercise regularly for good health.",
+    "zh": "規律進行體育鍛鍊以維持身體健康。"
+  },
+  {
+    "id": 1423,
+    "en": "Check the lock before leaving home.",
+    "zh": "離開家門外出前再次確認門鎖鎖好。"
+  },
+  {
+    "id": 1424,
+    "en": "Definitely!",
+    "zh": "肯定如此！"
+  },
+  {
+    "id": 1425,
+    "en": "No problem.",
+    "zh": "沒問題。 / 不客氣。"
+  },
+  {
+    "id": 1426,
+    "en": "Wash the dishes.",
+    "zh": "把碗盤清洗乾淨。"
+  },
+  {
+    "id": 1427,
+    "en": "Swim in clear water.",
+    "zh": "在清澈水中暢游。"
+  },
+  {
+    "id": 1428,
+    "en": "Eat fresh vegetables and fruits.",
+    "zh": "多攝取新鮮的綠色蔬菜與各類水果。"
+  },
+  {
+    "id": 1429,
+    "en": "Turn off the stove after cooking.",
+    "zh": "烹飪煮飯完畢後請立即關閉爐火瓦斯。"
+  },
+  {
+    "id": 1430,
+    "en": "Indeed.",
+    "zh": "確實如此。"
+  },
+  {
+    "id": 1431,
+    "en": "Good morning.",
+    "zh": "早安。"
+  },
+  {
+    "id": 1432,
+    "en": "Take out trash.",
+    "zh": "把垃圾拿去倒。"
+  },
+  {
+    "id": 1433,
+    "en": "Run in the park.",
+    "zh": "在公園裡慢跑。"
+  },
+  {
+    "id": 1434,
+    "en": "Drink plenty of fresh water.",
+    "zh": "每天都要補充充足的新鮮潔淨水分。"
+  },
+  {
+    "id": 1435,
+    "en": "Keep dangerous chemicals away from children.",
+    "zh": "將危險化學藥劑放置在孩童拿不到處。"
+  },
+  {
+    "id": 1436,
+    "en": "Perhaps.",
+    "zh": "也許吧。"
+  },
+  {
+    "id": 1437,
+    "en": "Good night.",
+    "zh": "晚安。"
+  },
+  {
+    "id": 1438,
+    "en": "Water the plants.",
+    "zh": "給植物澆澆水。"
+  },
+  {
+    "id": 1439,
+    "en": "Climb the high mountain.",
+    "zh": "攀登險峻的高山。"
+  },
+  {
+    "id": 1440,
+    "en": "Sleep early and wake early.",
+    "zh": "早睡早起身體才能維持充沛活力。"
+  },
+  {
+    "id": 1441,
+    "en": "Store medicines in a cool place.",
+    "zh": "將各類日常藥品存放在陰涼乾燥處。"
+  },
+  {
+    "id": 1442,
+    "en": "Maybe.",
+    "zh": "可能吧。"
+  },
+  {
+    "id": 1443,
+    "en": "See you.",
+    "zh": "再見。"
+  },
+  {
+    "id": 1444,
+    "en": "Feed the cat.",
+    "zh": "餵貓咪吃飼料。"
+  },
+  {
+    "id": 1445,
+    "en": "Rest under the tree.",
+    "zh": "在大樹蔭下休息。"
+  },
+  {
+    "id": 1446,
+    "en": "Take walk after your dinner.",
+    "zh": "晚餐過後去戶外悠閒散散步吧。"
+  },
+  {
+    "id": 1447,
+    "en": "Check expiration dates on food packages.",
+    "zh": "購買或食用前檢查食品包裝有效日期。"
+  },
+  {
+    "id": 1448,
+    "en": "Sure.",
+    "zh": "好啊。 / 沒問題。"
+  },
+  {
+    "id": 1449,
+    "en": "Hurry up!",
+    "zh": "快一點！"
+  },
+  {
+    "id": 1450,
+    "en": "Walk the dog.",
+    "zh": "帶狗狗去散步。"
+  },
+  {
+    "id": 1451,
+    "en": "Drink sweet green tea.",
+    "zh": "喝甜甜的綠茶。"
+  },
+  {
+    "id": 1452,
+    "en": "Breathe deeply to relieve stress.",
+    "zh": "透過深呼吸來有效排解身心壓力。"
+  },
+  {
+    "id": 1453,
+    "en": "Drink warm milk before you sleep.",
+    "zh": "睡前喝一杯溫熱牛奶幫助安穩入眠。"
+  },
+  {
+    "id": 1454,
+    "en": "Never!",
+    "zh": "絕不！"
+  },
+  {
+    "id": 1455,
+    "en": "Wake up.",
+    "zh": "醒醒吧。"
+  },
+  {
+    "id": 1456,
+    "en": "I love you.",
+    "zh": "我愛你。"
+  },
+  {
+    "id": 1457,
+    "en": "Share your great ideas.",
+    "zh": "分享你的絕妙點子。"
+  },
+  {
+    "id": 1458,
+    "en": "Listen to sweet peaceful music.",
+    "zh": "聆聽甜美且令人心境平和的音樂。"
+  },
+  {
+    "id": 1459,
+    "en": "Enjoy good coffee with dear friends.",
+    "zh": "與摯愛的朋友們一起品嚐香醇咖啡。"
+  },
+  {
+    "id": 1460,
+    "en": "Always.",
+    "zh": "總是如此。"
+  },
+  {
+    "id": 1461,
+    "en": "Follow me.",
+    "zh": "跟我來。"
+  },
+  {
+    "id": 1462,
+    "en": "I need you.",
+    "zh": "我需要你。"
+  },
+  {
+    "id": 1463,
+    "en": "Solve this math problem.",
+    "zh": "解開這道數學題目。"
+  },
+  {
+    "id": 1464,
+    "en": "Travel around the whole world.",
+    "zh": "環遊整個世界去探索各地風情。"
+  },
+  {
+    "id": 1465,
+    "en": "Listen to nature sounds for relaxation.",
+    "zh": "聆聽大自然的聲音讓身心徹底放鬆。"
+  },
+  {
+    "id": 1466,
+    "en": "Hello!",
+    "zh": "你好！"
+  },
+  {
+    "id": 1467,
+    "en": "Forgive me.",
+    "zh": "請原諒我。"
+  },
+  {
+    "id": 1468,
+    "en": "I trust you.",
+    "zh": "我相信你。"
+  },
+  {
+    "id": 1469,
+    "en": "Learn from your mistakes.",
+    "zh": "從你的錯誤中汲取教訓。"
+  },
+  {
+    "id": 1470,
+    "en": "Make new friends from abroad.",
+    "zh": "結交來自世界各地的外國新朋友。"
+  },
+  {
+    "id": 1471,
+    "en": "Watch the birds flying very high.",
+    "zh": "靜靜看著群鳥在天空中翱翔飛翔。"
+  },
+  {
+    "id": 1472,
+    "en": "Goodbye.",
+    "zh": "再見。"
+  },
+  {
+    "id": 1473,
+    "en": "Help me!",
+    "zh": "請幫幫我！"
+  },
+  {
+    "id": 1474,
+    "en": "I feel good.",
+    "zh": "我感覺很好。"
+  },
+  {
+    "id": 1475,
+    "en": "Practice makes perfect always.",
+    "zh": "勤奮練習總能熟能生巧。"
+  },
+  {
+    "id": 1476,
+    "en": "Help those people in need.",
+    "zh": "盡己所能去幫助那些身處困境的人。"
+  },
+  {
+    "id": 1477,
+    "en": "Plant a tree for future generations.",
+    "zh": "為未來的子孫後代親手栽種一棵樹。"
+  },
+  {
+    "id": 1478,
+    "en": "Thanks!",
+    "zh": "謝謝！"
+  },
+  {
+    "id": 1479,
+    "en": "Call me.",
+    "zh": "打電話給我。"
+  },
+  {
+    "id": 1480,
+    "en": "I feel sick.",
+    "zh": "我身體不舒服。"
+  },
+  {
+    "id": 1481,
+    "en": "Never lose your hope.",
+    "zh": "永遠不要喪失希望。"
+  },
+  {
+    "id": 1482,
+    "en": "Share your joy with others.",
+    "zh": "將你心中的喜悅無私與他人分享。"
+  },
+  {
+    "id": 1483,
+    "en": "Recycle plastic bottles to save energy.",
+    "zh": "回收利用寶特瓶塑膠以節省地球能源。"
+  },
+  {
+    "id": 1484,
+    "en": "Welcome!",
+    "zh": "歡迎！"
+  },
+  {
+    "id": 1485,
+    "en": "Text me.",
+    "zh": "傳簡訊給我。"
+  },
+  {
+    "id": 1486,
+    "en": "I feel happy.",
+    "zh": "我感到很幸福。"
+  },
+  {
+    "id": 1487,
+    "en": "Stay true to yourself.",
+    "zh": "永遠對自己誠實。"
+  },
+  {
+    "id": 1488,
+    "en": "Celebrate every small victory today.",
+    "zh": "今天就好好慶祝每一個微小的勝利。"
+  },
+  {
+    "id": 1489,
+    "en": "Save clean water while brushing teeth.",
+    "zh": "刷牙時隨手關緊水龍頭以節省珍貴水資源。"
+  },
+  {
+    "id": 1490,
+    "en": "Congratulations!",
+    "zh": "恭喜！"
+  },
+  {
+    "id": 1491,
+    "en": "Tell me.",
+    "zh": "告訴我吧。"
+  },
+  {
+    "id": 1492,
+    "en": "I feel sad.",
+    "zh": "我感到很難過。"
+  },
+  {
+    "id": 1493,
+    "en": "Be kind to everyone.",
+    "zh": "友善對待每個人。"
+  },
+  {
+    "id": 1494,
+    "en": "Learn from the very best.",
+    "zh": "向該領域中最頂尖的專家學習。"
+  },
+  {
+    "id": 1495,
+    "en": "Turn off lights when not needed.",
+    "zh": "不用時請隨手關燈。"
+  },
+  {
+    "id": 1496,
+    "en": "Bravo!",
+    "zh": "太棒了！ / 喝采！"
+  },
+  {
+    "id": 1497,
+    "en": "Show me.",
+    "zh": "拿給我看。"
+  },
+  {
+    "id": 1498,
+    "en": "You look great.",
+    "zh": "你看起來氣色真好。"
+  },
+  {
+    "id": 1499,
+    "en": "Have a nice day.",
+    "zh": "祝你有美好的一天。"
+  },
+  {
+    "id": 1500,
+    "en": "Teach what you know well.",
+    "zh": "把你所精通的知識傾囊傳授他人。"
+  },
+  {
+    "id": 1501,
+    "en": "Support local businesses in your town.",
+    "zh": "多支持當地的在地商家。"
+  },
+  {
+    "id": 1502,
+    "en": "Perfect!",
+    "zh": "太完美了！"
+  },
+  {
+    "id": 1503,
+    "en": "Try again.",
+    "zh": "再試一次。"
+  },
+  {
+    "id": 1504,
+    "en": "You look tired.",
+    "zh": "你看起來好疲累。"
+  },
+  {
+    "id": 1505,
+    "en": "Have a great weekend.",
+    "zh": "祝你週末假期愉快。"
+  },
+  {
+    "id": 1506,
+    "en": "Create something beautiful and new.",
+    "zh": "動手創造美麗嶄新的事物。"
+  },
+  {
+    "id": 1507,
+    "en": "Donate warm clothes to poor families.",
+    "zh": "捐贈保暖衣物給需要幫助的家庭。"
+  },
+  {
+    "id": 1508,
+    "en": "Wonderful!",
+    "zh": "太好了！"
+  },
+  {
+    "id": 1509,
+    "en": "Start over.",
+    "zh": "重新開始。"
+  },
+  {
+    "id": 1510,
+    "en": "You look happy.",
+    "zh": "你看起來心情很棒。"
+  },
+  {
+    "id": 1511,
+    "en": "Good to see you.",
+    "zh": "真高興再次見到你。"
+  },
+  {
+    "id": 1512,
+    "en": "Leave positive mark on world.",
+    "zh": "在這個世界上留下良善的影響。"
+  },
+  {
+    "id": 1513,
+    "en": "Volunteer your time to help community.",
+    "zh": "抽空當志工服務在地社區。"
+  },
+  {
+    "id": 1514,
+    "en": "Awesome!",
+    "zh": "太酷了！ / 超讚！"
+  },
+  {
+    "id": 1515,
+    "en": "Keep going.",
+    "zh": "繼續堅持下去。"
+  },
+  {
+    "id": 1516,
+    "en": "You did it!",
+    "zh": "你終於辦到了！"
+  },
+  {
+    "id": 1517,
+    "en": "See you next week.",
+    "zh": "期待我們下週再見。"
+  },
+  {
+    "id": 1518,
+    "en": "The doctor cleaned the house.",
+    "zh": "醫生打掃了房子。"
+  },
+  {
+    "id": 1519,
+    "en": "Be grateful for every single blessing.",
+    "zh": "對所擁有的每份恩典心懷感激。"
+  },
+  {
+    "id": 1520,
+    "en": "Excellent!",
+    "zh": "太優秀了！"
+  },
+  {
+    "id": 1521,
+    "en": "Turn left.",
+    "zh": "向左轉。"
+  },
+  {
+    "id": 1522,
+    "en": "You can win!",
+    "zh": "你一定能贏！"
+  },
+  {
+    "id": 1523,
+    "en": "See you on Monday.",
+    "zh": "我們相約週一公司見。"
+  },
+  {
+    "id": 1524,
+    "en": "The doctor cooked the dinner.",
+    "zh": "醫生煮了晚餐。"
+  },
+  {
+    "id": 1525,
+    "en": "Live every moment with positive energy.",
+    "zh": "以正面樂觀的態度過好每一刻。"
+  },
+  {
+    "id": 1526,
+    "en": "Fantastic!",
+    "zh": "精彩絕倫！"
+  },
+  {
+    "id": 1527,
+    "en": "Turn right.",
+    "zh": "向右轉。"
+  },
+  {
+    "id": 1528,
+    "en": "We did it!",
+    "zh": "我們全隊成功了！"
+  },
+  {
+    "id": 1529,
+    "en": "Please accept my apologies.",
+    "zh": "請接受我的歉意。"
+  },
+  {
+    "id": 1530,
+    "en": "The doctor read the newspaper.",
+    "zh": "醫生讀了報紙。"
+  },
+  {
+    "id": 1531,
+    "en": "Create sweet memories with your family.",
+    "zh": "與家人共同創造甜蜜的美好回憶。"
+  },
+  {
+    "id": 1532,
+    "en": "Incredible!",
+    "zh": "難以置信！"
+  },
+  {
+    "id": 1533,
+    "en": "Step back.",
+    "zh": "退後一步。"
+  },
+  {
+    "id": 1534,
+    "en": "We won again!",
+    "zh": "我們又贏得一場！"
+  },
+  {
+    "id": 1535,
+    "en": "Thanks for your help.",
+    "zh": "謝謝你的幫忙。"
+  },
+  {
+    "id": 1536,
+    "en": "The doctor wrote a letter.",
+    "zh": "醫生寫了一封信。"
+  },
+  {
+    "id": 1537,
+    "en": "Wish you all the very best.",
+    "zh": "祝你一切順利安好。"
+  },
+  {
+    "id": 1538,
+    "en": "Amazing!",
+    "zh": "令人驚嘆！"
+  },
+  {
+    "id": 1539,
+    "en": "Move forward.",
+    "zh": "向前移動。"
+  },
+  {
+    "id": 1540,
+    "en": "It looks good.",
+    "zh": "看起來真棒。"
+  },
+  {
+    "id": 1541,
+    "en": "Thanks for your time.",
+    "zh": "感謝你的寶貴時間。"
+  },
+  {
+    "id": 1542,
+    "en": "The doctor drove the car.",
+    "zh": "醫生開了車。"
+  },
+  {
+    "id": 1543,
+    "en": "The kind doctor cleaned the house.",
+    "zh": "好心的醫生打掃了房子。"
+  },
+  {
+    "id": 1544,
+    "en": "Delicious!",
+    "zh": "太好吃了！"
+  },
+  {
+    "id": 1545,
+    "en": "Nice work!",
+    "zh": "工作表現出色！"
+  },
+  {
+    "id": 1546,
+    "en": "It tastes great.",
+    "zh": "嚐起來滋味好極了。"
+  },
+  {
+    "id": 1547,
+    "en": "Thanks for coming today.",
+    "zh": "感謝大家今天前來。"
+  },
+  {
+    "id": 1548,
+    "en": "The doctor bought a ticket.",
+    "zh": "醫生買了一張票。"
+  },
+  {
+    "id": 1549,
+    "en": "The kind doctor cooked the dinner.",
+    "zh": "好心的醫生煮了晚餐。"
+  },
+  {
+    "id": 1550,
+    "en": "Ouch!",
+    "zh": "好痛！ / 哎喲！"
+  },
+  {
+    "id": 1551,
+    "en": "Keep quiet.",
+    "zh": "保持肅靜。"
+  },
+  {
+    "id": 1552,
+    "en": "It sounds fun.",
+    "zh": "聽起來很有趣好玩。"
+  },
+  {
+    "id": 1553,
+    "en": "You did great work.",
+    "zh": "你做得太棒了。"
+  },
+  {
+    "id": 1554,
+    "en": "The doctor opened the door.",
+    "zh": "醫生開了門。"
+  },
+  {
+    "id": 1555,
+    "en": "The kind doctor read the book.",
+    "zh": "好心的醫生讀了這本書。"
+  },
+  {
+    "id": 1556,
+    "en": "Oops!",
+    "zh": "哎呀！ / 糟了！"
+  },
+  {
+    "id": 1557,
+    "en": "Stay here.",
+    "zh": "待在這裡別動。"
+  },
+  {
+    "id": 1558,
+    "en": "It feels soft.",
+    "zh": "摸起來質地好柔軟。"
+  },
+  {
+    "id": 1559,
+    "en": "I want to know.",
+    "zh": "我想知道。"
+  },
+  {
+    "id": 1560,
+    "en": "The doctor closed the window.",
+    "zh": "醫生關上了窗戶。"
+  },
+  {
+    "id": 1561,
+    "en": "The kind doctor wrote the letter.",
+    "zh": "好心的醫生寫了這封信。"
+  },
+  {
+    "id": 1562,
+    "en": "Beware!",
+    "zh": "當心！ / 提防！"
+  },
+  {
+    "id": 1563,
+    "en": "Go away!",
+    "zh": "走開！ / 離我遠點！"
+  },
+  {
+    "id": 1564,
+    "en": "It smells nice.",
+    "zh": "聞起來好清香芬芳。"
+  },
+  {
+    "id": 1565,
+    "en": "I need some water.",
+    "zh": "我需要喝點水。"
+  },
+  {
+    "id": 1566,
+    "en": "The doctor locked the gate.",
+    "zh": "醫生鎖上了大門。"
+  },
+  {
+    "id": 1567,
+    "en": "The kind doctor drove the car.",
+    "zh": "好心的醫生開了車。"
+  },
+  {
+    "id": 1568,
+    "en": "Agreed.",
+    "zh": "贊同。 / 一言為定。"
+  },
+  {
+    "id": 1569,
+    "en": "Come back.",
+    "zh": "回來吧。"
+  },
+  {
+    "id": 1570,
+    "en": "This is good.",
+    "zh": "這個品質相當不錯。"
+  },
+  {
+    "id": 1571,
+    "en": "I need some rest.",
+    "zh": "我需要休息一下。"
+  },
+  {
+    "id": 1572,
+    "en": "The doctor drank hot coffee.",
+    "zh": "醫生喝了熱咖啡。"
+  },
+  {
+    "id": 1573,
+    "en": "The kind doctor bought the ticket.",
+    "zh": "好心的醫生買了這張票。"
+  },
+  {
+    "id": 1574,
+    "en": "Enough!",
+    "zh": "夠了！"
+  },
+  {
+    "id": 1575,
+    "en": "Open it.",
+    "zh": "打開它吧。"
+  },
+  {
+    "id": 1576,
+    "en": "This is nice.",
+    "zh": "這個設計挺漂亮的。"
+  },
+  {
+    "id": 1577,
+    "en": "I need your advice.",
+    "zh": "我需要你的建議。"
+  },
+  {
+    "id": 1578,
+    "en": "The doctor drank green tea.",
+    "zh": "醫生喝了綠茶。"
+  },
+  {
+    "id": 1579,
+    "en": "The kind doctor opened the door.",
+    "zh": "好心的醫生開了門。"
+  },
+  {
+    "id": 1580,
+    "en": "Hide!",
+    "zh": "快躲起來！"
+  },
+  {
+    "id": 1581,
+    "en": "Close it.",
+    "zh": "關上它。"
+  },
+  {
+    "id": 1582,
+    "en": "This is hard.",
+    "zh": "這關挑戰很不簡單。"
+  },
+  {
+    "id": 1583,
+    "en": "I need your help.",
+    "zh": "我需要你的幫忙。"
+  },
+  {
+    "id": 1584,
+    "en": "The doctor ate fresh fruit.",
+    "zh": "醫生吃了新鮮水果。"
+  },
+  {
+    "id": 1585,
+    "en": "The kind doctor closed the window.",
+    "zh": "好心的醫生關上了窗戶。"
+  },
+  {
+    "id": 1586,
+    "en": "Fight!",
+    "zh": "戰鬥！ / 加油！"
+  },
+  {
+    "id": 1587,
+    "en": "Not yet.",
+    "zh": "還沒。"
+  },
+  {
+    "id": 1588,
+    "en": "Love will win.",
+    "zh": "愛必能戰勝一切仇恨。"
+  },
+  {
+    "id": 1589,
+    "en": "I love this place.",
+    "zh": "我喜歡這個地方。"
+  },
+  {
+    "id": 1590,
+    "en": "The doctor ate warm bread.",
+    "zh": "醫生吃了溫熱的麵包。"
+  },
+  {
+    "id": 1591,
+    "en": "The kind doctor locked the gate.",
+    "zh": "好心的醫生鎖上了大門。"
+  },
+  {
+    "id": 1592,
+    "en": "Win!",
+    "zh": "贏得勝利！"
+  },
+  {
+    "id": 1593,
+    "en": "Me too.",
+    "zh": "我也是。"
+  },
+  {
+    "id": 1594,
+    "en": "Dreams come true.",
+    "zh": "夢想終將成真實現。"
+  },
+  {
+    "id": 1595,
+    "en": "I like this song.",
+    "zh": "我很喜歡這首動聽的歌。"
+  },
+  {
+    "id": 1596,
+    "en": "The doctor watched the news.",
+    "zh": "醫生看了新聞。"
+  },
+  {
+    "id": 1597,
+    "en": "The kind doctor drank hot tea.",
+    "zh": "好心的醫生喝了熱茶。"
+  },
+  {
+    "id": 1598,
+    "en": "Wave.",
+    "zh": "揮手。"
+  },
+  {
+    "id": 1599,
+    "en": "Right now.",
+    "zh": "就是現在。"
+  },
+  {
+    "id": 1600,
+    "en": "Life is good.",
+    "zh": "生活真是美好愜意。"
+  },
+  {
+    "id": 1601,
+    "en": "I know the answer.",
+    "zh": "我知道答案。"
+  },
+  {
+    "id": 1602,
+    "en": "The doctor listened to music.",
+    "zh": "醫生聽了音樂。"
+  },
+  {
+    "id": 1603,
+    "en": "The kind doctor drank black coffee.",
+    "zh": "好心的醫生喝了黑咖啡。"
+  },
+  {
+    "id": 1604,
+    "en": "Nod.",
+    "zh": "點頭。"
+  },
+  {
+    "id": 1605,
+    "en": "All right.",
+    "zh": "好吧。 / 沒問題。"
+  },
+  {
+    "id": 1606,
+    "en": "Life is beautiful.",
+    "zh": "生命充滿了無限美好。"
+  },
+  {
+    "id": 1607,
+    "en": "I understand your point.",
+    "zh": "我明白你的意思。"
+  },
+  {
+    "id": 1608,
+    "en": "The doctor played the piano.",
+    "zh": "醫生彈了鋼琴。"
+  },
+  {
+    "id": 1609,
+    "en": "The kind doctor ate fresh fruit.",
+    "zh": "好心的醫生吃了新鮮水果。"
+  },
+  {
+    "id": 1610,
+    "en": "Blink.",
+    "zh": "眨眨眼。"
+  },
+  {
+    "id": 1611,
+    "en": "Too bad.",
+    "zh": "太可惜了。 / 遺憾。"
+  },
+  {
+    "id": 1612,
+    "en": "Money is tight.",
+    "zh": "手頭資金相當吃緊。"
+  },
+  {
+    "id": 1613,
+    "en": "I agree with you.",
+    "zh": "我同意你的看法。"
+  },
+  {
+    "id": 1614,
+    "en": "The doctor played the guitar.",
+    "zh": "醫生彈了吉他。"
+  },
+  {
+    "id": 1615,
+    "en": "The kind doctor ate warm bread.",
+    "zh": "好心的醫生吃了溫熱的麵包。"
+  },
+  {
+    "id": 1616,
+    "en": "Wink.",
+    "zh": "眨個眼。"
+  },
+  {
+    "id": 1617,
+    "en": "Who knows?",
+    "zh": "誰知道呢？"
+  },
+  {
+    "id": 1618,
+    "en": "Take a rest.",
+    "zh": "坐下來好好歇息片刻。"
+  },
+  {
+    "id": 1619,
+    "en": "I disagree with that.",
+    "zh": "我不同意那點。"
+  },
+  {
+    "id": 1620,
+    "en": "The doctor helped the friend.",
+    "zh": "醫生幫助了朋友。"
+  },
+  {
+    "id": 1621,
+    "en": "The kind doctor watched the news.",
+    "zh": "好心的醫生看了新聞。"
+  },
+  {
+    "id": 1622,
+    "en": "Climb!",
+    "zh": "快往上爬！"
+  },
+  {
+    "id": 1623,
+    "en": "Just wait.",
+    "zh": "等著瞧吧。"
+  },
+  {
+    "id": 1624,
+    "en": "Have a drink.",
+    "zh": "喝杯茶解解渴吧。"
+  },
+  {
+    "id": 1625,
+    "en": "I hope so too.",
+    "zh": "我也希望如此。"
+  },
+  {
+    "id": 1626,
+    "en": "The doctor helped the patient.",
+    "zh": "醫生照顧了病患。"
+  },
+  {
+    "id": 1627,
+    "en": "The kind doctor listened to music.",
+    "zh": "好心的醫生聽了音樂。"
+  },
+  {
+    "id": 1628,
+    "en": "Crawl.",
+    "zh": "趴下爬行。"
+  },
+  {
+    "id": 1629,
+    "en": "Be patient.",
+    "zh": "耐心一點。"
+  },
+  {
+    "id": 1630,
+    "en": "Have a look.",
+    "zh": "過來親眼瞧瞧看。"
+  },
+  {
+    "id": 1631,
+    "en": "I think so too.",
+    "zh": "我也這麼認為。"
+  },
+  {
+    "id": 1632,
+    "en": "The doctor visited the museum.",
+    "zh": "醫生參觀了博物館。"
+  },
+  {
+    "id": 1633,
+    "en": "The kind doctor played the piano.",
+    "zh": "好心的醫生彈了鋼琴。"
+  },
+  {
+    "id": 1634,
+    "en": "Fly!",
+    "zh": "飛吧！"
+  },
+  {
+    "id": 1635,
+    "en": "Dream big.",
+    "zh": "胸懷大志。"
+  },
+  {
+    "id": 1636,
+    "en": "Have some water.",
+    "zh": "喝點溫開水潤喉。"
+  },
+  {
+    "id": 1637,
+    "en": "I don't think so.",
+    "zh": "我個人倒不這麼認為。"
+  },
+  {
+    "id": 1638,
+    "en": "The doctor climbed the mountain.",
+    "zh": "醫生去爬了山。"
+  },
+  {
+    "id": 1639,
+    "en": "The kind doctor played the guitar.",
+    "zh": "好心的醫生彈了吉他。"
+  },
+  {
+    "id": 1640,
+    "en": "Swim!",
+    "zh": "快游！"
+  },
+  {
+    "id": 1641,
+    "en": "Work hard.",
+    "zh": "努力打拼。"
+  },
+  {
+    "id": 1642,
+    "en": "Have some tea.",
+    "zh": "喝杯熱茶暖暖身子。"
+  },
+  {
+    "id": 1643,
+    "en": "I don't know yet.",
+    "zh": "我目前暫時還不太清楚。"
+  },
+  {
+    "id": 1644,
+    "en": "The doctor walked the dog.",
+    "zh": "醫生去遛了狗。"
+  },
+  {
+    "id": 1645,
+    "en": "The kind doctor helped the patient.",
+    "zh": "好心的醫生照顧了病患。"
+  },
+  {
+    "id": 1646,
+    "en": "Dive!",
+    "zh": "潛水！ / 快跳水！"
+  },
+  {
+    "id": 1647,
+    "en": "Rest well.",
+    "zh": "好好休息。"
+  },
+  {
+    "id": 1648,
+    "en": "Have some coffee.",
+    "zh": "來杯現煮香濃咖啡。"
+  },
+  {
+    "id": 1649,
+    "en": "I don't mind that.",
+    "zh": "我完全不介意那樣安排。"
+  },
+  {
+    "id": 1650,
+    "en": "The doctor watered the flowers.",
+    "zh": "醫生給花澆了水。"
+  },
+  {
+    "id": 1651,
+    "en": "The kind doctor visited the museum.",
+    "zh": "好心的醫生參觀了博物館。"
+  },
+  {
+    "id": 1652,
+    "en": "Float.",
+    "zh": "放鬆漂浮。"
+  },
+  {
+    "id": 1653,
+    "en": "Sleep tight.",
+    "zh": "睡個好覺。"
+  },
+  {
+    "id": 1654,
+    "en": "Make a choice.",
+    "zh": "做出屬於你的抉擇。"
+  },
+  {
+    "id": 1655,
+    "en": "What do you think?",
+    "zh": "你對這件事有何看法？"
+  },
+  {
+    "id": 1656,
+    "en": "The doctor planted some seeds.",
+    "zh": "醫生播下了種子。"
+  },
+  {
+    "id": 1657,
+    "en": "The kind doctor climbed the mountain.",
+    "zh": "好心的醫生去爬了山。"
+  },
+  {
+    "id": 1658,
+    "en": "Row!",
+    "zh": "划槳！"
+  },
+  {
+    "id": 1659,
+    "en": "Drive safely.",
+    "zh": "開車小心安全。"
+  },
+  {
+    "id": 1660,
+    "en": "Make a plan.",
+    "zh": "先制定好具體計畫。"
+  },
+  {
+    "id": 1661,
+    "en": "What do you mean?",
+    "zh": "你是什麼意思？"
+  },
+  {
+    "id": 1662,
+    "en": "The doctor repaired the roof.",
+    "zh": "醫生修了屋頂。"
+  },
+  {
+    "id": 1663,
+    "en": "The kind doctor walked the dog.",
+    "zh": "好心的醫生去遛了狗。"
+  },
+  {
+    "id": 1664,
+    "en": "Paddle.",
+    "zh": "划動水面。"
+  },
+  {
+    "id": 1665,
+    "en": "Walk slowly.",
+    "zh": "慢慢走。"
+  },
+  {
+    "id": 1666,
+    "en": "Make it happen!",
+    "zh": "放手去做讓它實現！"
+  },
+  {
+    "id": 1667,
+    "en": "What do you want?",
+    "zh": "你想要什麼？"
+  },
+  {
+    "id": 1668,
+    "en": "The doctor washed the dishes.",
+    "zh": "醫生洗了碗。"
+  },
+  {
+    "id": 1669,
+    "en": "The kind doctor watered the garden.",
+    "zh": "好心的醫生給花園澆了水。"
+  },
+  {
+    "id": 1670,
+    "en": "Knock.",
+    "zh": "敲門。"
+  },
+  {
+    "id": 1671,
+    "en": "Eat well.",
+    "zh": "好好吃一頓。"
+  },
+  {
+    "id": 1672,
+    "en": "Do it now!",
+    "zh": "現在立刻著手行動！"
+  },
+  {
+    "id": 1673,
+    "en": "What day is today?",
+    "zh": "請問今天究竟是星期幾？"
+  },
+  {
+    "id": 1674,
+    "en": "The doctor checked the schedule.",
+    "zh": "醫生確認了行程表。"
+  },
+  {
+    "id": 1675,
+    "en": "The kind doctor planted green trees.",
+    "zh": "好心的醫生種了綠樹。"
+  },
+  {
+    "id": 1676,
+    "en": "Tap.",
+    "zh": "輕敲。 / 點擊。"
+  },
+  {
+    "id": 1677,
+    "en": "Drink water.",
+    "zh": "多喝水。"
+  },
+  {
+    "id": 1678,
+    "en": "Let it be.",
+    "zh": "隨它去吧順其自然。"
+  },
+  {
+    "id": 1679,
+    "en": "Where do you live?",
+    "zh": "你住在哪裡？"
+  },
+  {
+    "id": 1680,
+    "en": "The doctor solved the puzzle.",
+    "zh": "醫生解開了謎題。"
+  },
+  {
+    "id": 1681,
+    "en": "The kind doctor repaired the car.",
+    "zh": "好心的醫生修了車。"
+  },
+  {
+    "id": 1682,
+    "en": "Press.",
+    "zh": "請按下。"
+  },
+  {
+    "id": 1683,
+    "en": "Have fun!",
+    "zh": "玩得開心！"
+  },
+  {
+    "id": 1684,
+    "en": "Let me think.",
+    "zh": "讓我想一想再回答。"
+  },
+  {
+    "id": 1685,
+    "en": "Where do we meet?",
+    "zh": "我們在哪裡碰面？"
+  },
+  {
+    "id": 1686,
+    "en": "The doctor won the game.",
+    "zh": "醫生贏得了比賽。"
+  },
+  {
+    "id": 1687,
+    "en": "The kind doctor washed the dishes.",
+    "zh": "好心的醫生洗了碗。"
+  },
+  {
+    "id": 1688,
+    "en": "Touch.",
+    "zh": "觸摸一下。"
+  },
+  {
+    "id": 1689,
+    "en": "Enjoy it.",
+    "zh": "好好享受吧。"
+  },
+  {
+    "id": 1690,
+    "en": "Let me know.",
+    "zh": "有任何結果記得通知我。"
+  },
+  {
+    "id": 1691,
+    "en": "Where can I buy?",
+    "zh": "我在哪裡可以買到？"
+  },
+  {
+    "id": 1692,
+    "en": "The doctor passed the exam.",
+    "zh": "醫生通過了考試。"
+  },
+  {
+    "id": 1693,
+    "en": "The kind doctor solved the problem.",
+    "zh": "好心的醫生解決了問題。"
+  },
+  {
+    "id": 1694,
+    "en": "Hold!",
+    "zh": "握住！ / 堅持住！"
+  },
+  {
+    "id": 1695,
+    "en": "Time out!",
+    "zh": "暫停！"
+  },
+  {
+    "id": 1696,
+    "en": "Let me help.",
+    "zh": "讓我來助你一臂之力。"
+  },
+  {
+    "id": 1697,
+    "en": "Where can I park?",
+    "zh": "我在哪裡可以停車？"
+  },
+  {
+    "id": 1698,
+    "en": "The teacher cleaned the house.",
+    "zh": "老師打掃了房子。"
+  },
+  {
+    "id": 1699,
+    "en": "The kind doctor won the prize.",
+    "zh": "好心的醫生得獎了。"
+  },
+  {
+    "id": 1700,
+    "en": "Release.",
+    "zh": "鬆手。 / 釋放。"
+  },
+  {
+    "id": 1701,
+    "en": "Game over.",
+    "zh": "遊戲結束。"
+  },
+  {
+    "id": 1702,
+    "en": "Call me later.",
+    "zh": "晚點再打電話給我。"
+  },
+  {
+    "id": 1703,
+    "en": "Why are you here?",
+    "zh": "你怎麼會在這裡？"
+  },
+  {
+    "id": 1704,
+    "en": "The teacher cooked the dinner.",
+    "zh": "老師煮了晚餐。"
+  },
+  {
+    "id": 1705,
+    "en": "The kind doctor passed the test.",
+    "zh": "好心的醫生通過了測驗。"
+  },
+  {
+    "id": 1706,
+    "en": "Drop!",
+    "zh": "快放下！ / 扔掉！"
+  },
+  {
+    "id": 1707,
+    "en": "Sign here.",
+    "zh": "請在此簽名。"
+  },
+  {
+    "id": 1708,
+    "en": "Call me tomorrow.",
+    "zh": "明天再致電跟我討論。"
+  },
+  {
+    "id": 1709,
+    "en": "Why are you sad?",
+    "zh": "你為什麼難過？"
+  },
+  {
+    "id": 1710,
+    "en": "The teacher read the newspaper.",
+    "zh": "老師讀了報紙。"
+  },
+  {
+    "id": 1711,
+    "en": "The kind doctor finished the job.",
+    "zh": "好心的醫生完成了工作。"
+  },
+  {
+    "id": 1712,
+    "en": "Catch!",
+    "zh": "接住！"
+  },
+  {
+    "id": 1713,
+    "en": "Check again.",
+    "zh": "再核對一次。"
+  },
+  {
+    "id": 1714,
+    "en": "Call me tonight.",
+    "zh": "今晚有空再打給我。"
+  },
+  {
+    "id": 1715,
+    "en": "Why did you leave?",
+    "zh": "你當初為什麼離開？"
+  },
+  {
+    "id": 1716,
+    "en": "The teacher wrote a letter.",
+    "zh": "老師寫了一封信。"
+  },
+  {
+    "id": 1717,
+    "en": "The kind doctor saved the day.",
+    "zh": "好心的醫生及時化解了危機。"
+  },
+  {
+    "id": 1718,
+    "en": "Throw!",
+    "zh": "扔出去！"
+  },
+  {
+    "id": 1719,
+    "en": "Read aloud.",
+    "zh": "大聲唸出來。"
+  },
+  {
+    "id": 1720,
+    "en": "Text me later.",
+    "zh": "待會兒傳簡訊給我就好。"
+  },
+  {
+    "id": 1721,
+    "en": "How do you know?",
+    "zh": "你怎麼知道的？"
+  },
+  {
+    "id": 1722,
+    "en": "The teacher drove the car.",
+    "zh": "老師開了車。"
+  },
+  {
+    "id": 1723,
+    "en": "The young teacher cleaned the house.",
+    "zh": "年輕的老師打掃了房子。"
+  },
+  {
+    "id": 1724,
+    "en": "Kick!",
+    "zh": "踢球！ / 用力踢！"
+  },
+  {
+    "id": 1725,
+    "en": "Write down.",
+    "zh": "記錄下來。"
+  },
+  {
+    "id": 1726,
+    "en": "Email me details.",
+    "zh": "請將詳細細節寄信給我。"
+  },
+  {
+    "id": 1727,
+    "en": "How do I pay?",
+    "zh": "我該如何付款？"
+  },
+  {
+    "id": 1728,
+    "en": "The teacher bought a ticket.",
+    "zh": "老師買了一張票。"
+  },
+  {
+    "id": 1729,
+    "en": "The young teacher cooked the dinner.",
+    "zh": "年輕的老師煮了晚餐。"
+  },
+  {
+    "id": 1730,
+    "en": "Hit!",
+    "zh": "擊球！ / 打！"
+  },
+  {
+    "id": 1731,
+    "en": "Stop talking.",
+    "zh": "不要講話。"
+  },
+  {
+    "id": 1732,
+    "en": "Give me time.",
+    "zh": "再給我一點點寬限時間。"
+  },
+  {
+    "id": 1733,
+    "en": "How much is this?",
+    "zh": "這個多少錢？"
+  },
+  {
+    "id": 1734,
+    "en": "The teacher opened the door.",
+    "zh": "老師開了門。"
+  },
+  {
+    "id": 1735,
+    "en": "The young teacher read the book.",
+    "zh": "年輕的老師讀了這本書。"
+  },
+  {
+    "id": 1736,
+    "en": "Strike!",
+    "zh": "出擊！ / 罷工！"
+  },
+  {
+    "id": 1737,
+    "en": "No way!",
+    "zh": "絕不可能！"
+  },
+  {
+    "id": 1738,
+    "en": "Give me hope.",
+    "zh": "請給我一絲存活希望。"
+  },
+  {
+    "id": 1739,
+    "en": "How much is that?",
+    "zh": "那個多少錢？"
+  },
+  {
+    "id": 1740,
+    "en": "The teacher closed the window.",
+    "zh": "老師關上了窗戶。"
+  },
+  {
+    "id": 1741,
+    "en": "The young teacher wrote the letter.",
+    "zh": "年輕的老師寫了這封信。"
+  },
+  {
+    "id": 1742,
+    "en": "Shake.",
+    "zh": "搖一搖。"
+  },
+  {
+    "id": 1743,
+    "en": "Get ready.",
+    "zh": "做好準備。"
+  },
+  {
+    "id": 1744,
+    "en": "Show me more.",
+    "zh": "再多拿一點樣本給我看。"
+  },
+  {
+    "id": 1745,
+    "en": "How was your trip?",
+    "zh": "你的旅行好玩嗎？"
+  },
+  {
+    "id": 1746,
+    "en": "The teacher locked the gate.",
+    "zh": "老師鎖上了大門。"
+  },
+  {
+    "id": 1747,
+    "en": "The young teacher drove the car.",
+    "zh": "年輕的老師開了車。"
+  },
+  {
+    "id": 1748,
+    "en": "Twist.",
+    "zh": "旋轉扭開。"
+  },
+  {
+    "id": 1749,
+    "en": "Step inside.",
+    "zh": "請邁步進來。"
+  },
+  {
+    "id": 1750,
+    "en": "Tell me more.",
+    "zh": "詳細跟我說說這件事。"
+  },
+  {
+    "id": 1751,
+    "en": "How was your day?",
+    "zh": "你今天過得如何？"
+  },
+  {
+    "id": 1752,
+    "en": "The teacher drank hot coffee.",
+    "zh": "老師喝了熱咖啡。"
+  },
+  {
+    "id": 1753,
+    "en": "The young teacher bought the ticket.",
+    "zh": "年輕的老師買了這張票。"
+  },
+  {
+    "id": 1754,
+    "en": "Bend.",
+    "zh": "彎曲身體。"
+  },
+  {
+    "id": 1755,
+    "en": "Look back.",
+    "zh": "回頭看。"
+  },
+  {
+    "id": 1756,
+    "en": "Trust your gut.",
+    "zh": "相信你的直覺直觀判斷。"
+  },
+  {
+    "id": 1757,
+    "en": "How was the food?",
+    "zh": "食物好吃嗎？"
+  },
+  {
+    "id": 1758,
+    "en": "The teacher drank green tea.",
+    "zh": "老師喝了綠茶。"
+  },
+  {
+    "id": 1759,
+    "en": "The young teacher opened the door.",
+    "zh": "年輕的老師開了門。"
+  },
+  {
+    "id": 1760,
+    "en": "Stretch.",
+    "zh": "拉筋伸展。"
+  },
+  {
+    "id": 1761,
+    "en": "Move on.",
+    "zh": "向前看吧。"
+  },
+  {
+    "id": 1762,
+    "en": "Follow your dreams.",
+    "zh": "勇敢追求你心中的夢想。"
+  },
+  {
+    "id": 1763,
+    "en": "How was the movie?",
+    "zh": "電影好看嗎？"
+  },
+  {
+    "id": 1764,
+    "en": "The teacher ate fresh fruit.",
+    "zh": "老師吃了新鮮水果。"
+  },
+  {
+    "id": 1765,
+    "en": "The young teacher closed the window.",
+    "zh": "年輕的老師關上了窗戶。"
+  },
+  {
+    "id": 1766,
+    "en": "Roll.",
+    "zh": "翻滾。"
+  },
+  {
+    "id": 1767,
+    "en": "Count down.",
+    "zh": "開始倒數。"
+  },
+  {
+    "id": 1768,
+    "en": "Follow the rules.",
+    "zh": "嚴格遵守公共場所規則。"
+  },
+  {
+    "id": 1769,
+    "en": "Can I help you?",
+    "zh": "需要幫忙嗎？"
+  },
+  {
+    "id": 1770,
+    "en": "The teacher ate warm bread.",
+    "zh": "老師吃了溫熱的麵包。"
+  },
+  {
+    "id": 1771,
+    "en": "The young teacher locked the gate.",
+    "zh": "年輕的老師鎖上了大門。"
+  },
+  {
+    "id": 1772,
+    "en": "Spin.",
+    "zh": "旋轉。"
+  },
+  {
+    "id": 1773,
+    "en": "Listen carefully.",
+    "zh": "仔細聽好。"
+  },
+  {
+    "id": 1774,
+    "en": "Follow the leader.",
+    "zh": "緊跟隊長的步伐前進。"
+  },
+  {
+    "id": 1775,
+    "en": "Can you hear me?",
+    "zh": "你能聽見我說話嗎？"
+  },
+  {
+    "id": 1776,
+    "en": "The teacher watched the news.",
+    "zh": "老師看了新聞。"
+  },
+  {
+    "id": 1777,
+    "en": "The young teacher drank hot tea.",
+    "zh": "年輕的老師喝了熱茶。"
+  },
+  {
+    "id": 1778,
+    "en": "Turn.",
+    "zh": "轉身。 / 轉彎。"
+  },
+  {
+    "id": 1779,
+    "en": "Speak louder.",
+    "zh": "請說大聲點。"
+  },
+  {
+    "id": 1780,
+    "en": "Open your mind.",
+    "zh": "打開心扉包容不同文化。"
+  },
+  {
+    "id": 1781,
+    "en": "Can you see me?",
+    "zh": "你看得到我嗎？"
+  },
+  {
+    "id": 1782,
+    "en": "The teacher listened to music.",
+    "zh": "老師聽了音樂。"
+  },
+  {
+    "id": 1783,
+    "en": "The young teacher drank black coffee.",
+    "zh": "年輕的老師喝了黑咖啡。"
+  },
+  {
+    "id": 1784,
+    "en": "Step.",
+    "zh": "邁步。 / 踩踏。"
+  },
+  {
+    "id": 1785,
+    "en": "Hang on.",
+    "zh": "稍等一下。 / 抓緊了！"
+  },
+  {
+    "id": 1786,
+    "en": "Close the door.",
+    "zh": "外出記得順手把門帶上。"
+  },
+  {
+    "id": 1787,
+    "en": "Can we talk now?",
+    "zh": "我們現在能談談嗎？"
+  },
+  {
+    "id": 1788,
+    "en": "The teacher played the piano.",
+    "zh": "老師彈了鋼琴。"
+  },
+  {
+    "id": 1789,
+    "en": "The young teacher ate fresh fruit.",
+    "zh": "年輕的老師吃了新鮮水果。"
+  },
+  {
+    "id": 1790,
+    "en": "Pace.",
+    "zh": "調整配速。"
+  },
+  {
+    "id": 1791,
+    "en": "Get out!",
+    "zh": "滾出去！ / 出去！"
+  },
+  {
+    "id": 1792,
+    "en": "Close the window.",
+    "zh": "起風了請把窗戶關好。"
+  },
+  {
+    "id": 1793,
+    "en": "Can we go home?",
+    "zh": "我們可以回家了嗎？"
+  },
+  {
+    "id": 1794,
+    "en": "The teacher played the guitar.",
+    "zh": "老師彈了吉他。"
+  },
+  {
+    "id": 1795,
+    "en": "The young teacher ate warm bread.",
+    "zh": "年輕的老師吃了溫熱的麵包。"
+  },
+  {
+    "id": 1796,
+    "en": "Sprint!",
+    "zh": "全力衝刺！"
+  },
+  {
+    "id": 1797,
+    "en": "Get in.",
+    "zh": "上車吧。 / 快進來。"
+  },
+  {
+    "id": 1798,
+    "en": "Turn the page.",
+    "zh": "翻到課本下一頁繼續。"
+  },
+  {
+    "id": 1799,
+    "en": "Can we start now?",
+    "zh": "我們現在可以開始了嗎？"
+  },
+  {
+    "id": 1800,
+    "en": "The teacher helped the friend.",
+    "zh": "老師幫助了朋友。"
+  },
+  {
+    "id": 1801,
+    "en": "The young teacher watched the news.",
+    "zh": "年輕的老師看了新聞。"
+  },
+  {
+    "id": 1802,
+    "en": "Jog.",
+    "zh": "慢跑。"
+  },
+  {
+    "id": 1803,
+    "en": "Turn around.",
+    "zh": "請轉過身來。"
+  },
+  {
+    "id": 1804,
+    "en": "Drink more water.",
+    "zh": "多喝溫開水促進代謝。"
+  },
+  {
+    "id": 1805,
+    "en": "Could you repeat that?",
+    "zh": "能否請您再重新說一遍？"
+  },
+  {
+    "id": 1806,
+    "en": "The teacher helped the patient.",
+    "zh": "老師照顧了病患。"
+  },
+  {
+    "id": 1807,
+    "en": "The young teacher listened to music.",
+    "zh": "年輕的老師聽了音樂。"
+  },
+  {
+    "id": 1808,
+    "en": "Hike.",
+    "zh": "健行吧。"
+  },
+  {
+    "id": 1809,
+    "en": "Look up.",
+    "zh": "抬頭看。"
+  },
+  {
+    "id": 1810,
+    "en": "Eat some food.",
+    "zh": "吃點東西填填肚子。"
+  },
+  {
+    "id": 1811,
+    "en": "Could you wait please?",
+    "zh": "請您稍候一下好嗎？"
+  },
+  {
+    "id": 1812,
+    "en": "The teacher visited the museum.",
+    "zh": "老師參觀了博物館。"
+  },
+  {
+    "id": 1813,
+    "en": "The young teacher played the piano.",
+    "zh": "年輕的老師彈了鋼琴。"
+  },
+  {
+    "id": 1814,
+    "en": "Clap!",
+    "zh": "拍手鼓掌！"
+  },
+  {
+    "id": 1815,
+    "en": "Look down.",
+    "zh": "低頭看。"
+  },
+  {
+    "id": 1816,
+    "en": "Get some sleep.",
+    "zh": "快去躺平好好睡一覺。"
+  },
+  {
+    "id": 1817,
+    "en": "Could you sign here?",
+    "zh": "請在這裡簽名好嗎？"
+  },
+  {
+    "id": 1818,
+    "en": "The teacher climbed the mountain.",
+    "zh": "老師去爬了山。"
+  },
+  {
+    "id": 1819,
+    "en": "The young teacher played the guitar.",
+    "zh": "年輕的老師彈了吉他。"
+  },
+  {
+    "id": 1820,
+    "en": "Bow.",
+    "zh": "鞠躬。"
+  },
+  {
+    "id": 1821,
+    "en": "Step aside.",
+    "zh": "請讓到一旁。"
+  },
+  {
+    "id": 1822,
+    "en": "Take good care.",
+    "zh": "請多保重身體健康。"
+  },
+  {
+    "id": 1823,
+    "en": "Would you like tea?",
+    "zh": "你想喝杯茶嗎？"
+  },
+  {
+    "id": 1824,
+    "en": "The teacher walked the dog.",
+    "zh": "老師去遛了狗。"
+  },
+  {
+    "id": 1825,
+    "en": "The young teacher helped the patient.",
+    "zh": "年輕的老師照顧了病患。"
+  },
+  {
+    "id": 1826,
+    "en": "Kneel.",
+    "zh": "跪下。"
+  },
+  {
+    "id": 1827,
+    "en": "Shut up!",
+    "zh": "閉嘴！"
+  },
+  {
+    "id": 1828,
+    "en": "Watch your head.",
+    "zh": "請小心低頭碰頭。"
+  },
+  {
+    "id": 1829,
+    "en": "Would you like water?",
+    "zh": "你需要喝點水嗎？"
+  },
+  {
+    "id": 1830,
+    "en": "The teacher watered the flowers.",
+    "zh": "老師給花澆了水。"
+  },
+  {
+    "id": 1831,
+    "en": "The young teacher visited the museum.",
+    "zh": "年輕的老師參觀了博物館。"
+  },
+  {
+    "id": 1832,
+    "en": "Rise.",
+    "zh": "起立。 / 站起來。"
+  },
+  {
+    "id": 1833,
+    "en": "Listen closely.",
+    "zh": "仔細聽好。"
+  },
+  {
+    "id": 1834,
+    "en": "Stay with me.",
+    "zh": "留在這裡陪著我好嗎？"
+  },
+  {
+    "id": 1835,
+    "en": "Would you like coffee?",
+    "zh": "你想喝杯咖啡嗎？"
+  },
+  {
+    "id": 1836,
+    "en": "The teacher planted some seeds.",
+    "zh": "老師播下了種子。"
+  },
+  {
+    "id": 1837,
+    "en": "The young teacher climbed the mountain.",
+    "zh": "年輕的老師去爬了山。"
+  },
+  {
+    "id": 1838,
+    "en": "Crouch.",
+    "zh": "蹲低身子。"
+  },
+  {
+    "id": 1839,
+    "en": "Try harder.",
+    "zh": "更加努力吧。"
+  },
+  {
+    "id": 1840,
+    "en": "Come with me.",
+    "zh": "跟我一起走吧我帶路。"
+  },
+  {
+    "id": 1841,
+    "en": "Is it possible today?",
+    "zh": "今天有可能辦到嗎？"
+  },
+  {
+    "id": 1842,
+    "en": "The teacher repaired the roof.",
+    "zh": "老師修了屋頂。"
+  },
+  {
+    "id": 1843,
+    "en": "The young teacher walked the dog.",
+    "zh": "年輕的老師去遛了狗。"
+  },
+  {
+    "id": 1844,
+    "en": "Squat.",
+    "zh": "深蹲。"
+  },
+  {
+    "id": 1845,
+    "en": "Wait outside.",
+    "zh": "請在門外等候。"
+  },
+  {
+    "id": 1846,
+    "en": "Walk with me.",
+    "zh": "陪我在公園散散步吧。"
+  },
+  {
+    "id": 1847,
+    "en": "Is it far away?",
+    "zh": "那裡會很遠嗎？"
+  },
+  {
+    "id": 1848,
+    "en": "The teacher washed the dishes.",
+    "zh": "老師洗了碗。"
+  },
+  {
+    "id": 1849,
+    "en": "The young teacher watered the garden.",
+    "zh": "年輕的老師給花園澆了水。"
+  },
+  {
+    "id": 1850,
+    "en": "Lie.",
+    "zh": "躺下。"
+  },
+  {
+    "id": 1851,
+    "en": "Step forward.",
+    "zh": "請往前走一步。"
+  },
+  {
+    "id": 1852,
+    "en": "Talk to me.",
+    "zh": "有什麼心事跟我說說。"
+  },
+  {
+    "id": 1853,
+    "en": "Is it very hot?",
+    "zh": "外面很熱嗎？"
+  },
+  {
+    "id": 1854,
+    "en": "The teacher checked the schedule.",
+    "zh": "老師確認了行程表。"
+  },
+  {
+    "id": 1855,
+    "en": "The young teacher planted green trees.",
+    "zh": "年輕的老師種了綠樹。"
+  },
+  {
+    "id": 1856,
+    "en": "Rest.",
+    "zh": "好好休息吧。"
+  },
+  {
+    "id": 1857,
+    "en": "Look ahead.",
+    "zh": "往前看。"
+  },
+  {
+    "id": 1858,
+    "en": "Listen to me.",
+    "zh": "請看著我認真聽我說。"
+  },
+  {
+    "id": 1859,
+    "en": "Is it cold outside?",
+    "zh": "外面冷嗎？"
+  },
+  {
+    "id": 1860,
+    "en": "The teacher solved the puzzle.",
+    "zh": "老師解開了謎題。"
+  },
+  {
+    "id": 1861,
+    "en": "The young teacher repaired the car.",
+    "zh": "年輕的老師修了車。"
+  },
+  {
+    "id": 1862,
+    "en": "Pause.",
+    "zh": "暫停。"
+  },
+  {
+    "id": 1863,
+    "en": "Walk away.",
+    "zh": "轉身離開吧。"
+  },
+  {
+    "id": 1864,
+    "en": "Look at me.",
+    "zh": "請看著我的眼睛。"
+  },
+  {
+    "id": 1865,
+    "en": "Is it raining now?",
+    "zh": "現在在下雨嗎？"
+  },
+  {
+    "id": 1866,
+    "en": "The teacher won the game.",
+    "zh": "老師贏得了比賽。"
+  },
+  {
+    "id": 1867,
+    "en": "The young teacher washed the dishes.",
+    "zh": "年輕的老師洗了碗。"
+  },
+  {
+    "id": 1868,
+    "en": "Resume.",
+    "zh": "繼續進行。"
+  },
+  {
+    "id": 1869,
+    "en": "Run faster!",
+    "zh": "跑快一點！"
+  },
+  {
+    "id": 1870,
+    "en": "Wait for me.",
+    "zh": "等等我別走太快！"
+  },
+  {
+    "id": 1871,
+    "en": "Is this seat taken?",
+    "zh": "這裡有人坐嗎？"
+  },
+  {
+    "id": 1872,
+    "en": "The teacher passed the exam.",
+    "zh": "老師通過了考試。"
+  },
+  {
+    "id": 1873,
+    "en": "The young teacher solved the problem.",
+    "zh": "年輕的老師解決了問題。"
+  },
+  {
+    "id": 1874,
+    "en": "Whisper.",
+    "zh": "小聲點說。"
+  },
+  {
+    "id": 1875,
+    "en": "Sleep well.",
+    "zh": "睡個好覺。"
+  },
+  {
+    "id": 1876,
+    "en": "Help me out.",
+    "zh": "請行行好伸出援手幫我。"
+  },
+  {
+    "id": 1877,
+    "en": "Is this for me?",
+    "zh": "這是給我的嗎？"
+  },
+  {
+    "id": 1878,
+    "en": "The student cleaned the house.",
+    "zh": "學生打掃了房子。"
+  },
+  {
+    "id": 1879,
+    "en": "The young teacher won the prize.",
+    "zh": "年輕的老師得獎了。"
+  },
+  {
+    "id": 1880,
+    "en": "Shout!",
+    "zh": "大聲喊出來！"
+  },
+  {
+    "id": 1881,
+    "en": "Fly high.",
+    "zh": "展翅高飛。"
+  },
+  {
+    "id": 1882,
+    "en": "Leave it here.",
+    "zh": "先放在這裡就好了。"
+  },
+  {
+    "id": 1883,
+    "en": "Is that your car?",
+    "zh": "那是你的車嗎？"
+  },
+  {
+    "id": 1884,
+    "en": "The student cooked the dinner.",
+    "zh": "學生煮了晚餐。"
+  },
+  {
+    "id": 1885,
+    "en": "The young teacher passed the test.",
+    "zh": "年輕的老師通過了測驗。"
+  },
+  {
+    "id": 1886,
+    "en": "Scream!",
+    "zh": "尖叫吧！"
+  },
+  {
+    "id": 1887,
+    "en": "Aim high.",
+    "zh": "立定高遠志向。"
+  },
+  {
+    "id": 1888,
+    "en": "Keep moving forward.",
+    "zh": "腳步不停堅定邁向前方。"
+  },
+  {
+    "id": 1889,
+    "en": "Do you like it?",
+    "zh": "你喜歡這個嗎？"
+  },
+  {
+    "id": 1890,
+    "en": "The student read the newspaper.",
+    "zh": "學生讀了報紙。"
+  },
+  {
+    "id": 1891,
+    "en": "The young teacher finished the job.",
+    "zh": "年輕的老師完成了工作。"
+  },
+  {
+    "id": 1892,
+    "en": "Hum.",
+    "zh": "哼唱。"
+  },
+  {
+    "id": 1893,
+    "en": "Jump high!",
+    "zh": "用力往上跳！"
+  },
+  {
+    "id": 1894,
+    "en": "Stay true always.",
+    "zh": "歷經世事滄桑永保赤子初心。"
+  },
+  {
+    "id": 1895,
+    "en": "Do you speak English?",
+    "zh": "你會說英文嗎？"
+  },
+  {
+    "id": 1896,
+    "en": "The student wrote a letter.",
+    "zh": "學生寫了一封信。"
+  },
+  {
+    "id": 1897,
+    "en": "The young teacher saved the day.",
+    "zh": "年輕的老師及時化解了危機。"
+  },
+  {
+    "id": 1898,
+    "en": "Whistle.",
+    "zh": "吹口哨。"
+  },
+  {
+    "id": 1899,
+    "en": "Climb up.",
+    "zh": "往上爬攀。"
+  },
+  {
+    "id": 1900,
+    "en": "Work beats talent.",
+    "zh": "勤能補拙勤奮勝過天賦。"
+  },
+  {
+    "id": 1901,
+    "en": "Do you have time?",
+    "zh": "你有空嗎？"
+  },
+  {
+    "id": 1902,
+    "en": "The student drove the car.",
+    "zh": "學生開了車。"
+  },
+  {
+    "id": 1903,
+    "en": "The smart student cleaned the house.",
+    "zh": "聰明的學生打掃了房子。"
+  },
+  {
+    "id": 1904,
+    "en": "Call.",
+    "zh": "打電話。 / 呼叫。"
+  },
+  {
+    "id": 1905,
+    "en": "Fall back!",
+    "zh": "全隊後撤！"
+  },
+  {
+    "id": 1906,
+    "en": "Time heals all.",
+    "zh": "時間能撫平所有撕心傷痛。"
+  },
+  {
+    "id": 1907,
+    "en": "Do you need help?",
+    "zh": "你需要幫忙嗎？"
+  },
+  {
+    "id": 1908,
+    "en": "The student bought a ticket.",
+    "zh": "學生買了一張票。"
+  },
+  {
+    "id": 1909,
+    "en": "The smart student cooked the dinner.",
+    "zh": "聰明的學生煮了晚餐。"
+  },
+  {
+    "id": 1910,
+    "en": "Answer.",
+    "zh": "請回答。 / 接電話。"
+  },
+  {
+    "id": 1911,
+    "en": "Push forward!",
+    "zh": "全力推進！"
+  },
+  {
+    "id": 1912,
+    "en": "Where are they?",
+    "zh": "他們目前人在哪裡呢？"
+  },
+  {
+    "id": 1913,
+    "en": "Do you feel better?",
+    "zh": "你感覺好點了嗎？"
+  },
+  {
+    "id": 1914,
+    "en": "The student opened the door.",
+    "zh": "學生開了門。"
+  },
+  {
+    "id": 1915,
+    "en": "The smart student read the book.",
+    "zh": "聰明的學生讀了這本書。"
+  },
+  {
+    "id": 1916,
+    "en": "Reply.",
+    "zh": "請回覆。"
+  },
+  {
+    "id": 1917,
+    "en": "Pull back.",
+    "zh": "拉回陣線。"
+  },
+  {
+    "id": 1918,
+    "en": "Where are we?",
+    "zh": "我們現在位於地圖何處？"
+  },
+  {
+    "id": 1919,
+    "en": "Please keep quiet here.",
+    "zh": "請在此保持安靜。"
+  },
+  {
+    "id": 1920,
+    "en": "The student closed the window.",
+    "zh": "學生關上了窗戶。"
+  },
+  {
+    "id": 1921,
+    "en": "The smart student wrote the letter.",
+    "zh": "聰明的學生寫了這封信。"
+  },
+  {
+    "id": 1922,
+    "en": "Ask.",
+    "zh": "問吧。 / 請提問。"
+  },
+  {
+    "id": 1923,
+    "en": "Go home.",
+    "zh": "早點回家吧。"
+  },
+  {
+    "id": 1924,
+    "en": "Why is that?",
+    "zh": "為什麼會是那種情況？"
+  },
+  {
+    "id": 1925,
+    "en": "Please wait in line.",
+    "zh": "請排隊等候。"
+  },
+  {
+    "id": 1926,
+    "en": "The student locked the gate.",
+    "zh": "學生鎖上了大門。"
+  },
+  {
+    "id": 1927,
+    "en": "The smart student drove the car.",
+    "zh": "聰明的學生開了車。"
+  },
+  {
+    "id": 1928,
+    "en": "Beg.",
+    "zh": "乞求。 / 拜託。"
+  },
+  {
+    "id": 1929,
+    "en": "Stay home.",
+    "zh": "待在家別出門。"
+  },
+  {
+    "id": 1930,
+    "en": "When is it?",
+    "zh": "活動預定在何時舉行？"
+  },
+  {
+    "id": 1931,
+    "en": "Please take your time.",
+    "zh": "請慢慢來，不急。"
+  },
+  {
+    "id": 1932,
+    "en": "The student drank hot coffee.",
+    "zh": "學生喝了熱咖啡。"
+  },
+  {
+    "id": 1933,
+    "en": "The smart student bought the ticket.",
+    "zh": "聰明的學生買了這張票。"
+  },
+  {
+    "id": 1934,
+    "en": "Plead.",
+    "zh": "懇求。"
+  },
+  {
+    "id": 1935,
+    "en": "Leave now.",
+    "zh": "現在立刻動身。"
+  },
+  {
+    "id": 1936,
+    "en": "How is it?",
+    "zh": "品嚐起來味道覺得如何？"
+  },
+  {
+    "id": 1937,
+    "en": "Please follow me now.",
+    "zh": "請跟我來。"
+  },
+  {
+    "id": 1938,
+    "en": "The student drank green tea.",
+    "zh": "學生喝了綠茶。"
+  },
+  {
+    "id": 1939,
+    "en": "The smart student opened the door.",
+    "zh": "聰明的學生開了門。"
+  },
+  {
+    "id": 1940,
+    "en": "Promise.",
+    "zh": "保證。 / 發誓承諾。"
+  },
+  {
+    "id": 1941,
+    "en": "Start now.",
+    "zh": "立即著手開始。"
+  },
+  {
+    "id": 1942,
+    "en": "How was today?",
+    "zh": "今天在學校過得開心嗎？"
+  },
+  {
+    "id": 1943,
+    "en": "Please shut the door.",
+    "zh": "請把門關上。"
+  },
+  {
+    "id": 1944,
+    "en": "The student ate fresh fruit.",
+    "zh": "學生吃了新鮮水果。"
+  },
+  {
+    "id": 1945,
+    "en": "The smart student closed the window.",
+    "zh": "聰明的學生關上了窗戶。"
+  },
+  {
+    "id": 1946,
+    "en": "Swear.",
+    "zh": "發誓。"
+  },
+  {
+    "id": 1947,
+    "en": "Begin now.",
+    "zh": "現在開始進行。"
+  },
+  {
+    "id": 1948,
+    "en": "Is it real?",
+    "zh": "這件傳奇神話是真的嗎？"
+  },
+  {
+    "id": 1949,
+    "en": "Please lock the gate.",
+    "zh": "請把大門鎖好。"
+  },
+  {
+    "id": 1950,
+    "en": "The student ate warm bread.",
+    "zh": "學生吃了溫熱的麵包。"
+  },
+  {
+    "id": 1951,
+    "en": "The smart student locked the gate.",
+    "zh": "聰明的學生鎖上了大門。"
+  },
+  {
+    "id": 1952,
+    "en": "Forgive.",
+    "zh": "寬恕原諒吧。"
+  },
+  {
+    "id": 1953,
+    "en": "Stop now.",
+    "zh": "現在立即打住。"
+  },
+  {
+    "id": 1954,
+    "en": "Is it safe?",
+    "zh": "這安全嗎？"
+  },
+  {
+    "id": 1955,
+    "en": "Please fasten seat belts.",
+    "zh": "請繫好安全帶。"
+  },
+  {
+    "id": 1956,
+    "en": "The student watched the news.",
+    "zh": "學生看了新聞。"
+  },
+  {
+    "id": 1957,
+    "en": "The smart student drank hot tea.",
+    "zh": "聰明的學生喝了熱茶。"
+  },
+  {
+    "id": 1958,
+    "en": "Apologize.",
+    "zh": "道歉。"
+  },
+  {
+    "id": 1959,
+    "en": "Wait here.",
+    "zh": "在此處稍候片刻。"
+  },
+  {
+    "id": 1960,
+    "en": "Is it true?",
+    "zh": "這是真的嗎？"
+  },
+  {
+    "id": 1961,
+    "en": "Please show your ID.",
+    "zh": "請出示身分證件。"
+  },
+  {
+    "id": 1962,
+    "en": "The student listened to music.",
+    "zh": "學生聽了音樂。"
+  },
+  {
+    "id": 1963,
+    "en": "The smart student drank black coffee.",
+    "zh": "聰明的學生喝了黑咖啡。"
+  },
+  {
+    "id": 1964,
+    "en": "Pardon?",
+    "zh": "不好意思請再說一次？"
+  },
+  {
+    "id": 1965,
+    "en": "Sit still.",
+    "zh": "坐好別亂動。"
+  },
+  {
+    "id": 1966,
+    "en": "Is it ready?",
+    "zh": "準備好了嗎？"
+  },
+  {
+    "id": 1967,
+    "en": "Please check your bags.",
+    "zh": "請檢查您的隨身行李。"
+  },
+  {
+    "id": 1968,
+    "en": "The student played the piano.",
+    "zh": "學生彈了鋼琴。"
+  },
+  {
+    "id": 1969,
+    "en": "The smart student ate fresh fruit.",
+    "zh": "聰明的學生吃了新鮮水果。"
+  },
+  {
+    "id": 1970,
+    "en": "Please.",
+    "zh": "拜託。 / 請。"
+  },
+  {
+    "id": 1971,
+    "en": "Stand still.",
+    "zh": "站直站穩別晃。"
+  },
+  {
+    "id": 1972,
+    "en": "Is it open?",
+    "zh": "現在有開嗎？"
+  },
+  {
+    "id": 1973,
+    "en": "Please pay attention now.",
+    "zh": "請大家注意聽。"
+  },
+  {
+    "id": 1974,
+    "en": "The student played the guitar.",
+    "zh": "學生彈了吉他。"
+  },
+  {
+    "id": 1975,
+    "en": "The smart student ate warm bread.",
+    "zh": "聰明的學生吃了溫熱的麵包。"
+  },
+  {
+    "id": 1976,
+    "en": "Observe.",
+    "zh": "仔細觀察。"
+  },
+  {
+    "id": 1977,
+    "en": "Lie down.",
+    "zh": "請躺在床上。"
+  },
+  {
+    "id": 1978,
+    "en": "Is it free?",
+    "zh": "這是免費的嗎？"
+  },
+  {
+    "id": 1979,
+    "en": "Keep off the grass.",
+    "zh": "請勿踐踏草坪。"
+  },
+  {
+    "id": 1980,
+    "en": "The student helped the friend.",
+    "zh": "學生幫助了朋友。"
+  },
+  {
+    "id": 1981,
+    "en": "The smart student watched the news.",
+    "zh": "聰明的學生看了新聞。"
+  },
+  {
+    "id": 1982,
+    "en": "Notice.",
+    "zh": "注意看。"
+  },
+  {
+    "id": 1983,
+    "en": "Rest now.",
+    "zh": "現在好好歇息。"
+  },
+  {
+    "id": 1984,
+    "en": "Can you hear?",
+    "zh": "聽得到嗎？"
+  },
+  {
+    "id": 1985,
+    "en": "Keep your eyes open.",
+    "zh": "保持警覺，睜大眼睛。"
+  },
+  {
+    "id": 1986,
+    "en": "The student helped the patient.",
+    "zh": "學生照顧了病患。"
+  },
+  {
+    "id": 1987,
+    "en": "The smart student listened to music.",
+    "zh": "聰明的學生聽了音樂。"
+  },
+  {
+    "id": 1988,
+    "en": "Witness.",
+    "zh": "親眼見證。"
+  },
+  {
+    "id": 1989,
+    "en": "Breathe deeply.",
+    "zh": "做個深呼吸。"
+  },
+  {
+    "id": 1990,
+    "en": "Can you see?",
+    "zh": "看得到嗎？"
+  },
+  {
+    "id": 1991,
+    "en": "Keep your head down.",
+    "zh": "低頭伏倒掩護避開危險！"
+  },
+  {
+    "id": 1992,
+    "en": "The student visited the museum.",
+    "zh": "學生參觀了博物館。"
+  },
+  {
+    "id": 1993,
+    "en": "The smart student played the piano.",
+    "zh": "聰明的學生彈了鋼琴。"
+  },
+  {
+    "id": 1994,
+    "en": "Hear.",
+    "zh": "聽聽看。"
+  },
+  {
+    "id": 1995,
+    "en": "Smile warmly.",
+    "zh": "展現溫暖微笑。"
+  },
+  {
+    "id": 1996,
+    "en": "Can you come?",
+    "zh": "你能來嗎？"
+  },
+  {
+    "id": 1997,
+    "en": "Keep your hands off!",
+    "zh": "把你的髒手拿開不准碰！"
+  },
+  {
+    "id": 1998,
+    "en": "The student climbed the mountain.",
+    "zh": "學生去爬了山。"
+  },
+  {
+    "id": 1999,
+    "en": "The smart student played the guitar.",
+    "zh": "聰明的學生彈了吉他。"
+  },
+  {
+    "id": 2000,
+    "en": "Taste.",
+    "zh": "嚐嚐看。"
+  },
+  {
+    "id": 2001,
+    "en": "Speak softly.",
+    "zh": "輕聲細語說話。"
+  },
+  {
+    "id": 2002,
+    "en": "Can I help?",
+    "zh": "需要我為您提供協助嗎？"
+  },
+  {
+    "id": 2003,
+    "en": "Keep the change please.",
+    "zh": "不用找零了。"
+  },
+  {
+    "id": 2004,
+    "en": "The student walked the dog.",
+    "zh": "學生去遛了狗。"
+  },
+  {
+    "id": 2005,
+    "en": "The smart student helped the patient.",
+    "zh": "聰明的學生照顧了病患。"
+  },
+  {
+    "id": 2006,
+    "en": "Smell.",
+    "zh": "聞聞看。"
+  },
+  {
+    "id": 2007,
+    "en": "Whisper quietly.",
+    "zh": "輕聲耳語。"
+  },
+  {
+    "id": 2008,
+    "en": "Can we go?",
+    "zh": "我們可以走了嗎？"
+  },
+  {
+    "id": 2009,
+    "en": "Wash your hands thoroughly.",
+    "zh": "請徹底洗淨雙手。"
+  },
+  {
+    "id": 2010,
+    "en": "The student watered the flowers.",
+    "zh": "學生給花澆了水。"
+  },
+  {
+    "id": 2011,
+    "en": "The smart student visited the museum.",
+    "zh": "聰明的學生參觀了博物館。"
+  },
+  {
+    "id": 2012,
+    "en": "Feel.",
+    "zh": "摸摸看。 / 感受一下。"
+  },
+  {
+    "id": 2013,
+    "en": "Sing aloud.",
+    "zh": "放聲高歌吧。"
+  },
+  {
+    "id": 2014,
+    "en": "May I help?",
+    "zh": "我可以幫忙嗎？"
+  },
+  {
+    "id": 2015,
+    "en": "Brush your teeth twice.",
+    "zh": "每天刷牙兩次。"
+  },
+  {
+    "id": 2016,
+    "en": "The student planted some seeds.",
+    "zh": "學生播下了種子。"
+  },
+  {
+    "id": 2017,
+    "en": "The smart student climbed the mountain.",
+    "zh": "聰明的學生去爬了山。"
+  },
+  {
+    "id": 2018,
+    "en": "Inhale.",
+    "zh": "吸氣。"
+  },
+  {
+    "id": 2019,
+    "en": "Laugh aloud.",
+    "zh": "放聲大笑。"
+  },
+  {
+    "id": 2020,
+    "en": "See you tomorrow.",
+    "zh": "明天同一時間學校見囉。"
+  },
+  {
+    "id": 2021,
+    "en": "Eat healthy food daily.",
+    "zh": "每天吃健康食物。"
+  },
+  {
+    "id": 2022,
+    "en": "The student repaired the roof.",
+    "zh": "學生修了屋頂。"
+  },
+  {
+    "id": 2023,
+    "en": "The smart student walked the dog.",
+    "zh": "聰明的學生去遛了狗。"
+  },
+  {
+    "id": 2024,
+    "en": "Exhale.",
+    "zh": "呼氣。"
+  },
+  {
+    "id": 2025,
+    "en": "Cry aloud.",
+    "zh": "痛快哭出來吧。"
+  },
+  {
+    "id": 2026,
+    "en": "See you there.",
+    "zh": "到時候那裡見。"
+  },
+  {
+    "id": 2027,
+    "en": "Drink plenty of water.",
+    "zh": "多喝水。"
+  },
+  {
+    "id": 2028,
+    "en": "The student washed the dishes.",
+    "zh": "學生洗了碗。"
+  },
+  {
+    "id": 2029,
+    "en": "The smart student watered the garden.",
+    "zh": "聰明的學生給花園澆了水。"
+  },
+  {
+    "id": 2030,
+    "en": "Swallow.",
+    "zh": "吞下去。"
+  },
+  {
+    "id": 2031,
+    "en": "Think clearly.",
+    "zh": "頭腦保持清醒。"
+  },
+  {
+    "id": 2032,
+    "en": "See you around.",
+    "zh": "後會有期隨時轉角相逢。"
+  },
+  {
+    "id": 2033,
+    "en": "Get some fresh air.",
+    "zh": "去外面透透氣。"
+  },
+  {
+    "id": 2034,
+    "en": "The student checked the schedule.",
+    "zh": "學生確認了行程表。"
+  },
+  {
+    "id": 2035,
+    "en": "The smart student planted green trees.",
+    "zh": "聰明的學生種了綠樹。"
+  },
+  {
+    "id": 2036,
+    "en": "Chew.",
+    "zh": "細細咀嚼。"
+  },
+  {
+    "id": 2037,
+    "en": "Study hard.",
+    "zh": "用功認真念書。"
+  },
+  {
+    "id": 2038,
+    "en": "Good to go.",
+    "zh": "準備好了，隨時可出發。"
+  },
+  {
+    "id": 2039,
+    "en": "Never tell a lie.",
+    "zh": "永遠不要說謊。"
+  },
+  {
+    "id": 2040,
+    "en": "The student solved the puzzle.",
+    "zh": "學生解開了謎題。"
+  },
+  {
+    "id": 2041,
+    "en": "The smart student repaired the car.",
+    "zh": "聰明的學生修了車。"
+  },
+  {
+    "id": 2042,
+    "en": "Bite.",
+    "zh": "咬一口。"
+  },
+  {
+    "id": 2043,
+    "en": "Play fair.",
+    "zh": "公平競爭。"
+  },
+  {
+    "id": 2044,
+    "en": "More and more.",
+    "zh": "越來越多。"
+  },
+  {
+    "id": 2045,
+    "en": "Never give up hope.",
+    "zh": "永不放棄希望。"
+  },
+  {
+    "id": 2046,
+    "en": "The student won the game.",
+    "zh": "學生贏得了比賽。"
+  },
+  {
+    "id": 2047,
+    "en": "The smart student washed the dishes.",
+    "zh": "聰明的學生洗了碗。"
+  },
+  {
+    "id": 2048,
+    "en": "Sip.",
+    "zh": "啜飲一口。"
+  },
+  {
+    "id": 2049,
+    "en": "Fight hard!",
+    "zh": "全力頑抗到底！"
+  },
+  {
+    "id": 2050,
+    "en": "Less is more.",
+    "zh": "少即是多簡約至上美學。"
+  },
+  {
+    "id": 2051,
+    "en": "Always do your best.",
+    "zh": "凡事全力以赴。"
+  },
+  {
+    "id": 2052,
+    "en": "The student passed the exam.",
+    "zh": "學生通過了考試。"
+  },
+  {
+    "id": 2053,
+    "en": "The smart student solved the problem.",
+    "zh": "聰明的學生解決了問題。"
+  },
+  {
+    "id": 2054,
+    "en": "Gulp.",
+    "zh": "大口喝下。"
+  },
+  {
+    "id": 2055,
+    "en": "Win big!",
+    "zh": "贏得漂亮大勝！"
+  },
+  {
+    "id": 2056,
+    "en": "Here we go!",
+    "zh": "我們出發囉！好戲上場了！"
+  },
+  {
+    "id": 2057,
+    "en": "Always tell the truth.",
+    "zh": "永遠說實話。"
+  },
+  {
+    "id": 2058,
+    "en": "The chef cleaned the house.",
+    "zh": "大廚打掃了房子。"
+  },
+  {
+    "id": 2059,
+    "en": "The smart student won the prize.",
+    "zh": "聰明的學生得獎了。"
+  },
+  {
+    "id": 2060,
+    "en": "Cook.",
+    "zh": "做菜吧。"
+  },
+  {
+    "id": 2061,
+    "en": "Live well.",
+    "zh": "過好每一天生活。"
+  },
+  {
+    "id": 2062,
+    "en": "Off we go.",
+    "zh": "出發起航展開新的旅程。"
+  },
+  {
+    "id": 2063,
+    "en": "Believe in your dreams.",
+    "zh": "勇敢相信你自己心中的美好夢想。"
+  },
+  {
+    "id": 2064,
+    "en": "The chef cooked the dinner.",
+    "zh": "大廚煮了晚餐。"
+  },
+  {
+    "id": 2065,
+    "en": "The smart student passed the test.",
+    "zh": "聰明的學生通過了測驗。"
+  },
+  {
+    "id": 2066,
+    "en": "Bake.",
+    "zh": "烘烤。"
+  },
+  {
+    "id": 2067,
+    "en": "Love deeply.",
+    "zh": "深情真誠去愛。"
+  },
+  {
+    "id": 2068,
+    "en": "Out of service.",
+    "zh": "公車停駛無營運服務中。"
+  },
+  {
+    "id": 2069,
+    "en": "Trust in your abilities.",
+    "zh": "對自己的專業能力充滿自信心。"
+  },
+  {
+    "id": 2070,
+    "en": "The chef read the newspaper.",
+    "zh": "大廚讀了報紙。"
+  },
+  {
+    "id": 2071,
+    "en": "The smart student finished the job.",
+    "zh": "聰明的學生完成了工作。"
+  },
+  {
+    "id": 2072,
+    "en": "Boil.",
+    "zh": "煮沸。"
+  },
+  {
+    "id": 2073,
+    "en": "Forgive easily.",
+    "zh": "學會大度原諒。"
+  },
+  {
+    "id": 2074,
+    "en": "Open all night.",
+    "zh": "整夜營業。"
+  },
+  {
+    "id": 2075,
+    "en": "Focus on your goals.",
+    "zh": "專注於你的目標。"
+  },
+  {
+    "id": 2076,
+    "en": "The chef wrote a letter.",
+    "zh": "大廚寫了一封信。"
+  },
+  {
+    "id": 2077,
+    "en": "The smart student saved the day.",
+    "zh": "聰明的學生及時化解了危機。"
+  },
+  {
+    "id": 2078,
+    "en": "Fry.",
+    "zh": "油炸。 / 香煎。"
+  },
+  {
+    "id": 2079,
+    "en": "Act fast!",
+    "zh": "刻不容緩火速行動！"
+  },
+  {
+    "id": 2080,
+    "en": "Open every day.",
+    "zh": "全年無休每日照常營業。"
+  },
+  {
+    "id": 2081,
+    "en": "Stay away from danger.",
+    "zh": "遠離危險。"
+  },
+  {
+    "id": 2082,
+    "en": "The chef drove the car.",
+    "zh": "大廚開了車。"
+  },
+  {
+    "id": 2083,
+    "en": "The skilled chef cleaned the house.",
+    "zh": "熟練的大廚打掃了房子。"
+  },
+  {
+    "id": 2084,
+    "en": "Stir.",
+    "zh": "攪拌均勻。"
+  },
+  {
+    "id": 2085,
+    "en": "Move quickly.",
+    "zh": "迅速移動位置。"
+  },
+  {
+    "id": 2086,
+    "en": "Open for business.",
+    "zh": "開始營業歡迎入內選購。"
+  },
+  {
+    "id": 2087,
+    "en": "Stay out of trouble.",
+    "zh": "別惹麻煩。"
+  },
+  {
+    "id": 2088,
+    "en": "The chef bought a ticket.",
+    "zh": "大廚買了一張票。"
+  },
+  {
+    "id": 2089,
+    "en": "The skilled chef cooked the dinner.",
+    "zh": "熟練的大廚煮了晚餐。"
+  },
+  {
+    "id": 2090,
+    "en": "Pour.",
+    "zh": "倒出來。"
+  },
+  {
+    "id": 2091,
+    "en": "Answer truthfully.",
+    "zh": "請如實回答問題。"
+  },
+  {
+    "id": 2092,
+    "en": "Closed for renovation.",
+    "zh": "內部整修暫停營業告示。"
+  },
+  {
+    "id": 2093,
+    "en": "Time waits for nobody.",
+    "zh": "時間不等人。"
+  },
+  {
+    "id": 2094,
+    "en": "The chef opened the door.",
+    "zh": "大廚開了門。"
+  },
+  {
+    "id": 2095,
+    "en": "The skilled chef read the book.",
+    "zh": "熟練的大廚讀了這本書。"
+  },
+  {
+    "id": 2096,
+    "en": "Mix.",
+    "zh": "混合均勻。"
+  },
+  {
+    "id": 2097,
+    "en": "Ask politely.",
+    "zh": "禮貌開口請教。"
+  },
+  {
+    "id": 2098,
+    "en": "Closed on Monday.",
+    "zh": "週一公休。"
+  },
+  {
+    "id": 2099,
+    "en": "Action speaks louder here.",
+    "zh": "行動勝於空談。"
+  },
+  {
+    "id": 2100,
+    "en": "The chef closed the window.",
+    "zh": "大廚關上了窗戶。"
+  },
+  {
+    "id": 2101,
+    "en": "The skilled chef wrote the letter.",
+    "zh": "熟練的大廚寫了這封信。"
+  },
+  {
+    "id": 2102,
+    "en": "Cut!",
+    "zh": "卡！ / 停拍！"
+  },
+  {
+    "id": 2103,
+    "en": "Listen attentively.",
+    "zh": "全神貫注傾聽。"
+  },
+  {
+    "id": 2104,
+    "en": "No parking here.",
+    "zh": "此處禁止停車違者拖吊。"
+  },
+  {
+    "id": 2105,
+    "en": "All roads lead home.",
+    "zh": "條條大路通向家門。"
+  },
+  {
+    "id": 2106,
+    "en": "The chef locked the gate.",
+    "zh": "大廚鎖上了大門。"
+  },
+  {
+    "id": 2107,
+    "en": "The skilled chef drove the car.",
+    "zh": "熟練的大廚開了車。"
+  },
+  {
+    "id": 2108,
+    "en": "Slice.",
+    "zh": "切片。"
+  },
+  {
+    "id": 2109,
+    "en": "Read carefully.",
+    "zh": "請仔細審閱條款。"
+  },
+  {
+    "id": 2110,
+    "en": "No entry allowed.",
+    "zh": "嚴禁未經許可擅自入內。"
+  },
+  {
+    "id": 2111,
+    "en": "Practice brings great results.",
+    "zh": "多加練習能帶來好成果。"
+  },
+  {
+    "id": 2112,
+    "en": "The chef drank hot coffee.",
+    "zh": "大廚喝了熱咖啡。"
+  },
+  {
+    "id": 2113,
+    "en": "The skilled chef bought the ticket.",
+    "zh": "熟練的大廚買了這張票。"
+  },
+  {
+    "id": 2114,
+    "en": "Chop.",
+    "zh": "剁碎。 / 砍伐。"
+  },
+  {
+    "id": 2115,
+    "en": "Write neatly.",
+    "zh": "字跡書寫端正工整。"
+  },
+  {
+    "id": 2116,
+    "en": "Handle with care.",
+    "zh": "小心輕放內有易碎物品。"
+  },
+  {
+    "id": 2117,
+    "en": "Knowledge gives great power.",
+    "zh": "知識就是力量。"
+  },
+  {
+    "id": 2118,
+    "en": "The chef drank green tea.",
+    "zh": "大廚喝了綠茶。"
+  },
+  {
+    "id": 2119,
+    "en": "The skilled chef opened the door.",
+    "zh": "熟練的大廚開了門。"
+  },
+  {
+    "id": 2120,
+    "en": "Peel.",
+    "zh": "削皮。 / 剝皮。"
+  },
+  {
+    "id": 2121,
+    "en": "Check twice.",
+    "zh": "務必重複核對兩遍。"
+  },
+  {
+    "id": 2122,
+    "en": "Keep off grass.",
+    "zh": "請勿踐踏草坪維護綠化。"
+  },
+  {
+    "id": 2123,
+    "en": "Honesty is best policy.",
+    "zh": "誠實為上策。"
+  },
+  {
+    "id": 2124,
+    "en": "The chef ate fresh fruit.",
+    "zh": "大廚吃了新鮮水果。"
+  },
+  {
+    "id": 2125,
+    "en": "The skilled chef closed the window.",
+    "zh": "熟練的大廚關上了窗戶。"
+  },
+  {
+    "id": 2126,
+    "en": "Study.",
+    "zh": "認真讀書。"
+  },
+  {
+    "id": 2127,
+    "en": "Pay cash.",
+    "zh": "請支付現金。"
+  },
+  {
+    "id": 2128,
+    "en": "Please wait here.",
+    "zh": "請在此處排隊依序等候。"
+  },
+  {
+    "id": 2129,
+    "en": "Check in at noon.",
+    "zh": "中午辦理入住。"
+  },
+  {
+    "id": 2130,
+    "en": "The chef ate warm bread.",
+    "zh": "大廚吃了溫熱的麵包。"
+  },
+  {
+    "id": 2131,
+    "en": "The skilled chef locked the gate.",
+    "zh": "熟練的大廚鎖上了大門。"
+  },
+  {
+    "id": 2132,
+    "en": "Learn.",
+    "zh": "虛心學習。"
+  },
+  {
+    "id": 2133,
+    "en": "Save money.",
+    "zh": "節儉儲蓄積累財富。"
+  },
+  {
+    "id": 2134,
+    "en": "Please sign here.",
+    "zh": "請在合約右下方此處簽章。"
+  },
+  {
+    "id": 2135,
+    "en": "Check out by eleven.",
+    "zh": "上午十一點前退房。"
+  },
+  {
+    "id": 2136,
+    "en": "The chef watched the news.",
+    "zh": "大廚看了新聞。"
+  },
+  {
+    "id": 2137,
+    "en": "The skilled chef drank hot tea.",
+    "zh": "熟練的大廚喝了熱茶。"
+  },
+  {
+    "id": 2138,
+    "en": "Practice.",
+    "zh": "多加練習。"
+  },
+  {
+    "id": 2139,
+    "en": "Spend wisely.",
+    "zh": "聰明理性消費。"
+  },
+  {
+    "id": 2140,
+    "en": "Please pay cash.",
+    "zh": "小本經營敬請支付現金。"
+  },
+  {
+    "id": 2141,
+    "en": "Room service is available.",
+    "zh": "有提供客房送餐服務。"
+  },
+  {
+    "id": 2142,
+    "en": "The chef listened to music.",
+    "zh": "大廚聽了音樂。"
+  },
+  {
+    "id": 2143,
+    "en": "The skilled chef drank black coffee.",
+    "zh": "熟練的大廚喝了黑咖啡。"
+  },
+  {
+    "id": 2144,
+    "en": "Teach.",
+    "zh": "教導我吧。"
+  },
+  {
+    "id": 2145,
+    "en": "Invest early.",
+    "zh": "儘早開始理財投資。"
+  },
+  {
+    "id": 2146,
+    "en": "Thank you all.",
+    "zh": "由衷感謝全體貴賓蒞臨。"
+  },
+  {
+    "id": 2147,
+    "en": "Breakfast is ready now.",
+    "zh": "早餐準備好了。"
+  },
+  {
+    "id": 2148,
+    "en": "The chef played the piano.",
+    "zh": "大廚彈了鋼琴。"
+  },
+  {
+    "id": 2149,
+    "en": "The skilled chef ate fresh fruit.",
+    "zh": "熟練的大廚吃了新鮮水果。"
+  },
+  {
+    "id": 2150,
+    "en": "Work.",
+    "zh": "上工。 / 專心工作。"
+  },
+  {
+    "id": 2151,
+    "en": "Clean up.",
+    "zh": "動手打掃收拾。"
+  },
+  {
+    "id": 2152,
+    "en": "Thank you both.",
+    "zh": "感謝你們兩位鼎力相助。"
+  },
+  {
+    "id": 2153,
+    "en": "Dinner starts at six.",
+    "zh": "晚餐六點開始。"
+  },
+  {
+    "id": 2154,
+    "en": "The chef played the guitar.",
+    "zh": "大廚彈了吉他。"
+  },
+  {
+    "id": 2155,
+    "en": "The skilled chef ate warm bread.",
+    "zh": "熟練的大廚吃了溫熱的麵包。"
+  },
+  {
+    "id": 2156,
+    "en": "Plan.",
+    "zh": "好好規劃。"
+  },
+  {
+    "id": 2157,
+    "en": "Wash up.",
+    "zh": "洗手洗臉吃飯囉。"
+  },
+  {
+    "id": 2158,
+    "en": "Thanks a lot!",
+    "zh": "真是太謝謝你了感激不盡！"
+  },
+  {
+    "id": 2159,
+    "en": "Lunch break begins now.",
+    "zh": "午休時間開始了。"
+  },
+  {
+    "id": 2160,
+    "en": "The chef helped the friend.",
+    "zh": "大廚幫助了朋友。"
+  },
+  {
+    "id": 2161,
+    "en": "The skilled chef watched the news.",
+    "zh": "熟練的大廚看了新聞。"
+  },
+  {
+    "id": 2162,
+    "en": "Organize.",
+    "zh": "整理歸納。"
+  },
+  {
+    "id": 2163,
+    "en": "Pack up.",
+    "zh": "收拾行囊打包完畢。"
+  },
+  {
+    "id": 2164,
+    "en": "Welcome on board!",
+    "zh": "歡迎登機／歡迎加入我們！"
+  },
+  {
+    "id": 2165,
+    "en": "Coffee smells so good.",
+    "zh": "咖啡聞起來好香。"
+  },
+  {
+    "id": 2166,
+    "en": "The chef helped the patient.",
+    "zh": "大廚照顧了病患。"
+  },
+  {
+    "id": 2167,
+    "en": "The skilled chef listened to music.",
+    "zh": "熟練的大廚聽了音樂。"
+  },
+  {
+    "id": 2168,
+    "en": "Sort.",
+    "zh": "分類整理。"
+  },
+  {
+    "id": 2169,
+    "en": "Tidy up.",
+    "zh": "把房間收拾整齊。"
+  },
+  {
+    "id": 2170,
+    "en": "Welcome to Taiwan!",
+    "zh": "誠摯歡迎來到美麗台灣！"
+  },
+  {
+    "id": 2171,
+    "en": "Tea tastes very sweet.",
+    "zh": "這茶嚐起來很甘甜。"
+  },
+  {
+    "id": 2172,
+    "en": "The chef visited the museum.",
+    "zh": "大廚參觀了博物館。"
+  },
+  {
+    "id": 2173,
+    "en": "The skilled chef played the piano.",
+    "zh": "熟練的大廚彈了鋼琴。"
+  },
+  {
+    "id": 2174,
+    "en": "Clean.",
+    "zh": "打掃乾淨。"
+  },
+  {
+    "id": 2175,
+    "en": "Throw away.",
+    "zh": "丟進垃圾桶扔掉。"
+  },
+  {
+    "id": 2176,
+    "en": "Welcome back home!",
+    "zh": "歡迎平安歸來返回甜蜜家園！"
+  },
+  {
+    "id": 2177,
+    "en": "Water boils very quickly.",
+    "zh": "水很快就燒開了。"
+  },
+  {
+    "id": 2178,
+    "en": "The chef climbed the mountain.",
+    "zh": "大廚去爬了山。"
+  },
+  {
+    "id": 2179,
+    "en": "The skilled chef played the guitar.",
+    "zh": "熟練的大廚彈了吉他。"
+  },
+  {
+    "id": 2180,
+    "en": "Wash.",
+    "zh": "清洗乾淨。"
+  },
+  {
+    "id": 2181,
+    "en": "Put away.",
+    "zh": "放回原位收好。"
+  },
+  {
+    "id": 2182,
+    "en": "Have safe travels.",
+    "zh": "祝你們整趟旅途平安順遂。"
+  },
+  {
+    "id": 2183,
+    "en": "Bread is freshly baked.",
+    "zh": "麵包是剛出爐的。"
+  },
+  {
+    "id": 2184,
+    "en": "The chef walked the dog.",
+    "zh": "大廚去遛了狗。"
+  },
+  {
+    "id": 2185,
+    "en": "The skilled chef helped the patient.",
+    "zh": "熟練的大廚照顧了病患。"
+  },
+  {
+    "id": 2186,
+    "en": "Scrub.",
+    "zh": "用力刷洗。"
+  },
+  {
+    "id": 2187,
+    "en": "Bring back.",
+    "zh": "記得帶回來還我。"
+  },
+  {
+    "id": 2188,
+    "en": "Enjoy your trip.",
+    "zh": "盡情享受這趟度假旅行吧。"
+  },
+  {
+    "id": 2189,
+    "en": "Soup is too hot!",
+    "zh": "湯太燙了！"
+  },
+  {
+    "id": 2190,
+    "en": "The chef watered the flowers.",
+    "zh": "大廚給花澆了水。"
+  },
+  {
+    "id": 2191,
+    "en": "The skilled chef visited the museum.",
+    "zh": "熟練的大廚參觀了博物館。"
+  },
+  {
+    "id": 2192,
+    "en": "Wipe.",
+    "zh": "擦拭乾淨。"
+  },
+  {
+    "id": 2193,
+    "en": "Send back.",
+    "zh": "退回原處重寄。"
+  },
+  {
+    "id": 2194,
+    "en": "Enjoy your stay.",
+    "zh": "祝您在敝飯店住得舒適愜意。"
+  },
+  {
+    "id": 2195,
+    "en": "Ice cream melts fast.",
+    "zh": "冰淇淋融化得很快。"
+  },
+  {
+    "id": 2196,
+    "en": "The chef planted some seeds.",
+    "zh": "大廚播下了種子。"
+  },
+  {
+    "id": 2197,
+    "en": "The skilled chef climbed the mountain.",
+    "zh": "熟練的大廚去爬了山。"
+  },
+  {
+    "id": 2198,
+    "en": "Sweep.",
+    "zh": "掃地。"
+  },
+  {
+    "id": 2199,
+    "en": "Call back.",
+    "zh": "待會兒再回電。"
+  },
+  {
+    "id": 2200,
+    "en": "Enjoy your meal.",
+    "zh": "祝您用餐愉快慢用美饌。"
+  },
+  {
+    "id": 2201,
+    "en": "Fruit is very sweet.",
+    "zh": "水果很甜。"
+  },
+  {
+    "id": 2202,
+    "en": "The chef repaired the roof.",
+    "zh": "大廚修了屋頂。"
+  },
+  {
+    "id": 2203,
+    "en": "The skilled chef walked the dog.",
+    "zh": "熟練的大廚去遛了狗。"
+  },
+  {
+    "id": 2204,
+    "en": "Dry.",
+    "zh": "烘乾。 / 擦乾。"
+  },
+  {
+    "id": 2205,
+    "en": "Write back.",
+    "zh": "記得提筆回信喔。"
+  },
+  {
+    "id": 2206,
+    "en": "Enjoy the show.",
+    "zh": "祝您欣賞一場精彩的演出。"
+  },
+  {
+    "id": 2207,
+    "en": "Steak is cooked medium.",
+    "zh": "牛排是五分熟。"
+  },
+  {
+    "id": 2208,
+    "en": "The chef washed the dishes.",
+    "zh": "大廚洗了碗。"
+  },
+  {
+    "id": 2209,
+    "en": "The skilled chef watered the garden.",
+    "zh": "熟練的大廚給花園澆了水。"
+  },
+  {
+    "id": 2210,
+    "en": "Pack.",
+    "zh": "打包行李。"
+  },
+  {
+    "id": 2211,
+    "en": "Text back.",
+    "zh": "收到記得回訊告知。"
+  },
+  {
+    "id": 2212,
+    "en": "Have great fun.",
+    "zh": "祝你們派對玩得痛快盡興。"
+  },
+  {
+    "id": 2213,
+    "en": "Salad is very fresh.",
+    "zh": "沙拉非常新鮮。"
+  },
+  {
+    "id": 2214,
+    "en": "The chef checked the schedule.",
+    "zh": "大廚確認了行程表。"
+  },
+  {
+    "id": 2215,
+    "en": "The skilled chef planted green trees.",
+    "zh": "熟練的大廚種了綠樹。"
+  },
+  {
+    "id": 2216,
+    "en": "Unpack.",
+    "zh": "拆箱整理。"
+  },
+  {
+    "id": 2217,
+    "en": "Report back.",
+    "zh": "調查完畢回營報告。"
+  },
+  {
+    "id": 2218,
+    "en": "Have sweet dreams.",
+    "zh": "祝你整夜好眠夜夢甜美。"
+  },
+  {
+    "id": 2219,
+    "en": "Pizza is ready now.",
+    "zh": "披薩做好了。"
+  },
+  {
+    "id": 2220,
+    "en": "The chef solved the puzzle.",
+    "zh": "大廚解開了謎題。"
+  },
+  {
+    "id": 2221,
+    "en": "The skilled chef repaired the car.",
+    "zh": "熟練的大廚修了車。"
+  },
+  {
+    "id": 2222,
+    "en": "Load.",
+    "zh": "裝載貨物。"
+  },
+  {
+    "id": 2223,
+    "en": "Come along.",
+    "zh": "一起跟上結伴同行。"
+  },
+  {
+    "id": 2224,
+    "en": "Sleep very well.",
+    "zh": "祝你今晚睡得安穩香甜。"
+  },
+  {
+    "id": 2225,
+    "en": "Beer is ice cold.",
+    "zh": "啤酒非常冰涼。"
+  },
+  {
+    "id": 2226,
+    "en": "The chef won the game.",
+    "zh": "大廚贏得了比賽。"
+  },
+  {
+    "id": 2227,
+    "en": "The skilled chef washed the dishes.",
+    "zh": "熟練的大廚洗了碗。"
+  },
+  {
+    "id": 2228,
+    "en": "Unload.",
+    "zh": "卸下貨物。"
+  },
+  {
+    "id": 2229,
+    "en": "Tag along.",
+    "zh": "我也想跟著去湊熱鬧。"
+  },
+  {
+    "id": 2230,
+    "en": "Rest in peace.",
+    "zh": "願逝者靈魂安息得享天國。"
+  },
+  {
+    "id": 2231,
+    "en": "Wine tastes very smooth.",
+    "zh": "這酒喝起來很順口。"
+  },
+  {
+    "id": 2232,
+    "en": "The chef passed the exam.",
+    "zh": "大廚通過了考試。"
+  },
+  {
+    "id": 2233,
+    "en": "The skilled chef solved the problem.",
+    "zh": "熟練的大廚解決了問題。"
+  },
+  {
+    "id": 2234,
+    "en": "Check.",
+    "zh": "檢查核對。"
+  },
+  {
+    "id": 2235,
+    "en": "Move along!",
+    "zh": "請往前走勿逗留！"
+  },
+  {
+    "id": 2236,
+    "en": "Long live freedom!",
+    "zh": "自由萬歲光芒普照！"
+  },
+  {
+    "id": 2237,
+    "en": "Table for two please.",
+    "zh": "兩位用餐，謝謝。"
+  },
+  {
+    "id": 2238,
+    "en": "The nurse cleaned the house.",
+    "zh": "護理師打掃了房子。"
+  },
+  {
+    "id": 2239,
+    "en": "The skilled chef won the prize.",
+    "zh": "熟練的大廚得獎了。"
+  },
+  {
+    "id": 2240,
+    "en": "Test.",
+    "zh": "測試看看。"
+  },
+  {
+    "id": 2241,
+    "en": "Stop by.",
+    "zh": "順道順路過來坐坐。"
+  },
+  {
+    "id": 2242,
+    "en": "Long live peace!",
+    "zh": "世界和平萬歲遠離戰火！"
+  },
+  {
+    "id": 2243,
+    "en": "Table for four please.",
+    "zh": "四位用餐，謝謝。"
+  },
+  {
+    "id": 2244,
+    "en": "The nurse cooked the dinner.",
+    "zh": "護理師煮了晚餐。"
+  },
+  {
+    "id": 2245,
+    "en": "The skilled chef passed the test.",
+    "zh": "熟練的大廚通過了測驗。"
+  },
+  {
+    "id": 2246,
+    "en": "Verify.",
+    "zh": "驗證真偽。"
+  },
+  {
+    "id": 2247,
+    "en": "Check in.",
+    "zh": "辦理飯店報到入住。"
+  },
+  {
+    "id": 2248,
+    "en": "Fight the good-fight.",
+    "zh": "為正義理念打美好的仗。"
+  },
+  {
+    "id": 2249,
+    "en": "Check the bill please.",
+    "zh": "請買單（結帳）。"
+  },
+  {
+    "id": 2250,
+    "en": "The nurse read the newspaper.",
+    "zh": "護理師讀了報紙。"
+  },
+  {
+    "id": 2251,
+    "en": "The skilled chef finished the job.",
+    "zh": "熟練的大廚完成了工作。"
+  },
+  {
+    "id": 2252,
+    "en": "Confirm.",
+    "zh": "確認無誤。"
+  },
+  {
+    "id": 2253,
+    "en": "Check out.",
+    "zh": "退房辦理結帳離開。"
+  },
+  {
+    "id": 2254,
+    "en": "Never look back.",
+    "zh": "勇往直前，絕不回頭。"
+  },
+  {
+    "id": 2255,
+    "en": "Keep the receipt safe.",
+    "zh": "請收好收據。"
+  },
+  {
+    "id": 2256,
+    "en": "The nurse wrote a letter.",
+    "zh": "護理師寫了一封信。"
+  },
+  {
+    "id": 2257,
+    "en": "The skilled chef saved the day.",
+    "zh": "熟練的大廚及時化解了危機。"
+  },
+  {
+    "id": 2258,
+    "en": "Review.",
+    "zh": "複習。 / 審查。"
+  },
+  {
+    "id": 2259,
+    "en": "Log in.",
+    "zh": "輸入帳號登入系統。"
+  },
+  {
+    "id": 2260,
+    "en": "Always be kind.",
+    "zh": "永遠保持良善。"
+  },
+  {
+    "id": 2261,
+    "en": "Pay with credit card.",
+    "zh": "用信用卡付款。"
+  },
+  {
+    "id": 2262,
+    "en": "The nurse drove the car.",
+    "zh": "護理師開了車。"
+  },
+  {
+    "id": 2263,
+    "en": "The brave firefighter cleaned the house.",
+    "zh": "勇敢的消防員打掃了房子。"
+  },
+  {
+    "id": 2264,
+    "en": "Inspect.",
+    "zh": "詳細視察。"
+  },
+  {
+    "id": 2265,
+    "en": "Log out.",
+    "zh": "使用完畢安全登出。"
+  },
+  {
+    "id": 2266,
+    "en": "Always be honest.",
+    "zh": "永遠做個誠實的人。"
+  },
+  {
+    "id": 2267,
+    "en": "Pay with mobile phone.",
+    "zh": "用手機感應付款。"
+  },
+  {
+    "id": 2268,
+    "en": "The nurse bought a ticket.",
+    "zh": "護理師買了一張票。"
+  },
+  {
+    "id": 2269,
+    "en": "The brave firefighter cooked the dinner.",
+    "zh": "勇敢的消防員煮了晚餐。"
+  },
+  {
+    "id": 2270,
+    "en": "Correct.",
+    "zh": "修正錯誤。 / 正確。"
+  },
+  {
+    "id": 2271,
+    "en": "Turn on.",
+    "zh": "請打開電源開關。"
+  },
+  {
+    "id": 2272,
+    "en": "Always do good.",
+    "zh": "隨時行善做好事。"
+  },
+  {
+    "id": 2273,
+    "en": "Store closes at ten.",
+    "zh": "商店十點打烊。"
+  },
+  {
+    "id": 2274,
+    "en": "The nurse opened the door.",
+    "zh": "護理師開了門。"
+  },
+  {
+    "id": 2275,
+    "en": "The brave firefighter read the book.",
+    "zh": "勇敢的消防員讀了這本書。"
+  },
+  {
+    "id": 2276,
+    "en": "Update.",
+    "zh": "更新資料。"
+  },
+  {
+    "id": 2277,
+    "en": "Turn off.",
+    "zh": "隨手關閉電源開關。"
+  },
+  {
+    "id": 2278,
+    "en": "Stay curious always.",
+    "zh": "永遠保持好奇心。"
+  },
+  {
+    "id": 2279,
+    "en": "Store opens at nine.",
+    "zh": "商店九點開門。"
+  },
+  {
+    "id": 2280,
+    "en": "The nurse closed the window.",
+    "zh": "護理師關上了窗戶。"
+  },
+  {
+    "id": 2281,
+    "en": "The brave firefighter wrote the letter.",
+    "zh": "勇敢的消防員寫了這封信。"
+  },
+  {
+    "id": 2282,
+    "en": "Save.",
+    "zh": "儲存檔案。 / 存錢。"
+  },
+  {
+    "id": 2283,
+    "en": "Best wishes.",
+    "zh": "致上最誠摯的祝福。"
+  },
+  {
+    "id": 2284,
+    "en": "Keep smiling always.",
+    "zh": "永遠保持微笑。"
+  },
+  {
+    "id": 2285,
+    "en": "Sale ends this weekend.",
+    "zh": "特賣本週末截止。"
+  },
+  {
+    "id": 2286,
+    "en": "The nurse locked the gate.",
+    "zh": "護理師鎖上了大門。"
+  },
+  {
+    "id": 2287,
+    "en": "The brave firefighter drove the car.",
+    "zh": "勇敢的消防員開了車。"
+  },
+  {
+    "id": 2288,
+    "en": "Delete.",
+    "zh": "刪除檔案。"
+  },
+  {
+    "id": 2289,
+    "en": "Safe travels.",
+    "zh": "祝你旅途一路平安。"
+  },
+  {
+    "id": 2290,
+    "en": "Love conquers all.",
+    "zh": "愛能克服一切。"
+  },
+  {
+    "id": 2291,
+    "en": "Discount applies to all.",
+    "zh": "全館商品皆享折扣。"
+  },
+  {
+    "id": 2292,
+    "en": "The nurse drank hot coffee.",
+    "zh": "護理師喝了熱咖啡。"
+  },
+  {
+    "id": 2293,
+    "en": "The brave firefighter bought the ticket.",
+    "zh": "勇敢的消防員買了這張票。"
+  },
+  {
+    "id": 2294,
+    "en": "Send.",
+    "zh": "發送出去。"
+  },
+  {
+    "id": 2295,
+    "en": "Nice shot!",
+    "zh": "好球！射得太棒了！"
+  },
+  {
+    "id": 2296,
+    "en": "Truth will prevail.",
+    "zh": "真理終將得勝。"
+  },
+  {
+    "id": 2297,
+    "en": "Buy one get one!",
+    "zh": "買一送一！"
+  },
+  {
+    "id": 2298,
+    "en": "The nurse drank green tea.",
+    "zh": "護理師喝了綠茶。"
+  },
+  {
+    "id": 2299,
+    "en": "The brave firefighter opened the door.",
+    "zh": "勇敢的消防員開了門。"
+  },
+  {
+    "id": 2300,
+    "en": "Submit.",
+    "zh": "提交送出。"
+  },
+  {
+    "id": 2301,
+    "en": "Great job!",
+    "zh": "表現得非常出色！"
+  },
+  {
+    "id": 2302,
+    "en": "Faith moves mountains.",
+    "zh": "堅定信心能移山填海。"
+  },
+  {
+    "id": 2303,
+    "en": "Price is very cheap.",
+    "zh": "價格非常便宜。"
+  },
+  {
+    "id": 2304,
+    "en": "The nurse ate fresh fruit.",
+    "zh": "護理師吃了新鮮水果。"
+  },
+  {
+    "id": 2305,
+    "en": "The brave firefighter closed the window.",
+    "zh": "勇敢的消防員關上了窗戶。"
+  },
+  {
+    "id": 2306,
+    "en": "Approve.",
+    "zh": "批准同意。"
+  },
+  {
+    "id": 2307,
+    "en": "Good point.",
+    "zh": "說得很有道理。"
+  },
+  {
+    "id": 2308,
+    "en": "Hope never dies.",
+    "zh": "心中永遠保有希望。"
+  },
+  {
+    "id": 2309,
+    "en": "Price is too high.",
+    "zh": "價格太高了。"
+  },
+  {
+    "id": 2310,
+    "en": "The nurse ate warm bread.",
+    "zh": "護理師吃了溫熱的麵包。"
+  },
+  {
+    "id": 2311,
+    "en": "The brave firefighter locked the gate.",
+    "zh": "勇敢的消防員鎖上了大門。"
+  },
+  {
+    "id": 2312,
+    "en": "Reject.",
+    "zh": "駁回拒絕。"
+  },
+  {
+    "id": 2313,
+    "en": "So true.",
+    "zh": "實在是太真實了。"
+  },
+  {
+    "id": 2314,
+    "en": "Time is gold.",
+    "zh": "時間就是金錢（一寸光陰一寸金）。"
+  },
+  {
+    "id": 2315,
+    "en": "Quality is very good.",
+    "zh": "品質非常好。"
+  },
+  {
+    "id": 2316,
+    "en": "The nurse watched the news.",
+    "zh": "護理師看了新聞。"
+  },
+  {
+    "id": 2317,
+    "en": "The brave firefighter drank hot tea.",
+    "zh": "勇敢的消防員喝了熱茶。"
+  },
+  {
+    "id": 2318,
+    "en": "Sign.",
+    "zh": "簽名簽署。"
+  },
+  {
+    "id": 2319,
+    "en": "Not now.",
+    "zh": "現在正忙不是時候。"
+  },
+  {
+    "id": 2320,
+    "en": "Water is life.",
+    "zh": "水是孕育萬物生命之源。"
+  },
+  {
+    "id": 2321,
+    "en": "Quality is our priority.",
+    "zh": "品質是我們的第一要務。"
+  },
+  {
+    "id": 2322,
+    "en": "The nurse listened to music.",
+    "zh": "護理師聽了音樂。"
+  },
+  {
+    "id": 2323,
+    "en": "The brave firefighter drank black coffee.",
+    "zh": "勇敢的消防員喝了黑咖啡。"
+  },
+  {
+    "id": 2324,
+    "en": "Seal.",
+    "zh": "封存印蓋。"
+  },
+  {
+    "id": 2325,
+    "en": "Not here.",
+    "zh": "不在這裡。"
+  },
+  {
+    "id": 2326,
+    "en": "Health is wealth.",
+    "zh": "健康就是財富。"
+  },
+  {
+    "id": 2327,
+    "en": "Speed is very important.",
+    "zh": "速度非常重要。"
+  },
+  {
+    "id": 2328,
+    "en": "The nurse played the piano.",
+    "zh": "護理師彈了鋼琴。"
+  },
+  {
+    "id": 2329,
+    "en": "The brave firefighter ate fresh fruit.",
+    "zh": "勇敢的消防員吃了新鮮水果。"
+  },
+  {
+    "id": 2330,
+    "en": "Open.",
+    "zh": "打開。"
+  },
+  {
+    "id": 2331,
+    "en": "Not really.",
+    "zh": "倒也不盡然如此。"
+  },
+  {
+    "id": 2332,
+    "en": "Knowledge is light.",
+    "zh": "知識是明燈。"
+  },
+  {
+    "id": 2333,
+    "en": "Accuracy is key here.",
+    "zh": "準確是這裡的關鍵。"
+  },
+  {
+    "id": 2334,
+    "en": "The nurse played the guitar.",
+    "zh": "護理師彈了吉他。"
+  },
+  {
+    "id": 2335,
+    "en": "The brave firefighter ate warm bread.",
+    "zh": "勇敢的消防員吃了溫熱的麵包。"
+  },
+  {
+    "id": 2336,
+    "en": "Close.",
+    "zh": "關上。 / 打烊。"
+  },
+  {
+    "id": 2337,
+    "en": "Not quite.",
+    "zh": "還不完全是這樣。"
+  },
+  {
+    "id": 2338,
+    "en": "Action cures fear.",
+    "zh": "採取行動能克服恐懼。"
+  },
+  {
+    "id": 2339,
+    "en": "Safety comes first always.",
+    "zh": "安全永遠擺第一。"
+  },
+  {
+    "id": 2340,
+    "en": "The nurse helped the friend.",
+    "zh": "護理師幫助了朋友。"
+  },
+  {
+    "id": 2341,
+    "en": "The brave firefighter watched the news.",
+    "zh": "勇敢的消防員看了新聞。"
+  },
+  {
+    "id": 2342,
+    "en": "Shut.",
+    "zh": "閉嘴！ / 關上！"
+  },
+  {
+    "id": 2343,
+    "en": "Never again!",
+    "zh": "下次絕對不再犯了！"
+  },
+  {
+    "id": 2344,
+    "en": "Courage overcomes fear.",
+    "zh": "勇氣能戰勝恐懼。"
+  },
+  {
+    "id": 2345,
+    "en": "Customer satisfaction matters most.",
+    "zh": "顧客滿意度最重要。"
+  },
+  {
+    "id": 2346,
+    "en": "The nurse helped the patient.",
+    "zh": "護理師照顧了病患。"
+  },
+  {
+    "id": 2347,
+    "en": "The brave firefighter listened to music.",
+    "zh": "勇敢的消防員聽了音樂。"
+  },
+  {
+    "id": 2348,
+    "en": "Lock.",
+    "zh": "鎖門。"
+  },
+  {
+    "id": 2349,
+    "en": "Always remember.",
+    "zh": "務必時時刻刻銘記。"
+  },
+  {
+    "id": 2350,
+    "en": "Peace begins here.",
+    "zh": "和平從這裡開始。"
+  },
+  {
+    "id": 2351,
+    "en": "Teamwork makes dream work.",
+    "zh": "團隊合作成就夢想。"
+  },
+  {
+    "id": 2352,
+    "en": "The nurse visited the museum.",
+    "zh": "護理師參觀了博物館。"
+  },
+  {
+    "id": 2353,
+    "en": "The brave firefighter played the piano.",
+    "zh": "勇敢的消防員彈了鋼琴。"
+  },
+  {
+    "id": 2354,
+    "en": "Unlock.",
+    "zh": "解開門鎖。"
+  },
+  {
+    "id": 2355,
+    "en": "Be brave.",
+    "zh": "勇敢一點別害怕。"
+  },
+  {
+    "id": 2356,
+    "en": "Joy fills hearts.",
+    "zh": "心中充滿了喜悅。"
+  },
+  {
+    "id": 2357,
+    "en": "Practice leads to success.",
+    "zh": "不斷練習通往成功。"
+  },
+  {
+    "id": 2358,
+    "en": "The nurse climbed the mountain.",
+    "zh": "護理師去爬了山。"
+  },
+  {
+    "id": 2359,
+    "en": "The brave firefighter played the guitar.",
+    "zh": "勇敢的消防員彈了吉他。"
+  },
+  {
+    "id": 2360,
+    "en": "Search.",
+    "zh": "搜尋查找。"
+  },
+  {
+    "id": 2361,
+    "en": "Be honest.",
+    "zh": "請坦誠相對莫說謊。"
+  },
+  {
+    "id": 2362,
+    "en": "Spring brings life.",
+    "zh": "春天帶來了生機。"
+  },
+  {
+    "id": 2363,
+    "en": "Train arrives on time.",
+    "zh": "火車準時抵達。"
+  },
+  {
+    "id": 2364,
+    "en": "The nurse walked the dog.",
+    "zh": "護理師去遛了狗。"
+  },
+  {
+    "id": 2365,
+    "en": "The brave firefighter helped the patient.",
+    "zh": "勇敢的消防員照顧了病患。"
+  },
+  {
+    "id": 2366,
+    "en": "Find.",
+    "zh": "找出來。"
+  },
+  {
+    "id": 2367,
+    "en": "Be kind.",
+    "zh": "待人慈悲溫和行善。"
+  },
+  {
+    "id": 2368,
+    "en": "Summer brings heat.",
+    "zh": "夏天帶來了熾熱。"
+  },
+  {
+    "id": 2369,
+    "en": "Flight departed on schedule.",
+    "zh": "航班準時起飛。"
+  },
+  {
+    "id": 2370,
+    "en": "The nurse watered the flowers.",
+    "zh": "護理師給花澆了水。"
+  },
+  {
+    "id": 2371,
+    "en": "The brave firefighter visited the museum.",
+    "zh": "勇敢的消防員參觀了博物館。"
+  },
+  {
+    "id": 2372,
+    "en": "Track.",
+    "zh": "追蹤進度。"
+  },
+  {
+    "id": 2373,
+    "en": "Be strong.",
+    "zh": "挺起胸膛勇敢堅強。"
+  },
+  {
+    "id": 2374,
+    "en": "Autumn brings harvests.",
+    "zh": "秋天帶來了豐收。"
+  },
+  {
+    "id": 2375,
+    "en": "Bus stops right here.",
+    "zh": "公車停在這裡。"
+  },
+  {
+    "id": 2376,
+    "en": "The nurse planted some seeds.",
+    "zh": "護理師播下了種子。"
+  },
+  {
+    "id": 2377,
+    "en": "The brave firefighter climbed the mountain.",
+    "zh": "勇敢的消防員去爬了山。"
+  },
+  {
+    "id": 2378,
+    "en": "Measure.",
+    "zh": "測量尺寸。"
+  },
+  {
+    "id": 2379,
+    "en": "Look alive!",
+    "zh": "打起精神機靈點！"
+  },
+  {
+    "id": 2380,
+    "en": "Winter brings snow.",
+    "zh": "冬天帶來了白雪。"
+  },
+  {
+    "id": 2381,
+    "en": "Taxi is waiting outside.",
+    "zh": "計程車在外面等候。"
+  },
+  {
+    "id": 2382,
+    "en": "The nurse repaired the roof.",
+    "zh": "護理師修了屋頂。"
+  },
+  {
+    "id": 2383,
+    "en": "The brave firefighter walked the dog.",
+    "zh": "勇敢的消防員去遛了狗。"
+  },
+  {
+    "id": 2384,
+    "en": "Weigh.",
+    "zh": "稱重量。"
+  },
+  {
+    "id": 2385,
+    "en": "Sounds good.",
+    "zh": "聽起來挺不錯的。"
+  },
+  {
+    "id": 2386,
+    "en": "Music brings joy.",
+    "zh": "音樂帶來了歡樂。"
+  },
+  {
+    "id": 2387,
+    "en": "Subway runs every minute.",
+    "zh": "地鐵每分鐘都有一班。"
+  },
+  {
+    "id": 2388,
+    "en": "The nurse washed the dishes.",
+    "zh": "護理師洗了碗。"
+  },
+  {
+    "id": 2389,
+    "en": "The brave firefighter watered the garden.",
+    "zh": "勇敢的消防員給花園澆了水。"
+  },
+  {
+    "id": 2390,
+    "en": "Count.",
+    "zh": "計數盤點。"
+  },
+  {
+    "id": 2391,
+    "en": "Looks great!",
+    "zh": "看起來賣相真棒！"
+  },
+  {
+    "id": 2392,
+    "en": "Books open minds.",
+    "zh": "閱讀能開拓心靈與眼界。"
+  },
+  {
+    "id": 2393,
+    "en": "Traffic is very heavy.",
+    "zh": "交通非常壅塞（塞車嚴重）。"
+  },
+  {
+    "id": 2394,
+    "en": "The nurse checked the schedule.",
+    "zh": "護理師確認了行程表。"
+  },
+  {
+    "id": 2395,
+    "en": "The brave firefighter planted green trees.",
+    "zh": "勇敢的消防員種了綠樹。"
+  },
+  {
+    "id": 2396,
+    "en": "Calculate.",
+    "zh": "精算一下。"
+  },
+  {
+    "id": 2397,
+    "en": "Tastes delicious!",
+    "zh": "嚐起來真是絕品！"
+  },
+  {
+    "id": 2398,
+    "en": "Friends make memories.",
+    "zh": "朋友共同創造了美好回憶。"
+  },
+  {
+    "id": 2399,
+    "en": "Road is very slippery.",
+    "zh": "路面非常濕滑。"
+  },
+  {
+    "id": 2400,
+    "en": "The nurse solved the puzzle.",
+    "zh": "護理師解開了謎題。"
+  },
+  {
+    "id": 2401,
+    "en": "The brave firefighter repaired the car.",
+    "zh": "勇敢的消防員修了車。"
+  },
+  {
+    "id": 2402,
+    "en": "Estimate.",
+    "zh": "粗略估計。"
+  },
+  {
+    "id": 2403,
+    "en": "Smells wonderful!",
+    "zh": "聞起來好香啊！"
+  },
+  {
+    "id": 2404,
+    "en": "Cats drink milk.",
+    "zh": "貓咪喜歡喝牛奶。"
+  },
+  {
+    "id": 2405,
+    "en": "Bridge is under repair.",
+    "zh": "橋梁正在整修維護中。"
+  },
+  {
+    "id": 2406,
+    "en": "The nurse won the game.",
+    "zh": "護理師贏得了比賽。"
+  },
+  {
+    "id": 2407,
+    "en": "The brave firefighter washed the dishes.",
+    "zh": "勇敢的消防員洗了碗。"
+  },
+  {
+    "id": 2408,
+    "en": "Budget.",
+    "zh": "編列預算。"
+  },
+  {
+    "id": 2409,
+    "en": "Feels good.",
+    "zh": "感覺通體舒暢極了。"
+  },
+  {
+    "id": 2410,
+    "en": "Dogs eat bones.",
+    "zh": "狗狗愛啃骨頭。"
+  },
+  {
+    "id": 2411,
+    "en": "Follow the green arrow.",
+    "zh": "跟著綠色箭頭走。"
+  },
+  {
+    "id": 2412,
+    "en": "The nurse passed the exam.",
+    "zh": "護理師通過了考試。"
+  },
+  {
+    "id": 2413,
+    "en": "The brave firefighter solved the problem.",
+    "zh": "勇敢的消防員解決了問題。"
+  },
+  {
+    "id": 2414,
+    "en": "Invest.",
+    "zh": "進行投資。"
+  },
+  {
+    "id": 2415,
+    "en": "Seems fair.",
+    "zh": "條件聽起來挺公道。"
+  },
+  {
+    "id": 2416,
+    "en": "Birds build nests.",
+    "zh": "鳥兒築巢繁衍後代。"
+  },
+  {
+    "id": 2417,
+    "en": "Follow the blue line.",
+    "zh": "沿著藍線走。"
+  },
+  {
+    "id": 2418,
+    "en": "The farmer cleaned the house.",
+    "zh": "農夫打掃了房子。"
+  },
+  {
+    "id": 2419,
+    "en": "The brave firefighter won the prize.",
+    "zh": "勇敢的消防員得獎了。"
+  },
+  {
+    "id": 2420,
+    "en": "Pay.",
+    "zh": "付款結帳。"
+  },
+  {
+    "id": 2421,
+    "en": "Seems right.",
+    "zh": "看來推斷方向沒錯。"
+  },
+  {
+    "id": 2422,
+    "en": "Fish swim fast.",
+    "zh": "魚兒在水中游得飛快。"
+  },
+  {
+    "id": 2423,
+    "en": "Turn left at corner.",
+    "zh": "在轉角處向左轉。"
+  },
+  {
+    "id": 2424,
+    "en": "The farmer cooked the dinner.",
+    "zh": "農夫煮了晚餐。"
+  },
+  {
+    "id": 2425,
+    "en": "The brave firefighter passed the test.",
+    "zh": "勇敢的消防員通過了測驗。"
+  },
+  {
+    "id": 2426,
+    "en": "Right!",
+    "zh": "對極了！"
+  },
+  {
+    "id": 2427,
+    "en": "Works well.",
+    "zh": "運作得非常順暢。"
+  },
+  {
+    "id": 2428,
+    "en": "Horses run fast.",
+    "zh": "駿馬在草原奔馳。"
+  },
+  {
+    "id": 2429,
+    "en": "Turn right at light.",
+    "zh": "在紅綠燈處右轉。"
+  },
+  {
+    "id": 2430,
+    "en": "The farmer read the newspaper.",
+    "zh": "農夫讀了報紙。"
+  },
+  {
+    "id": 2431,
+    "en": "The brave firefighter finished the job.",
+    "zh": "勇敢的消防員完成了工作。"
+  },
+  {
+    "id": 2432,
+    "en": "True.",
+    "zh": "確實如此。 / 真實。"
+  },
+  {
+    "id": 2433,
+    "en": "Makes sense.",
+    "zh": "這很有邏輯說得通。"
+  },
+  {
+    "id": 2434,
+    "en": "Cows produce milk.",
+    "zh": "乳牛產出香濃牛奶。"
+  },
+  {
+    "id": 2435,
+    "en": "Go straight two blocks.",
+    "zh": "直走兩個街區。"
+  },
+  {
+    "id": 2436,
+    "en": "The farmer wrote a letter.",
+    "zh": "農夫寫了一封信。"
+  },
+  {
+    "id": 2437,
+    "en": "The brave firefighter saved the day.",
+    "zh": "勇敢的消防員及時化解了危機。"
+  },
+  {
+    "id": 2438,
+    "en": "False.",
+    "zh": "錯誤。 / 虛假。"
+  },
+  {
+    "id": 2439,
+    "en": "What happened?",
+    "zh": "到底發生什麼事了？"
+  },
+  {
+    "id": 2440,
+    "en": "Bees collect nectar.",
+    "zh": "蜜蜂辛勤採集花蜜。"
+  },
+  {
+    "id": 2441,
+    "en": "Cross over the bridge.",
+    "zh": "穿過這座橋。"
+  },
+  {
+    "id": 2442,
+    "en": "The farmer drove the car.",
+    "zh": "農夫開了車。"
+  },
+  {
+    "id": 2443,
+    "en": "The friendly nurse cleaned the house.",
+    "zh": "親切的護理師打掃了房子。"
+  },
+  {
+    "id": 2444,
+    "en": "Wrong!",
+    "zh": "錯了！"
+  },
+  {
+    "id": 2445,
+    "en": "Where to?",
+    "zh": "打算前往哪裡呢？"
+  },
+  {
+    "id": 2446,
+    "en": "Spiders spin webs.",
+    "zh": "蜘蛛結網捕捉飛蟲。"
+  },
+  {
+    "id": 2447,
+    "en": "Walk through the park.",
+    "zh": "穿過公園走過去。"
+  },
+  {
+    "id": 2448,
+    "en": "The farmer bought a ticket.",
+    "zh": "農夫買了一張票。"
+  },
+  {
+    "id": 2449,
+    "en": "The friendly nurse cooked the dinner.",
+    "zh": "親切的護理師煮了晚餐。"
+  },
+  {
+    "id": 2450,
+    "en": "Positive.",
+    "zh": "非常肯定。 / 陽性。"
+  },
+  {
+    "id": 2451,
+    "en": "How much?",
+    "zh": "這件總共多少錢？"
+  },
+  {
+    "id": 2452,
+    "en": "Rivers reach seas.",
+    "zh": "百川終將匯入大海。"
+  },
+  {
+    "id": 2453,
+    "en": "Drive along the coast.",
+    "zh": "沿著海岸開車。"
+  },
+  {
+    "id": 2454,
+    "en": "The farmer opened the door.",
+    "zh": "農夫開了門。"
+  },
+  {
+    "id": 2455,
+    "en": "The friendly nurse read the book.",
+    "zh": "親切的護理師讀了這本書。"
+  },
+  {
+    "id": 2456,
+    "en": "Negative.",
+    "zh": "否定。 / 陰性。"
+  },
+  {
+    "id": 2457,
+    "en": "How many?",
+    "zh": "總共需要幾份呢？"
+  },
+  {
+    "id": 2458,
+    "en": "Trees lose leaves.",
+    "zh": "樹木秋天開始落葉。"
+  },
+  {
+    "id": 2459,
+    "en": "Ride along the river.",
+    "zh": "沿著河畔騎車。"
+  },
+  {
+    "id": 2460,
+    "en": "The farmer closed the window.",
+    "zh": "農夫關上了窗戶。"
+  },
+  {
+    "id": 2461,
+    "en": "The friendly nurse wrote the letter.",
+    "zh": "親切的護理師寫了這封信。"
+  },
+  {
+    "id": 2462,
+    "en": "Clear.",
+    "zh": "完全明白。 / 暢通。"
+  },
+  {
+    "id": 2463,
+    "en": "What else?",
+    "zh": "還有其他補充嗎？"
+  },
+  {
+    "id": 2464,
+    "en": "Flowers need sunlight.",
+    "zh": "花朵需要充足陽光。"
+  },
+  {
+    "id": 2465,
+    "en": "Sun shines very brightly.",
+    "zh": "陽光非常耀眼。"
+  },
+  {
+    "id": 2466,
+    "en": "The farmer locked the gate.",
+    "zh": "農夫鎖上了大門。"
+  },
+  {
+    "id": 2467,
+    "en": "The friendly nurse drove the car.",
+    "zh": "親切的護理師開了車。"
+  },
+  {
+    "id": 2468,
+    "en": "Understood.",
+    "zh": "明白了。 / 遵命。"
+  },
+  {
+    "id": 2469,
+    "en": "I know.",
+    "zh": "我早就知道了。"
+  },
+  {
+    "id": 2470,
+    "en": "Plants need water.",
+    "zh": "植物需要定期澆水。"
+  },
+  {
+    "id": 2471,
+    "en": "Moon rises over mountain.",
+    "zh": "月亮從山頂升起。"
+  },
+  {
+    "id": 2472,
+    "en": "The farmer drank hot coffee.",
+    "zh": "農夫喝了熱咖啡。"
+  },
+  {
+    "id": 2473,
+    "en": "The friendly nurse bought the ticket.",
+    "zh": "親切的護理師買了這張票。"
+  },
+  {
+    "id": 2474,
+    "en": "Settled.",
+    "zh": "搞定了。 / 一言為定。"
+  },
+  {
+    "id": 2475,
+    "en": "I understand.",
+    "zh": "我完全理解明白。"
+  },
+  {
+    "id": 2476,
+    "en": "Babies need sleep.",
+    "zh": "嬰幼兒需要充足睡眠。"
+  },
+  {
+    "id": 2477,
+    "en": "Stars sparkle in sky.",
+    "zh": "星星在夜空中閃爍。"
+  },
+  {
+    "id": 2478,
+    "en": "The farmer drank green tea.",
+    "zh": "農夫喝了綠茶。"
+  },
+  {
+    "id": 2479,
+    "en": "The friendly nurse opened the door.",
+    "zh": "親切的護理師開了門。"
+  },
+  {
+    "id": 2480,
+    "en": "Done!",
+    "zh": "完成了！"
+  },
+  {
+    "id": 2481,
+    "en": "I swear.",
+    "zh": "我發誓所言句句屬實。"
+  },
+  {
+    "id": 2482,
+    "en": "Students study hard.",
+    "zh": "學生們認真苦讀功課。"
+  },
+  {
+    "id": 2483,
+    "en": "Wind blows through trees.",
+    "zh": "微風吹過樹林。"
+  },
+  {
+    "id": 2484,
+    "en": "The farmer ate fresh fruit.",
+    "zh": "農夫吃了新鮮水果。"
+  },
+  {
+    "id": 2485,
+    "en": "The friendly nurse closed the window.",
+    "zh": "親切的護理師關上了窗戶。"
+  },
+  {
+    "id": 2486,
+    "en": "Finished!",
+    "zh": "全做完了！"
+  },
+  {
+    "id": 2487,
+    "en": "I apologize.",
+    "zh": "我為此深表歉意。"
+  },
+  {
+    "id": 2488,
+    "en": "Teachers love students.",
+    "zh": "老師關愛每位學生。"
+  },
+  {
+    "id": 2489,
+    "en": "Rain pours from clouds.",
+    "zh": "大雨傾盆而下。"
+  },
+  {
+    "id": 2490,
+    "en": "The farmer ate warm bread.",
+    "zh": "農夫吃了溫熱的麵包。"
+  },
+  {
+    "id": 2491,
+    "en": "The friendly nurse locked the gate.",
+    "zh": "親切的護理師鎖上了大門。"
+  },
+  {
+    "id": 2492,
+    "en": "Complete.",
+    "zh": "完整無缺。 / 結束。"
+  },
+  {
+    "id": 2493,
+    "en": "I surrender!",
+    "zh": "我放棄投降認輸了！"
+  },
+  {
+    "id": 2494,
+    "en": "Doctors save lives.",
+    "zh": "醫生竭盡全力拯救生命。"
+  },
+  {
+    "id": 2495,
+    "en": "Snow covers the ground.",
+    "zh": "積雪覆蓋了地面。"
+  },
+  {
+    "id": 2496,
+    "en": "The farmer watched the news.",
+    "zh": "農夫看了新聞。"
+  },
+  {
+    "id": 2497,
+    "en": "The friendly nurse drank hot tea.",
+    "zh": "親切的護理師喝了熱茶。"
+  },
+  {
+    "id": 2498,
+    "en": "Granted.",
+    "zh": "批准准許。 / 固然如此。"
+  },
+  {
+    "id": 2499,
+    "en": "I refuse.",
+    "zh": "我堅決予以拒絕。"
+  },
+  {
+    "id": 2500,
+    "en": "Nurses care patients.",
+    "zh": "護理師細心照料病患。"
+  }
+]

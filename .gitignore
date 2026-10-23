@@ -1,0 +1,24 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Keystore and Keys backup (Do NOT commit to GitHub)
+*.jks
+*.keystore
+APP_KEYS_BACKUP.txt
+
+# Binary Outputs
+*.apk
+*.aab
+
+# Python cache
+__pycache__/
+*.pyc

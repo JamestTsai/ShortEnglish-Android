@@ -1,0 +1,453 @@
+# ==============================================================================
+# 【AI 完整實作提示詞】從零開始打造《英文口語大師 2500 精選短句》Android 應用程式
+# Target Project: com.jamest9961.shortenglish (ShortEnglish)
+# Modern Tech Stack: Kotlin + Jetpack Compose (Material3) + TextToSpeech + AdMob
+# ==============================================================================
+
+你是一位精通 Android 開發、Jetpack Compose 現代化架構、Google Play 嚴格上架規範與高效能優化的資深首席工程師。
+你的任務是從零開始，依循以下規格與最佳實踐，打造一個效能極致、介面驚豔現代（深色奢華科技風 #0B0F19）、無任何過時崩潰風險的完整 Android 原生應用程式 ——《英文口語大師 2500 精選短句》（Spoken English Master - 2500 Expressions）。
+
+請遵循以下架構與分步說明，生成所有必要的檔案與程式碼：
+
+---
+
+## 目錄導覽
+1. 專案整體規格與核心目標
+2. 完整目錄結構與檔案配置
+3. Gradle 依賴配置與 Google Play 合規優化 (libs.versions.toml / build.gradle.kts)
+4. AndroidManifest.xml 權限與重要防崩潰配置
+5. 核心資料模型與資產管理 (SentenceModel / SentenceRepository / JSON)
+6. 原生文字轉語音引擎 (TtsManager)
+7. 頂部導覽列與全域狀態 (TopNavBar / MainScreen)
+8. 核心畫面一：課本式研讀介面 (TextbookScreen - 左右滑動手勢 / 發音與收藏並列 / 去慢速去掌握)
+9. 核心畫面二：雙重陷阱深度測驗系統 (QuizScreen - 英文題 / 中文題 / 淡雅柔和對錯反饋 / 深度剖析)
+10. 核心畫面三：各種標記管理系統 (NotebookScreen - 收藏夾 / 錯題本 / 勾選批次刪除)
+11. 贊助商橫幅廣告整合 (BottomTestBannerAdView)
+12. 圖標生成與 JSON 導出腳本 (Python Automation Script)
+13. 編譯、打包與 Google Play Release 簽名流程
+
+---
+
+## 1. 專案整體規格與核心目標
+
+- **應用名稱**：英文口語大師 (ShortEnglish)
+- **套件名稱 (Package ID)**：`com.jamest9961.shortenglish`
+- **目標受眾**：希望掌握 2,500 句道地、簡短（全部 6 個英文單字以內）、日常高頻情境美語的學習者。
+- **目標 SDK**：`compileSdk = 36`, `targetSdk = 36`, `minSdk = 24`
+- **Java / Kotlin Toolchain**：Java 17 (JVM Toolchain 17), Kotlin 2.0+
+- **視覺風格**：
+  - 深邃黑藍高級感夜間模式（背景色 `#0B0F19`, 卡片色 `#131B2E`, 邊框 `#1E293B`, 品牌藍 `#2563EB`, 警示紅 `#EF4444`, 收藏金 `#F59E0B`）。
+  - 對錯回饋堅持採用「淡雅柔和背景 + 高對比清晰文字」（對：`#DCFCE7` 淡綠底配 `#14532D` 深綠字；錯：`#FEE2E2` 淡紅底配 `#7F1D1D` 深紅字），絕不使用刺眼高飽和紅綠背景。
+
+---
+
+## 2. 完整目錄結構與檔案配置
+
+```text
+ShortAndroid/
+├── gradle/
+│   ├── wrapper/
+│   └── libs.versions.toml                     <-- 現代化 Version Catalog 依賴管理
+├── build.gradle.kts                           <-- 根目錄建置腳本
+├── settings.gradle.kts                        <-- 模組與倉庫設定
+├── app/
+│   ├── build.gradle.kts                       <-- App 模組建置腳本 (含混淆、縮減與簽名)
+│   ├── proguard-rules.pro                     <-- R8 / ProGuard 混淆規則
+│   ├── release-key.jks                        <-- 上架簽名檔
+│   └── src/
+│       └── main/
+│           ├── AndroidManifest.xml            <-- 清單文件 (含 AdMob App ID 與 WorkManager 防崩潰)
+│           ├── assets/
+│           │   └── sentences_2500.json        <-- 2,500 句完整道地語料庫
+│           ├── java/com/jamest9961/shortenglish/
+│           │   ├── MainActivity.kt            <-- 單一 Activity 進入點 (全螢幕 Edge-to-Edge)
+│           │   ├── data/
+│           │   │   ├── SentenceModel.kt       <-- 資料類別定義 (Item, QuizChoice, Question)
+│           │   │   └── SentenceRepository.kt  <-- 語料庫載入、搜尋過濾、SharedPreferences 持久化
+│           │   ├── sound/
+│           │   │   └── TtsManager.kt          <-- 原生 TextToSpeech 語音合成引擎
+│           │   └── ui/
+│           │       ├── MainScreen.kt          <-- 主骨架畫面 (Scaffold, TopNavBar, BottomAd)
+│           │       ├── TopNavBar.kt           <-- 頂部 Logo、統計數據與 4 大分頁切換列
+│           │       ├── TextbookScreen.kt      <-- 課本式研讀 (核心句、發音+收藏、道地釋義、情境對話)
+│           │       ├── QuizScreen.kt          <-- 測驗系統 (英文題/中文題、防直譯/防混淆陷阱)
+│           │       ├── NotebookScreen.kt      <-- 各種標記 (⭐ 收藏 / ❌ 錯題 雙分頁與批次刪除)
+│           │       └── BannerAdView.kt        <-- Google AdMob 官方橫幅測試廣告
+│           └── res/
+│               ├── drawable/
+│               │   └── ic_app_logo.png        <-- 應用程式頂部 Logo (黑底金邊)
+│               ├── mipmap-xxxhdpi/            <-- 各解析度圖標
+│               └── values/
+│                   ├── strings.xml
+│                   └── themes.xml
+```
+
+---
+
+## 3. Gradle 依賴配置與 Google Play 合規優化
+
+### (1) `gradle/libs.versions.toml`
+```toml
+[versions]
+androidGradlePlugin = "9.0.1"
+androidxCore = "1.18.0"
+androidxLifecycle = "2.10.0"
+androidxActivity = "1.13.0"
+androidxComposeBom = "2026.03.01"
+kotlin = "2.3.20"
+
+[libraries]
+androidx-core-ktx = { module = "androidx.core:core-ktx", version.ref = "androidxCore" }
+androidx-activity-compose = { module = "androidx.activity:activity-compose", version.ref = "androidxActivity" }
+androidx-compose-bom = { group = "androidx.compose", name = "compose-bom", version.ref = "androidxComposeBom" }
+androidx-compose-material3 = { group = "androidx.compose.material3", name = "material3" }
+androidx-compose-ui = { group = "androidx.compose.ui", name = "ui" }
+androidx-compose-ui-tooling-preview = { group = "androidx.compose.ui", name = "ui-tooling-preview" }
+androidx-compose-ui-tooling = { group = "androidx.compose.ui", name = "ui-tooling" }
+androidx-lifecycle-runtime-compose = { module = "androidx.lifecycle:lifecycle-runtime-compose", version.ref = "androidxLifecycle" }
+androidx-lifecycle-runtime-ktx = { module = "androidx.lifecycle:lifecycle-runtime-ktx", version.ref = "androidxLifecycle" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "androidGradlePlugin" }
+compose-compiler = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
+kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
+```
+
+### (2) `app/build.gradle.kts`
+重點注意事項：
+1. **強制指定安全 non-vulnerable 的 Fragment 與 WorkManager 版本**：防止 Google Play 審查回報安全性警示。
+2. **Release 混淆壓縮**：啟用 `isMinifyEnabled = true` 與 `isShrinkResources = true`，大幅將 APK 瘦身至 3.3MB。
+3. **NDK 符號表**：設定 `ndk.debugSymbolLevel = "SYMBOL_TABLE"` 確保 Play Console 崩潰堆疊解析。
+
+```kotlin
+plugins {
+    alias(libs.plugins.android.application)
+    alias(libs.plugins.compose.compiler)
+    alias(libs.plugins.kotlin.serialization)
+}
+
+android {
+    namespace = "com.jamest9961.shortenglish"
+    compileSdk = 36
+
+    defaultConfig {
+        applicationId = "com.jamest9961.shortenglish"
+        minSdk = 24
+        targetSdk = 36
+        versionCode = 1
+        versionName = "1.0.0"
+    }
+
+    signingConfigs {
+        create("release") {
+            storeFile = file("release-key.jks")
+            storePassword = "jamest9961Grammar"
+            keyAlias = "upload"
+            keyPassword = "jamest9961Grammar"
+        }
+    }
+
+    buildTypes {
+        release {
+            signingConfig = signingConfigs.getByName("release")
+            isMinifyEnabled = true
+            isShrinkResources = true
+            proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
+            ndk {
+                debugSymbolLevel = "SYMBOL_TABLE"
+            }
+        }
+        debug {
+            isMinifyEnabled = false
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+
+    buildFeatures {
+        compose = true
+    }
+
+    packaging {
+        resources {
+            excludes += "/META-INF/{AL2.0,LGPL2.1}"
+        }
+    }
+}
+
+// 嚴格強制 Fragment 與 WorkManager 版本，防止過時漏洞警告
+configurations.all {
+    resolutionStrategy {
+        force("androidx.fragment:fragment:1.8.6")
+        force("androidx.fragment:fragment-ktx:1.8.6")
+        force("androidx.work:work-runtime:2.9.1")
+        force("androidx.work:work-runtime-ktx:2.9.1")
+    }
+}
+
+kotlin {
+    jvmToolchain(17)
+}
+
+dependencies {
+    val composeBom = platform(libs.androidx.compose.bom)
+    implementation(composeBom)
+
+    implementation(libs.androidx.core.ktx)
+    implementation(libs.androidx.lifecycle.runtime.ktx)
+    implementation(libs.androidx.activity.compose)
+    implementation(libs.androidx.lifecycle.runtime.compose)
+    implementation(libs.androidx.compose.ui)
+    implementation(libs.androidx.compose.ui.tooling.preview)
+    implementation(libs.androidx.compose.material3)
+    debugImplementation(libs.androidx.compose.ui.tooling)
+
+    // Google AdMob SDK
+    implementation("com.google.android.gms:play-services-ads:23.6.0")
+
+    // KotlinX Serialization JSON
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.3")
+}
+```
+
+---
+
+## 4. AndroidManifest.xml 關鍵安全配置
+
+1. **禁用 WorkManager 自動初始化**：在 Android 14/15/16 審核環境下，某些自動初始化程式會觸發 `SecurityException` 導致啟動閃退，必須於清單中宣告移除。
+2. **軟鍵盤適應**：加入 `android:windowSoftInputMode="adjustResize"`，防止輸入跳轉課號或搜尋時覆蓋操作列。
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:windowSoftInputMode="adjustResize"
+        android:theme="@style/Theme.ShortEnglish">
+
+        <!-- Google AdMob 官方測試 Application ID -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713"/>
+
+        <!-- 禁用 WorkManager 自動初始化，防止審核設備安全異常崩潰 -->
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="${applicationId}.androidx-startup"
+            android:exported="false"
+            tools:node="merge">
+            <meta-data
+                android:name="androidx.work.WorkManagerInitializer"
+                android:value="androidx.startup"
+                tools:node="remove" />
+        </provider>
+
+        <activity
+            android:name=".MainActivity"
+            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
+```
+
+---
+
+## 5. 資料模型與資產管理 (SentenceModel / SentenceRepository)
+
+### (1) 資料欄位定義 (`SentenceModel.kt`)
+語料庫每筆資料包含以下 10 個核心欄位：
+- `id` (Int): 1 到 2500 之題號
+- `en` (String): 核心道地英文短句（全小於等於 6 個單字）
+- `zh` (String): 簡明精準道地中文翻譯（禁止機翻硬拗）
+- `wordCount` (Int): 單字個數
+- `category` (String): 情境分類標籤（如 `[🛑 拒絕終止]`、`[💼 職場交際]` 等）
+- `spkA` (String): 情境示範對話 A 句
+- `spkB` (String): 情境示範對話 B 句
+- `note` (String): 文化意涵、語用語法解析
+- `litTrapZh` (String): 測驗模式一專用：中文「直譯陷阱題」干擾項
+- `chinglishTrapEn` (String): 測驗模式二專用：中式英文 Chinglish 干擾項
+
+### (2) 資料庫操作 (`SentenceRepository.kt`)
+1. **JSON 載入與關聯快取**：從 `context.assets.open("sentences_2500.json")` 高速反序列化為記憶體中的 `itemsById: Map<Int, SentenceItem>`。
+2. **搜尋與過濾**：
+   - 支援依類別分類篩選。
+   - 搜尋關鍵字支援同時比對英文、中文與題號數字。
+3. **收藏紀錄持久化**：
+   - 使用 `SharedPreferences` 儲存鍵值 `bm_{id}`。
+   - 支援 `toggleBookmark(id)`、`getBookmarkedIds()`、批次刪除 `removeBookmarks(ids)`。
+4. **錯題紀錄持久化**：
+   - 錯題鍵值 `wrong_m1_{id}` 與 `wrong_m2_{id}`。
+   - 答錯時自動登記，並支援在標記頁面多選勾選批次清除 `removeWrongs(ids)`。
+5. **雙模式陷阱題目自動產生器**：
+   - `generateQuizMode1(targetId)`: 隨機選題，組裝【正確中文】+【字面直譯陷阱】+【隨機同類或異類干擾項 x2】，並隨機打散選項順序。
+   - `generateQuizMode2(targetId)`: 組裝【道地正確英文】+【Chinglish 中式直譯陷阱】+【隨機英文干擾項 x2】。
+
+---
+
+## 6. 原生文字轉語音引擎 (TtsManager.kt)
+
+封裝 Android 原生 `TextToSpeech`：
+1. **初始化與語言綁定**：實作 `OnInitListener`，設定語言為 `Locale.US`。
+2. **單句朗讀**：`speak(text: String, slow: Boolean = false)`，語速設為 1.0f。
+3. **情境對話連續發音**：
+   - `speakDialogue(spkA: String, spkB: String)`
+   - 提取角色冒號後的句子，發音完 A 句後插入 `playSilentUtterance(400L, QUEUE_ADD)` 停頓 400 毫秒，隨即發音 B 句，模擬真實對話自然流暢節奏。
+4. **生命週期控制**：於 `MainActivity` 之 `onStop` 呼叫 `stop()`，於 `onDestroy` 呼叫 `shutdown()` 防止記憶體洩漏。
+
+---
+
+## 7. 頂部導覽列與全域狀態 (TopNavBar / MainScreen)
+
+### 頂部導覽列設計規範 (`TopNavBar.kt`)
+- **Logo 與標題**：左側展示高清黑金 Icon、標題「英文口語大師」與副標「2500 精選短句 (6單字以內)」。
+- **即時數據小膠囊**：右側展示 `⭐ 收藏: N | ❌ 錯題: M`。
+- **4 個模式分頁切換按鈕**：
+  - `[📖 課本研讀]` (寬度佔比 1.0)
+  - `[測驗(英)]` (寬度佔比 1.0)
+  - `[測驗(中)]` (寬度佔比 1.0)
+  - `[各種標記]` (寬度佔比 0.85，醒目紅色標示，提醒用戶複習標記項目)
+
+---
+
+## 8. 核心畫面一：課本式研讀介面 (TextbookScreen.kt)
+
+研讀卡片是全 App 使用頻率最高的核心介面，必須遵循以下版面與互動設計：
+
+1. **頂部控制列**：
+   - 分類下拉選單 (`CategoryMenu`)
+   - 搜尋輸入框 + 搜尋按鈕（可直接搜尋英文單字或中文含義）
+   - 跳轉題號輸入框 + 跳轉按鈕（支援輸入 1~2500 數字直接定位）
+   - **獨立一行之進度標籤**：`第 N / 2500 課 (#N)`（單獨一行清楚呈現，避免與其他按鈕擠壓）
+2. **左右滑動手勢切換 (Horizontal Swipe Gesture)**：
+   - 在卡片區加入 `pointerInput(Unit) { detectHorizontalDragGestures { ... } }`。
+   - 向左滑動超過 50dp 自動切換至「下一課」，向右滑動超過 50dp 自動切換至「上一課」。
+3. **核心短句展示**：
+   - 分類標籤、單字數標籤、特大字體加粗白字短句（24sp）。
+4. **發音與收藏按鈕（並列同列，移除慢速與掌握）**：
+   - `[🔊 朗讀發音]` (品牌藍 `#2563EB`)。
+   - `[⭐ 收藏]`（或 `[★ 已收藏]`，琥珀黃 `#B45309`）**緊鄰於發音按鈕右側**。
+   - 點擊收藏時具有 350ms 的 `CircularProgressIndicator` 動態轉圈效果，並彈出優雅的底部提示訊息（「⭐ 已加入收藏！」/「已取消收藏！」）。
+   - **全面移除 `[🐢 慢速]` 及 `[標記掌握]`，並移除卡片底部原有的獨立操作橫列，讓介面乾淨俐落**。
+5. **道地核心釋義卡片**：
+   - 深藍沉穩底色 (`#172554`) 搭配邊框，顯示最直觀、簡練的中文釋義。
+6. **經典生活對話示範卡片**：
+   - 展示 A/B 角色真實日常對話。
+   - 右上角配置 `[🔊 朗讀對話]` 按鈕，點擊由 TTS 連續朗讀。
+7. **母語思維與深度解析卡片**：
+   - 詳細剖析文化背景、語境意涵與使用禁忌。
+8. **底部導覽列 (同一橫列保證)**：
+   - `[◀ 上一課]`、`[🎲 隨機跳題]`、`[下一課 ▶]` 平分排列於同一橫列。
+
+---
+
+## 9. 核心畫面二：雙重陷阱深度測驗系統 (QuizScreen.kt)
+
+### 測驗系統的核心靈魂在於「精準戳中盲點」：
+1. **模式一：測驗(英) —— 英文出題，中文選答**：
+   - 題目顯示地道英文短句。
+   - 四個選項中必定包含「中式字面直譯陷阱題」（例如 `Enough is enough` 陷阱項為「足夠的就是足夠」），訓練使用者擺脫逐字直譯陋習。
+2. **模式二：測驗(中) —— 中文出題，英文選答**：
+   - 題目顯示中文情境。
+   - 選項中包含常見 Chinglish 陷阱（例如「適可而止」之 Chinglish 陷阱項為 `Stop here immediately` 或 `Enough is plenty`），訓練使用者選出母語者直覺短句。
+3. **回到上一階按鈕**：
+   - 頂部緊湊工具列左側提供 `[◀ 回到上一階]`。
+   - 在「中文題 (模式二)」點擊時回到「英文題 (模式一)」，在「英文題 (模式一)」點擊時回到「課本研讀」。
+4. **作答回饋與色彩哲學**：
+   - 選項背景色絕不用刺眼大紅大綠！
+   - **正解選項**：淡雅薄荷綠底色 (`#DCFCE7`) + 深綠色文字 (`#14532D`) + 綠邊框。
+   - **玩家選錯項目**：淡粉玫瑰紅底色 (`#FEE2E2`) + 深暗紅文字 (`#7F1D1D`) + 紅邊框。
+   - 其餘干擾項保持深灰底色，維持閱讀舒服度。
+5. **深度剖析展開專區**：
+   - 作答完畢後，卡片下方即時列出四個選項的深入剖析（標明 `✅ 正解原因` 與 `❌ 各陷阱的中式直譯破綻`）。
+   - 提供「🔊 播放道地發音」與「下一題 ▶」操作。
+
+---
+
+## 10. 核心畫面三：各種標記管理系統 (NotebookScreen.kt)
+
+1. **純粹的雙分頁架構**：
+   - 僅保留兩大分頁：`⭐ 收藏` 與 `❌ 錯題`（全面移除已掌握清單，讓複習目標極度聚焦）。
+2. **頂部導覽列**：
+   - 顯示當前標籤項目總筆數。
+   - 右側配置 `[◀ 回到上一階]`，一鍵返回課本研讀。
+3. **多選勾選批次刪除 (Batch Checkbox System)**：
+   - 具備 `[全選 / 取消全選]` Checkbox。
+   - 具備醒目紅底 `[🗑 刪除所選 (N)]` 按鈕，可一次性勾選多筆或全部移除收藏或錯題。
+4. **清單列表項目卡片**：
+   - 每個項目卡片皆有左側 Checkbox、題號標籤 (`#0001`)、英文與中文對照。
+   - 卡片右側配置 `[🔊]` 快速發音按鈕與 `[研讀]` 跳轉按鈕（點擊後直接跳轉至課本研讀該題號，並無縫切換至課本模式）。
+
+---
+
+## 11. 贊助商橫幅廣告整合 (BannerAdView.kt)
+
+- 位於畫面最底層（`Scaffold.bottomBar`）。
+- 整合 Google 官方 AdMob Banner 測試單元 ID：`ca-app-pub-3940256099942544/6300978111`。
+- 上方加上 9sp 小字「贊助商廣告 (點擊支持開發者)」，符合 Google Play 廣告展示透明化規範。
+- 採用 `AndroidView` 封裝，並加上 `try-catch` 捕捉所有無網路或 AdMob SDK 例外，確保絕不影響主學習流程。
+
+---
+
+## 12. 圖標生成與 JSON 導出腳本 (Python Automation)
+
+在建立專案資產時，可使用 Python 腳本（需安裝 `Pillow`）一鍵產出所有解析度圖標與 JSON：
+
+```python
+# export_android_assets.py
+from PIL import Image, ImageDraw, ImageFont
+import os, json
+
+# 1. 導出 sentences_2500.json 至 app/src/main/assets/
+# 2. 自動繪製 512x512 高清深黑金邊質感圖標：
+#    - 背景：深黑底色 (#0D0D11)，搭配流金邊框 (#FACC15)
+#    - 上行字：「英文」(純白加粗)
+#    - 下行字：「口語大師」(燦金亮黃)
+# 3. 輸出為 mipmap-mdpi/hdpi/xhdpi/xxhdpi/xxxhdpi 之 ic_launcher.png 與 ic_launcher_round.png
+```
+
+---
+
+## 13. 編譯、打包與 Google Play Release 簽名流程
+
+### (1) 清理與編譯 APK (用於本機快速測試安裝)
+```bash
+./gradlew.bat assembleRelease
+# 產出路徑：app/build/outputs/apk/release/app-release.apk (約 3.3 MB)
+```
+
+### (2) 清理與編譯 Google Play 上架專用 AAB (Android App Bundle)
+```bash
+./gradlew.bat bundleRelease
+# 產出路徑：app/build/outputs/bundle/release/app-release.aab (約 6.7 MB)
+```
+
+---
+
+## 總結執行指令
+
+當 AI 開始生成此專案時，請依據上述各章節順序：
+1. 建立 Gradle 設定檔與清單目錄結構。
+2. 匯入 2500 句 JSON 語料庫至 `app/src/main/assets/`。
+3. 實作 `SentenceModel` 與 `SentenceRepository`。
+4. 實作 `TtsManager` 原生語音模組。
+5. 實作 Compose UI：`TopNavBar`、`TextbookScreen`（發音+收藏並列、手勢滑動、無慢速無掌握）、`QuizScreen`（淡色高對比對錯、深度解析）、`NotebookScreen`（收藏與錯題雙分頁、批次刪除）、`BannerAdView`。
+6. 設定 ProGuard 與簽名檔，並執行 `./gradlew assembleRelease bundleRelease` 完成發布封裝。
+# ==============================================================================
